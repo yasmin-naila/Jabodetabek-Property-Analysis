@@ -85,5 +85,5 @@ Based on the property market analysis in Jabodetabek, the following strategic bu
 
 ## **Author 👩‍💻**
 
-Yasmin Naila Rachmat
+Yasmin Naila Rachmat <br>
 LinkedIn: [Yasmin Naila Rachmat](linkedin.com/in/yasmin-naila)
