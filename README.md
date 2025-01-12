@@ -2,18 +2,17 @@
 
 This notebook is used to analyze the prices and features of houses for sale in Jabodetabek based on data scraped from Rumah123.com.
 ___
-Thinking about buying or selling a home in the bustling Jabodetabek area? This research can help individuals make smart decisions.
 
-The research carefully analyzed a large amount of data about houses in Jabodetabek. It examined how prices change, what factors make some houses more expensive than others (like size, location, and extra features), and how the market differs in different parts of the region.
+Thinking about buying or selling a home in the dynamic Jabodetabek area? 🌆✨ Make informed decisions with this in-depth property analysis! 🧠📊
 
-Who can benefit?
-- 🏘️ **Real estate agents** can use this information to set the right prices for their listings.
-- 🏠 **Homebuyers** can find the perfect home without overpaying, knowing what factors truly impact value.
-- 🏗️ **Developers** can learn where to build new houses that people will actually want to buy.
+This research aims to provide a comprehensive analysis of property data in the Jabodetabek region over two weeks, with the goal of building an interactive dashboard that delivers relevant insights for various stakeholders. The analysis includes measuring price distribution, exploring the correlation between home features and price, and identifying price trends across different areas. It also compares property prices based on facilities, property types, and furniture conditions.
 
-This research goes beyond just looking at price tags. It investigated how factors such as the size of the house, its location, and even if it is furnished affect the price. By using data in a smart way, the research provides valuable insights to help individuals make the best decisions about their property.
+💡 Who Can Benefit?
+- 🏘️ Real Estate Agents: Set competitive, market-optimized prices by understanding trends and correlations.
+- 🏠 Homebuyers: Choose the right property at the right price by knowing what factors truly influence its value.
+- 🏗️ Developers: Plan new projects strategically by identifying areas in high demand based on market trends.
 
-This research provides valuable information to navigate the complexities of the Jabodetabek property market and make confident choices.
+This analysis goes beyond surface-level insights, offering valuable data-driven information that empowers stakeholders to make confident and informed property decisions. 🔍✨
 ___
 ## **Dashboard 📊**
 **[Jabodetabek Property Analysis](https://public.tableau.com/views/JabodetabekPropertyAnalysis/DESCRIPTIVE?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
@@ -86,5 +85,5 @@ Based on the property market analysis in Jabodetabek, the following strategic bu
 
 ## **Author 👩‍💻**
 
-Yasmin Naila Rachmat 
+Yasmin Naila Rachmat
 LinkedIn: [Yasmin Naila Rachmat](linkedin.com/in/yasmin-naila)
