@@ -1,0 +1,1037 @@
+subdistrict,city,land_size_m2,building_size_m2,price_mio,certificate,bathroom,maid_bedroom,carport,maid_bathroom,floor_level,garage,kitchen,bedroom,living_room,dining_room,property_type,furniture,voltage_watt,property_condition,house_facing,water_source,corner_property,road_width,region_type
+Batuceper,Kota Tangerang,57.0,114.0,850.0,SHM,2,1,1,0,2,1,1,3,1,0,House Type 120,Semi Furnished,2200.0,Renovated,Northwest,PAM/PDAM,False,5.0,city
+Kebayoran Lama,Jakarta Selatan,320.0,450.0,4950.0,SHM,3,0,2,0,2,0,1,5,1,0,House Type >300,Unfurnished,4400.0,Well Maintained,Northeast,Groundwater,False,5.0,city
+Cinere,Depok,78.0,36.0,590.0,SHM,1,0,1,0,1,0,1,2,1,0,House Type 36,Unfurnished,1200.0,Renovated,East,Groundwater,False,2.5,city
+Penjaringan,Jakarta Utara,48.0,96.0,1750.0,SHM,2,1,1,0,2,0,1,2,1,0,House Type 120,Unfurnished,2200.0,Well Maintained,South,Groundwater,False,5.0,city
+Setiabudi,Jakarta Selatan,180.0,135.0,6700.0,SHM,1,0,2,0,0,0,1,2,1,0,House Type 200,Unfurnished,4200.0,New,East,Groundwater,False,5.0,city
+Cilandak,Jakarta Selatan,200.0,278.0,4000.0,SHM,4,1,2,1,3,0,1,5,1,0,House Type 300,Unfurnished,4400.0,Renovated,Northwest,Groundwater,False,6.4,city
+Cengkareng,Jakarta Barat,120.0,180.0,6000.0,SHM,11+,1,2,1,2,0,1,9+,1,0,House Type 200,Furnished,2200.0,New,East,Groundwater,False,7.5,city
+Sawah Besar,Jakarta Pusat,184.0,412.0,5800.0,HGB,11+,0,2,0,0,0,1,9+,1,0,House Type >300,Furnished,3300.0,Renovated,North,Groundwater,False,5.0,city
+Tanah Abang,Jakarta Pusat,201.0,310.0,7200.0,SHM,5,2,2,1,2,0,1,3,2,0,House Type >300,Unfurnished,4400.0,New,Northwest,PAM/PDAM,False,5.0,city
+Cilandak,Jakarta Selatan,353.0,415.0,10500.0,SHM,3,1,3,1,2,1,2,4,1,0,House Type >300,Unfurnished,4400.0,Well Maintained,East,Groundwater,False,5.5,city
+Pasar Minggu,Jakarta Selatan,311.0,300.0,3200.0,SHM,4,0,2,0,2,0,1,8,2,0,House Type 300,Unfurnished,4400.0,New,Northeast,Groundwater,False,5.0,city
+Mampang Prapatan,Jakarta Selatan,822.0,400.0,16000.0,SHM,6,3,3,1,2,2,1,5,1,0,House Type >300,Unfurnished,23.0,Need Renovation,North,Groundwater,False,5.0,city
+Tambun Selatan,Kabupaten Bekasi,180.0,127.0,2450.0,SHM,4,0,1,0,2,0,1,4,1,0,House Type 200,Unfurnished,3120.0,Renovated,Northwest,Groundwater,False,5.0,regency
+Cikarang,Kabupaten Bekasi,60.0,102.0,780.0,SHM,3,0,1,0,2,0,1,4,1,1,House Type 120,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,6.0,regency
+Cempaka Putih,Jakarta Pusat,209.0,150.0,4590.0,SHM,2,0,2,0,2,0,1,5,1,0,House Type 200,Unfurnished,10600.0,New,South,PAM/PDAM,False,7.5,city
+Sawah Besar,Jakarta Pusat,184.0,412.0,5800.0,HGB,11+,0,3,0,4,0,1,9+,1,0,House Type >300,Furnished,33000.0,New,North,Groundwater,False,5.0,city
+Palmerah,Jakarta Barat,142.0,350.0,6750.0,SHM,11+,0,2,0,3,0,1,9+,1,0,House Type >300,Furnished,1200.0,Need Renovation,Northwest,Groundwater,False,7.5,city
+Menteng,Jakarta Pusat,920.0,680.0,45000.0,SHM,5,3,4,1,1,3+,2,5,1,2,House Type >300,Unfurnished,10000.0,Well Maintained,Northwest,Groundwater,False,5.5,city
+Bogor Barat,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Cengkareng,Jakarta Barat,120.0,180.0,6000.0,SHM,11+,1,1,1,0,0,1,9+,1,0,House Type 200,Furnished,2200.0,New,East,Groundwater,False,5.0,city
+Tanah Sareal,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Cileungsi,Kabupaten Bogor,60.0,63.0,950.0,SHM,2,0,1,0,0,0,1,3,1,0,House Type 70,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,8.0,regency
+Tanjung Priok,Jakarta Utara,566.0,380.0,12500.0,SHM,7,2,2,1,0,1,1,7,1,0,House Type >300,Furnished,16500.0,Renovated,Southwest,Groundwater,True,5.8,city
+Tanjung Priok,Jakarta Utara,126.0,240.0,3500.0,SHM,3,1,1,0,2.5,0,1,3,1,0,House Type 300,Unfurnished,5500.0,New,South,Groundwater,False,5.0,city
+Tanjung Priok,Jakarta Utara,78.0,53.0,1700.0,SHM,1,1,1,0,1,0,1,2,1,0,House Type 54,Unfurnished,2200.0,Renovated,North,PAM/PDAM,False,2.5,city
+Tanjung Priok,Jakarta Utara,98.0,140.0,2790.0,SHM,2,1,2,1,2,0,1,4,1,0,House Type 200,Semi Furnished,3500.0,Renovated,South,PAM/PDAM,False,5.0,city
+Penjaringan,Jakarta Utara,240.0,240.0,10500.0,SHM,2,1,0,1,2.5,0,1,3,1,0,House Type 300,Semi Furnished,6600.0,Renovated,Northeast,Groundwater,False,6.0,city
+Penjaringan,Jakarta Utara,525.0,700.0,33000.0,HGB,6,3,3,0,0,0,1,5,1,0,House Type >300,Furnished,5500.0,Well Maintained,West,Groundwater,False,7.5,city
+Penjaringan,Jakarta Utara,175.0,350.0,4800.0,SHM,3,1,1,1,2,0,1,4,1,0,House Type >300,Semi Furnished,3300.0,New,Northeast,Groundwater,False,7.5,city
+Tanah Sareal,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Batuceper,Kota Tangerang,84.0,168.0,1550.0,SHM,3,0,0,0,2,0,1,4,1,0,House Type 200,Unfurnished,3500.0,New,North,PAM/PDAM,False,4.2,city
+Bogor Barat,Kota Bogor,136.0,220.0,1590.0,SHM,2,0,2,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Pagedangan,Kabupaten Tangerang,153.0,262.0,7400.0,HGB,5,0,2,0,3,0,1,4,1,0,House Type 300,Unfurnished,10600.0,New,Northwest,Groundwater,False,6.0,regency
+Cakung,Jakarta Timur,505.0,375.0,3320.0,SHM,3,0,1,0,1.5,0,1,4,1,0,House Type >300,Unfurnished,3300.0,New,Northeast,Groundwater,False,5.5,city
+Cengkareng,Jakarta Barat,160.0,145.0,1800.0,SHM,1,0,1,0,0,0,1,1,1,0,House Type 200,Unfurnished,3500.0,Well Maintained,Northeast,Groundwater,False,4.7,city
+Setiabudi,Jakarta Selatan,360.0,235.0,13400.0,SHM,2,0,4,0,0,0,1,2,1,0,House Type 300,Unfurnished,7540.0,New,East,Groundwater,False,5.0,city
+Kebayoran Lama,Jakarta Selatan,352.0,200.0,10000.0,SHM,4,0,3,0,1.5,0,1,6,1,0,House Type 200,Unfurnished,5000.0,New,Northeast,Groundwater,True,6.5,city
+Bogor Barat,Kota Bogor,136.0,220.0,1490.0,SHM,2,0,1,0,0,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,5.0,city
+Pagedangan,Kabupaten Tangerang,414.0,600.0,16000.0,HGB,3,0,0,0,0,0,1,4,1,0,House Type >300,Unfurnished,11584.6,Well Maintained,South,Groundwater,False,5.0,regency
+Ciputat Timur,Tangerang Selatan,570.0,630.0,9500.0,SHM,5,4,10,2,1,0,1,7,1,0,House Type >300,Semi Furnished,16000.0,New,Northwest,Groundwater,False,5.0,city
+Pamulang,Tangerang Selatan,130.0,170.0,1700.0,SHM,2,0,0,0,0,0,1,4,1,0,House Type 200,Semi Furnished,1300.0,Renovated,North,Groundwater,False,3.5,city
+Setiabudi,Jakarta Selatan,1019.0,600.0,67500.0,SHM,5,0,0,0,0,0,1,5,1,0,House Type >300,Unfurnished,23000.0,New,Northwest,Groundwater,False,5.0,city
+Tanah Sareal,Kota Bogor,216.0,290.0,2300.0,SHM,3,1,1,1,2,0,1,3,1,0,House Type 300,Unfurnished,4400.0,Renovated,East,Groundwater,True,5.0,city
+Tanah Sareal,Kota Bogor,136.0,220.0,1400.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Cikarang,Kabupaten Bekasi,60.0,40.0,300.0,SHM,1,0,0,0,0,0,1,2,1,0,House Type 45,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,regency
+Kelapa Dua,Kabupaten Tangerang,60.0,49.0,959.0,SHM,2,0,2,0,0,0,1,2,1,0,House Type 54,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,6.0,regency
+Cipondoh,Kota Tangerang,240.0,125.0,3000.0,SHM,2,1,1,1,2,0,1,2,1,0,House Type 200,Semi Furnished,2200.0,New,Northeast,PAM/PDAM,False,5.0,city
+Cipondoh,Kota Tangerang,240.0,125.0,3000.0,SHM,2,1,1,1,2,0,1,2,1,0,House Type 200,Semi Furnished,2200.0,New,Northeast,PAM/PDAM,False,5.0,city
+Cipondoh,Kota Tangerang,240.0,125.0,3000.0,SHM,2,1,1,1,2,0,1,2,1,0,House Type 200,Semi Furnished,2200.0,New,Northeast,PAM/PDAM,False,5.0,city
+Cipondoh,Kota Tangerang,240.0,125.0,3000.0,SHM,2,1,1,1,2,0,1,2,1,0,House Type 200,Semi Furnished,2200.0,New,Northeast,PAM/PDAM,False,5.0,city
+Cipondoh,Kota Tangerang,240.0,125.0,3000.0,SHM,2,1,1,1,2,0,1,2,1,0,House Type 200,Semi Furnished,2200.0,New,Northeast,PAM/PDAM,False,5.0,city
+Cibinong,Kabupaten Bogor,90.0,102.0,515.0,SHM,2,0,1,0,0,0,1,4,1,0,House Type 120,Unfurnished,1740.0,Renovated,North,Groundwater,False,5.1,regency
+Palmerah,Jakarta Barat,426.0,326.0,7500.0,SHM,11+,0,4,0,2,0,1,9+,1,0,House Type >300,Semi Furnished,8000.0,Renovated,Northeast,Groundwater,False,6.5,city
+Duren Sawit,Jakarta Timur,126.0,250.0,3500.0,SHM,4,1,2,1,0,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,New,Northeast,Groundwater,False,4.5,city
+Tanjung Priok,Jakarta Utara,108.0,231.0,2800.0,SHM,2,1,1,1,0,0,1,3,1,0,House Type 300,Semi Furnished,3500.0,Renovated,North,Groundwater,False,5.0,city
+Duren Sawit,Jakarta Timur,126.0,250.0,3500.0,SHM,4,1,2,1,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,New,Northeast,Groundwater,False,4.5,city
+Bogor Tengah,Kota Bogor,135.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Gunung Sindur,Kabupaten Bogor,60.0,36.0,488.0,Other,1,0,0,0,0,0,1,2,1,0,House Type 36,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,regency
+Gunung Sindur,Kabupaten Bogor,84.0,85.0,999.0,Other,2,0,0,0,0,0,1,3,1,0,House Type 120,Semi Furnished,2200.0,Renovated,Northwest,Groundwater,False,6.0,regency
+Gunung Sindur,Kabupaten Bogor,60.0,57.0,688.0,Other,2,0,0,0,0,0,1,3,1,0,House Type 60,Unfurnished,2200.0,Renovated,South,Groundwater,False,6.0,regency
+Gunung Sindur,Kabupaten Bogor,60.0,59.0,700.0,Other,2,0,0,0,0,0,1,3,1,0,House Type 60,Semi Furnished,2200.0,Renovated,South,Groundwater,False,6.0,regency
+Cakung,Jakarta Timur,90.0,65.0,1350.0,SHM,1,0,2,0,0,0,1,2,1,1,House Type 70,Unfurnished,2200.0,New,East,PAM/PDAM,False,4.5,city
+Makasar,Jakarta Timur,104.0,158.0,2600.0,SHM,2,1,0,0,3,3+,1,3,1,0,House Type 200,Furnished,3820.0,Renovated,Northeast,Groundwater,False,5.0,city
+Ciputat,Tangerang Selatan,179.0,157.0,1380.0,SHM,2,0,2,0,2,0,1,2,1,0,House Type 200,Unfurnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Ciputat,Tangerang Selatan,179.0,157.0,1380.0,Other,2,0,2,0,2,0,1,2,1,0,House Type 200,Unfurnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Ciputat,Tangerang Selatan,179.0,157.0,1380.0,Other,2,0,2,0,2,0,1,2,1,0,House Type 200,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Ciputat,Tangerang Selatan,96.0,150.0,1280.0,Other,3,0,1,0,2,0,1,3,1,0,House Type 200,Unfurnished,3080.0,New,Northwest,Groundwater,False,4.5,city
+Cakung,Jakarta Timur,90.0,72.0,1420.0,SHM,2,1,2,1,1.5,0,1,3,1,1,House Type 120,Semi Furnished,2200.0,Renovated,East,PAM/PDAM,False,4.5,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Pesanggrahan,Jakarta Selatan,150.0,100.0,2000.0,Other,2,0,0,0,0,0,1,3,1,0,House Type 120,Semi Furnished,2480.0,New,Northeast,Groundwater,False,5.2,city
+Ciputat,Tangerang Selatan,125.0,160.0,2500.0,Other,2,1,0,1,1.5,0,1,3,1,0,House Type 200,Semi Furnished,2200.0,New,Northeast,Groundwater,False,5.0,city
+Tanah Sareal,Kota Bogor,136.0,220.0,1390.0,SHM,1,1,1,1,2,0,1,3,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Gunung Putri,Kabupaten Bogor,164.0,200.0,1100.0,SHM,3,1,0,0,3,0,2,4,1,0,House Type 200,Unfurnished,2060.0,Well Maintained,Northeast,Groundwater,False,5.0,regency
+Kelapa Dua,Kabupaten Tangerang,108.0,126.0,2750.0,Other,3,1,2,1,2,0,1,4,1,0,House Type 200,Semi Furnished,2940.0,New,Northwest,Groundwater,True,5.0,regency
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,Northwest,Groundwater,False,4.5,city
+Pesanggrahan,Jakarta Selatan,150.0,288.0,4500.0,SHM,4,1,2,1,3,0,1,4,1,0,House Type 300,Unfurnished,5500.0,New,Northeast,Groundwater,False,5.0,city
+Pancoran,Jakarta Selatan,103.0,140.0,2700.0,SHM,2,0,2,0,3,1,1,4,1,0,House Type 200,Unfurnished,2640.0,Well Maintained,Northwest,Groundwater,False,5.0,city
+Pasar Minggu,Jakarta Selatan,318.0,480.0,9000.0,SHM,5,1,5,1,2.5,0,2,5,2,1,House Type >300,Unfurnished,6340.0,Renovated,South,Groundwater,False,5.0,city
+Pulo Gadung,Jakarta Timur,104.0,250.0,2900.0,SHM,4,1,2,1,3,3+,1,4,1,0,House Type 300,Unfurnished,3500.0,Renovated,North,Groundwater,False,2.5,city
+Jagakarsa,Jakarta Selatan,251.0,285.0,4500.0,SHM,7,0,2,0,2.5,0,2,6,1,0,House Type 300,Furnished,4400.0,New,Northwest,Groundwater,False,13.0,city
+Cinere,Depok,195.0,225.0,4600.0,SHM,3,1,2,1,2,0,1,4,1,0,House Type 300,Unfurnished,3500.0,New,South,Groundwater,False,13.0,city
+Tanjung Priok,Jakarta Utara,292.0,360.0,6450.0,HGB,4,1,1,1,2.5,1,1,6,1,0,House Type >300,Semi Furnished,5500.0,Need Renovation,North,PAM/PDAM,False,7.5,city
+Cinere,Depok,200.0,300.0,4100.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 300,Unfurnished,5500.0,Well Maintained,Northwest,Groundwater,False,5.5,city
+Cilandak,Jakarta Selatan,317.0,280.0,3800.0,SHM,3,2,2,1,2,1,1,4,1,1,House Type 300,Unfurnished,3500.0,Renovated,Northeast,PAM/PDAM,False,5.0,city
+Pesanggrahan,Jakarta Selatan,113.0,142.0,3500.0,SHM,2,1,2,1,3,0,1,3,1,0,House Type 200,Unfurnished,3500.0,New,Northeast,Groundwater,False,5.0,city
+Cilandak,Jakarta Selatan,180.0,300.0,4800.0,SHM,4,1,3,1,3,0,2,4,1,0,House Type 300,Unfurnished,3600.0,New,East,Groundwater,False,14.0,city
+Kebayoran Lama,Jakarta Selatan,160.0,30.0,6800.0,SHM,3,1,3,1,2,0,1,3,1,0,House Type 36,Unfurnished,5500.0,Well Maintained,North,PAM/PDAM,False,5.0,city
+Kebayoran Lama,Jakarta Selatan,548.0,890.0,38000.0,SHM,6,1,5,1,2,2,1,8,1,0,House Type >300,Unfurnished,9060.0,New,Northwest,Groundwater,False,5.5,city
+Kebayoran Lama,Jakarta Selatan,200.0,532.0,16500.0,SHM,4,2,2,1,3.5,3+,3,4,1,0,House Type >300,Unfurnished,15304.6,Renovated,Northeast,Groundwater,False,5.0,city
+Pancoran,Jakarta Selatan,75.0,120.0,3200.0,SHM,3,1,2,1,3,0,1,3,1,0,House Type 120,Unfurnished,4400.0,New,North,Groundwater,False,5.0,city
+Senen,Jakarta Pusat,168.0,150.0,3900.0,SHM,3,0,3,0,0,0,1,4,1,0,House Type 200,Semi Furnished,2500.0,Renovated,Northwest,PAM/PDAM,False,7.5,city
+Cilandak,Jakarta Selatan,125.0,320.0,5900.0,SHM,4,1,2,1,3,0,1,4,1,0,House Type >300,Unfurnished,7700.0,Renovated,North,Groundwater,False,6.0,city
+Kelapa Gading,Jakarta Utara,120.0,120.0,1100.0,SHM,2,0,1,0,1,0,1,2,1,0,House Type 120,Unfurnished,2240.0,Renovated,North,Groundwater,False,5.0,city
+Jagakarsa,Jakarta Selatan,108.0,140.0,2350.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 200,Unfurnished,3500.0,Renovated,North,Groundwater,False,5.0,city
+Ciracas,Jakarta Timur,360.0,300.0,3500.0,SHM,3,1,1,1,2,1,2,4,1,0,House Type 300,Semi Furnished,4320.0,New,Northeast,Groundwater,False,5.0,city
+Jagakarsa,Jakarta Selatan,134.0,160.0,2680.0,SHM,3,0,2,0,2,0,1,4,1,0,House Type 200,Unfurnished,2200.0,New,Northeast,Groundwater,False,5.0,city
+Kebon Jeruk,Jakarta Barat,70.0,140.0,1650.0,SHM,2,1,1,1,2,0,1,2,1,0,House Type 200,Unfurnished,2200.0,Well Maintained,West,Groundwater,False,5.0,city
+Pasar Minggu,Jakarta Selatan,128.0,187.0,4600.0,SHM,3,1,2,1,2,0,1,3,2,1,House Type 200,Furnished,6120.0,Well Maintained,East,Groundwater,False,45.0,city
+Cilandak,Jakarta Selatan,339.0,260.0,6800.0,SHM,6,0,3,0,0,0,1,6,1,0,House Type 300,Unfurnished,5860.0,Renovated,North,PAM/PDAM,False,5.0,city
+Cilandak,Jakarta Selatan,247.0,300.0,8500.0,SHM,4,2,0,1,3.5,0,1,4,1,0,House Type 300,Unfurnished,8800.0,New,South,Groundwater,False,5.0,city
+Cilandak,Jakarta Selatan,88.0,160.0,3400.0,SHM,3,1,2,1,3,0,2,3,1,0,House Type 200,Unfurnished,3380.0,New,Northwest,Groundwater,False,5.0,city
+Kembangan,Jakarta Barat,250.0,370.0,5900.0,SHM,4,1,2,1,2.5,1,1,5,1,0,House Type >300,Semi Furnished,5500.0,New,North,Groundwater,False,5.0,city
+Cilandak,Jakarta Selatan,304.0,750.0,14000.0,SHM,6,2,2,1,3,3+,1,5,1,0,House Type >300,Unfurnished,8200.0,New,North,Groundwater,False,5.0,city
+Gambir,Jakarta Pusat,117.0,100.0,3800.0,SHM,2,0,1,0,1,0,1,4,1,0,House Type 120,Unfurnished,4700.0,New,South,Groundwater,False,5.0,city
+Tebet,Jakarta Selatan,200.0,300.0,8200.0,SHM,4,0,3,0,2,0,1,4,1,0,House Type 300,Unfurnished,8160.0,New,Northeast,Groundwater,False,6.6,city
+Jagakarsa,Jakarta Selatan,156.0,400.0,5100.0,SHM,4,2,2,1,3,2,1,5,2,1,House Type >300,Unfurnished,4400.0,New,Northeast,Groundwater,False,5.0,city
+Kebayoran Lama,Jakarta Selatan,102.0,250.0,5900.0,SHM,3,2,1,1,3.5,2,1,3,1,0,House Type 300,Unfurnished,6820.0,Renovated,Northeast,Groundwater,False,6.0,city
+Cilandak,Jakarta Selatan,515.0,400.0,13500.0,SHM,4,1,2,1,1,2,2,4,1,0,House Type >300,Semi Furnished,5500.0,New,East,Groundwater,False,5.0,city
+Jagakarsa,Jakarta Selatan,119.0,180.0,3100.0,SHM,4,1,2,1,1.5,0,1,4,1,0,House Type 200,Semi Furnished,2200.0,New,Northeast,Groundwater,False,5.0,city
+Cakung,Jakarta Timur,130.0,240.0,2500.0,SHM,3,1,0,1,2,0,1,3,1,0,House Type 300,Furnished,3500.0,Renovated,Northeast,Groundwater,False,7.5,city
+Kelapa Gading,Jakarta Utara,135.0,156.0,3500.0,SHM,3,1,1,0,2,0,1,4,1,0,House Type 200,Unfurnished,2980.0,Need Renovation,Northeast,Groundwater,False,4.0,city
+Pasar Minggu,Jakarta Selatan,102.0,100.0,2900.0,SHM,2,1,2,1,2,0,1,2,1,0,House Type 120,Unfurnished,3500.0,Well Maintained,North,Groundwater,False,5.0,city
+Mampang Prapatan,Jakarta Selatan,202.0,239.0,8000.0,SHM,3,1,2,1,3,0,2,3,1,0,House Type 300,Unfurnished,11000.0,New,Northwest,Groundwater,False,6.5,city
+Ciracas,Jakarta Timur,113.0,129.0,2500.0,SHM,4,1,2,1,2,0,1,3,1,0,House Type 200,Unfurnished,3340.0,New,Northeast,Groundwater,False,5.5,city
+Bogor Barat,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,2,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Gambir,Jakarta Pusat,240.0,100.0,6200.0,SHM,2,0,2,0,0,0,1,2,1,0,House Type 120,Unfurnished,16500.0,Renovated,North,Groundwater,False,5.0,city
+Cinere,Depok,64.0,90.0,1310.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,3080.0,New,North,Groundwater,False,4.5,city
+Cinere,Depok,64.0,90.0,1310.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,3080.0,New,North,Groundwater,False,4.5,city
+Cinere,Depok,64.0,90.0,1315.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,3080.0,New,North,Groundwater,False,4.5,city
+Bogor Barat,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Penjaringan,Jakarta Utara,45.0,80.0,1300.0,Other,2,0,1,0,2,0,1,2,1,0,House Type 120,Unfurnished,4400.0,New,South,Groundwater,False,4.5,city
+Penjaringan,Jakarta Utara,120.0,170.0,4400.0,SHM,3,1,1,1,0,0,1,3,1,0,House Type 200,Semi Furnished,3500.0,New,Northeast,Groundwater,False,13.0,city
+Penjaringan,Jakarta Utara,200.0,300.0,7000.0,SHM,5,1,2,1,0,0,1,4,1,0,House Type 300,Semi Furnished,5500.0,New,North,Groundwater,False,5.0,city
+Pondok Aren,Tangerang Selatan,120.0,120.0,1750.0,Other,2,1,0,1,0,0,1,3,1,0,House Type 120,Semi Furnished,2200.0,Renovated,Northeast,Groundwater,False,4.0,city
+Pesanggrahan,Jakarta Selatan,67.0,73.0,2600.0,SHM,2,0,1,0,2,0,1,2,1,0,House Type 120,Semi Furnished,2200.0,New,East,Groundwater,False,5.0,city
+Cileungsi,Kabupaten Bogor,220.0,200.0,2400.0,SHM,3,1,0,1,2,2,1,4,1,0,House Type 200,Semi Furnished,3500.0,Renovated,North,PAM/PDAM,True,5.5,regency
+Kembangan,Jakarta Barat,250.0,450.0,3000.0,SHM,3,0,2,0,2,1,1,4,1,0,House Type >300,Semi Furnished,3300.0,New,South,Groundwater,False,5.0,city
+Tanjung Priok,Jakarta Utara,234.0,200.0,5000.0,SHM,4,0,3,0,0,0,1,5,1,0,House Type 200,Semi Furnished,6600.0,New,Northeast,Groundwater,True,12.5,city
+Pondok Aren,Tangerang Selatan,212.0,300.0,5300.0,SHM,3,1,2,1,2,0,1,5,1,0,House Type 300,Unfurnished,3300.0,New,Northeast,Groundwater,True,5.1,city
+Tanah Sareal,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Cinere,Depok,398.0,300.0,4750.0,SHM,4,1,2,1,2,2,2,4,1,0,House Type 300,Furnished,5500.0,New,North,Groundwater,False,13.0,city
+Serpong,Tangerang Selatan,112.0,133.0,2200.0,Other,3,1,2,1,0,0,1,4,1,0,House Type 200,Semi Furnished,4400.0,Renovated,North,Groundwater,False,5.0,city
+Kelapa Gading,Jakarta Utara,102.0,140.0,2900.0,SHM,2,0,2,0,0,0,1,4,1,0,House Type 200,Unfurnished,3500.0,New,North,Groundwater,False,5.0,city
+Bogor Barat,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Ciputat,Tangerang Selatan,140.0,200.0,2700.0,Other,3,1,2,1,2,0,1,4,1,1,House Type 200,Semi Furnished,2200.0,New,Northwest,Groundwater,False,5.0,city
+Cipondoh,Kota Tangerang,180.0,224.0,925.0,SHM,2,0,1,0,0,0,1,5,1,0,House Type 300,Unfurnished,1840.0,Renovated,Northwest,Groundwater,False,6.0,city
+Ciputat,Tangerang Selatan,127.0,250.0,2400.0,SHM,3,1,2,1,1,0,1,3,1,0,House Type 300,Semi Furnished,3500.0,Renovated,North,Groundwater,False,5.5,city
+Ciputat,Tangerang Selatan,127.0,100.0,1450.0,Other,2,0,2,0,1,0,1,3,1,0,House Type 120,Unfurnished,1840.0,Renovated,Northeast,Groundwater,False,4.5,city
+Kelapa Dua,Kabupaten Tangerang,308.0,600.0,5990.0,SHM,7,2,2,0,0,0,1,5,1,0,House Type >300,Furnished,41500.0,New,North,Groundwater,False,5.0,regency
+Ciputat,Tangerang Selatan,137.0,110.0,1450.0,SHM,2,0,0,0,0,2,1,3,1,0,House Type 120,Unfurnished,1300.0,New,Northeast,Groundwater,False,4.0,city
+Pancoran Mas,Depok,72.0,34.0,381.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 36,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Tanjung Priok,Jakarta Utara,84.0,100.0,2900.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,North,Groundwater,False,4.5,city
+Penjaringan,Jakarta Utara,111.0,235.0,4500.0,HGB,3,0,2,0,3.5,0,1,3,1,0,House Type 300,Furnished,7700.0,New,South,Groundwater,False,13.8,city
+Penjaringan,Jakarta Utara,136.0,192.0,5700.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 200,Furnished,4400.0,Renovated,South,Groundwater,False,5.0,city
+Duren Sawit,Jakarta Timur,100.0,44.8,72.0,SHM,1,0,0,0,0,0,1,2,1,0,House Type >300,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Serpong,Tangerang Selatan,72.0,36.0,600.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 36,Unfurnished,1480.0,Renovated,North,Groundwater,False,5.1,city
+Kemayoran,Jakarta Pusat,40.0,80.0,1450.0,SHM,2,0,0,0,2,1,1,4,1,0,House Type 120,Unfurnished,1300.0,New,Northeast,Groundwater,False,5.0,city
+Penjaringan,Jakarta Utara,402.0,600.0,17000.0,SHM,4,1,2,1,2,2,1,4,1,0,House Type >300,Furnished,26000.0,Renovated,East,Groundwater,False,5.0,city
+Penjaringan,Jakarta Utara,576.0,800.0,18000.0,HGB,5,1,4,1,2,3+,1,4,1,0,House Type >300,Furnished,10650.0,Well Maintained,Northeast,PAM/PDAM,False,5.5,city
+Serpong Utara,Tangerang Selatan,90.0,70.0,1600.0,Other,1,1,2,1,1,0,1,2,1,1,House Type 70,Semi Furnished,2200.0,New,North,Groundwater,False,4.0,city
+Pesanggrahan,Jakarta Selatan,77.0,60.0,2400.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 60,Unfurnished,4400.0,Well Maintained,East,Groundwater,False,5.0,city
+Pesanggrahan,Jakarta Selatan,225.0,350.0,6500.0,SHM,6,1,3,1,2.5,3+,1,5,1,0,House Type >300,Unfurnished,10600.0,New,North,Groundwater,False,5.0,city
+Kemayoran,Jakarta Pusat,65.0,150.0,1750.0,SHM,4,0,1,0,3,0,1,3,1,0,House Type 200,Furnished,2200.0,Renovated,West,Groundwater,False,4.5,city
+Cempaka Putih,Jakarta Pusat,139.0,200.0,4500.0,SHM,10,0,0,0,3,0,1,9+,1,0,House Type 200,Unfurnished,7700.0,New,Northeast,Groundwater,False,5.0,city
+Cempaka Putih,Jakarta Pusat,42.0,72.0,1100.0,SHM,2,0,1,0,2,0,1,3,1,0,House Type 120,Furnished,2240.0,Renovated,Northeast,Groundwater,False,5.4,city
+Pesanggrahan,Jakarta Selatan,109.0,75.0,675.0,SHM,2,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,2020.0,Renovated,North,Groundwater,False,5.1,city
+Menteng,Jakarta Pusat,474.0,1388.0,67000.0,SHM,4,3,2,3,3,3+,2,4,1,1,House Type >300,Furnished,20000.0,New,Northeast,Groundwater,False,5.5,city
+Cengkareng,Jakarta Barat,56.0,100.0,1700.0,SHM,2,1,0,1,2,0,1,2,1,0,House Type 120,Unfurnished,1300.0,Renovated,North,PAM/PDAM,False,3.5,city
+Cakung,Jakarta Timur,507.0,375.0,3050.0,SHM,3,0,1,0,1.5,0,1,3,1,0,House Type >300,Semi Furnished,3080.0,New,North,Groundwater,False,5.0,city
+Koja,Jakarta Utara,510.0,382.0,5300.0,SHM,3,1,2,0,0,3+,1,6,1,0,House Type >300,Semi Furnished,4400.0,Renovated,North,PAM/PDAM,False,5.0,city
+Tanah Sareal,Kota Bogor,206.0,320.0,592.0,SHM,2,0,1,0,0,0,1,5,1,0,House Type >300,Unfurnished,1400.0,Renovated,North,Groundwater,False,5.1,city
+Limo,Depok,84.0,92.0,780.0,SHM,2,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,2020.0,Renovated,Northeast,Groundwater,False,6.2,city
+Pamulang,Tangerang Selatan,72.0,50.0,586.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 54,Semi Furnished,1480.0,Renovated,North,Groundwater,False,5.1,city
+Pondok Gede,Kota Bekasi,94.0,180.0,900.0,SHM,2,0,1,0,0,0,1,5,1,0,House Type 200,Unfurnished,1840.0,Renovated,Northwest,Groundwater,False,6.0,city
+Tambora,Jakarta Barat,123.0,97.0,1330.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 120,Unfurnished,3520.0,New,Northeast,Groundwater,False,4.5,city
+Medan Satria,Kota Bekasi,120.0,90.0,915.0,SHM,2,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,1300.0,Renovated,Northeast,Groundwater,False,4.7,city
+Cibitung,Kabupaten Bekasi,84.0,60.0,595.0,HGB,1,0,1,0,1,0,1,2,1,0,House Type 60,Semi Furnished,1300.0,Renovated,North,PAM/PDAM,False,6.0,regency
+Cileungsi,Kabupaten Bogor,333.0,240.0,6800.0,SHM,4,0,0,0,0,0,1,4,1,0,House Type 300,Semi Furnished,4400.0,New,Northeast,Groundwater,False,5.0,regency
+Tanjung Priok,Jakarta Utara,105.0,150.0,2800.0,SHM,2,1,2,1,2,0,1,3,1,0,House Type 200,Semi Furnished,3500.0,Renovated,East,Groundwater,False,5.0,city
+Cempaka Putih,Jakarta Pusat,260.0,300.0,6000.0,SHM,4,1,2,1,0,2,1,4,1,0,House Type 300,Furnished,7700.0,Well Maintained,East,Groundwater,False,5.0,city
+Serpong,Tangerang Selatan,60.0,53.0,1400.0,Other,2,0,1,0,0,0,1,2,1,0,House Type 54,Semi Furnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Serpong,Tangerang Selatan,40.0,45.0,1500.0,Other,1,0,1,0,1,0,1,1,1,0,House Type 45,Semi Furnished,2200.0,Well Maintained,North,Groundwater,False,4.5,city
+Tanjung Priok,Jakarta Utara,407.0,700.0,12500.0,SHM,2,1,2,1,0,0,1,4,1,0,House Type >300,Semi Furnished,5500.0,Renovated,Northeast,PAM/PDAM,True,5.0,city
+Grogol Petamburan,Jakarta Barat,72.0,105.0,2000.0,SHM,2,1,1,0,0,0,1,3,1,0,House Type 120,Furnished,3500.0,Renovated,Northwest,Groundwater,False,5.0,city
+Cengkareng,Jakarta Barat,160.0,256.0,5300.0,SHM,3,1,2,1,2.5,0,1,3,1,0,House Type 300,Semi Furnished,5500.0,New,South,Groundwater,False,4.5,city
+Grogol Petamburan,Jakarta Barat,249.0,415.0,6200.0,SHM,3,0,2,0,0,0,1,4,1,0,House Type >300,Furnished,16500.0,Renovated,North,Groundwater,False,5.0,city
+Cempaka Putih,Jakarta Pusat,32.0,60.0,580.0,SHM,1,0,0,0,2,0,1,2,1,0,House Type 60,Unfurnished,2200.0,Well Maintained,South,Groundwater,False,6.0,city
+Penjaringan,Jakarta Utara,150.0,200.0,5800.0,Other,2,1,2,1,2,0,1,3,1,0,House Type 200,Semi Furnished,5500.0,New,Southwest,Groundwater,False,6.0,city
+Penjaringan,Jakarta Utara,150.0,200.0,5700.0,Other,3,1,0,1,2,0,1,3,1,0,House Type 200,Semi Furnished,3500.0,New,North,Groundwater,False,5.0,city
+Penjaringan,Jakarta Utara,200.0,500.0,8600.0,SHM,5,1,2,1,3,2,1,2,1,0,House Type >300,Semi Furnished,5500.0,Renovated,West,Groundwater,False,7.0,city
+Penjaringan,Jakarta Utara,100.0,225.0,4500.0,SHM,3,0,1,0,3,0,1,5,1,0,House Type 300,Unfurnished,5500.0,New,Northeast,Groundwater,False,13.5,city
+Penjaringan,Jakarta Utara,120.0,384.0,5200.0,SHM,3,0,0,0,3.5,0,1,6,1,0,House Type >300,Semi Furnished,6600.0,Well Maintained,North,Groundwater,False,4.5,city
+Penjaringan,Jakarta Utara,120.0,244.0,5000.0,SHM,3,1,1,1,3,0,1,4,1,0,House Type 300,Furnished,5500.0,New,South,Groundwater,False,13.0,city
+Menteng,Jakarta Pusat,876.0,1400.0,100000.0,SHM,6,2,5,1,0,3+,1,6,1,0,House Type >300,Semi Furnished,10000.0,New,North,Groundwater,False,5.5,city
+Cempaka Putih,Jakarta Pusat,74.0,120.0,1700.0,SHM,4,0,2,0,2,0,1,3,1,0,House Type 120,Unfurnished,2240.0,Renovated,Northwest,Groundwater,False,2.5,city
+Cinere,Depok,120.0,200.0,2700.0,SHM,4,1,1,1,2,0,1,3,1,0,House Type 200,Unfurnished,2200.0,New,Northwest,Groundwater,False,5.0,city
+Pulo Gadung,Jakarta Timur,105.0,155.0,3500.0,SHM,3,1,1,1,2,0,1,3,1,0,House Type 200,Semi Furnished,3500.0,New,Northeast,PAM/PDAM,False,4.5,city
+Cempaka Putih,Jakarta Pusat,144.0,350.0,5500.0,SHM,5,1,1,0,3,3+,1,5,1,0,House Type >300,Semi Furnished,2200.0,New,North,PAM/PDAM,False,5.0,city
+Tangerang,Kota Tangerang,1345.0,200.0,15000.0,SHM,3,0,4,0,1,0,1,4,1,0,House Type 200,Unfurnished,2200.0,New,North,PAM/PDAM,False,7.5,city
+Tanjung Priok,Jakarta Utara,70.0,100.0,2600.0,SHM,2,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,3500.0,New,Northeast,PAM/PDAM,False,5.5,city
+Kelapa Gading,Jakarta Utara,153.0,200.0,5100.0,SHM,3,0,0,0,2,0,1,4,1,0,House Type 200,Semi Furnished,4300.0,Need Renovation,South,PAM/PDAM,False,4.5,city
+Tanah Sareal,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Kramat Jati,Jakarta Timur,1061.0,220.0,12000.0,SHM,4,0,0,0,1,0,1,4,1,0,House Type 300,Semi Furnished,10820.0,Well Maintained,South,Groundwater,False,5.3,city
+Cakung,Jakarta Timur,105.0,158.0,4000.0,Other,4,1,2,1,3,0,1,3,1,0,House Type 200,Semi Furnished,3820.0,Renovated,North,Groundwater,False,6.0,city
+Cilincing,Jakarta Utara,124.0,89.0,1190.0,Other,3,1,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,Northeast,Groundwater,False,5.4,city
+Cinere,Depok,78.0,130.0,1500.0,SHM,3,0,1,0,0,0,1,3,1,0,House Type 200,Unfurnished,2460.0,New,South,Groundwater,False,5.0,city
+Cilincing,Jakarta Utara,230.0,500.0,4500.0,SHM,5,1,2,0,2.5,2,1,5,1,0,House Type >300,Unfurnished,7700.0,Well Maintained,Northeast,PAM/PDAM,False,7.0,city
+Bekasi Timur,Kota Bekasi,1107.0,393.2,5000.0,SHM,4,0,0,0,1,0,1,4,1,0,House Type >300,Semi Furnished,3600.0,Well Maintained,Northeast,Groundwater,False,5.6,city
+Medan Satria,Kota Bekasi,144.0,150.0,1900.0,Other,2,0,1,0,2,0,1,4,1,0,House Type 200,Unfurnished,4400.0,Well Maintained,South,PAM/PDAM,False,5.0,city
+Cakung,Jakarta Timur,249.0,156.0,3000.0,SHM,3,1,0,1,2,0,1,3,1,0,House Type 200,Semi Furnished,3500.0,New,Northeast,Groundwater,True,4.5,city
+Medan Satria,Kota Bekasi,133.0,80.0,1500.0,Other,3,1,2,1,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,South,PAM/PDAM,False,5.0,city
+Medan Satria,Kota Bekasi,126.0,80.0,1500.0,HGB,2,1,2,1,2,0,1,2,1,0,House Type 120,Unfurnished,2200.0,New,South,PAM/PDAM,False,5.0,city
+Cakung,Jakarta Timur,120.0,90.0,1950.0,Other,3,1,2,1,2,0,1,3,1,0,House Type 120,Semi Furnished,2200.0,Renovated,Northeast,PAM/PDAM,False,5.2,city
+Cakung,Jakarta Timur,148.0,200.0,2250.0,HGB,3,1,1,1,2,0,1,3,1,0,House Type 200,Semi Furnished,2680.0,Renovated,North,Groundwater,False,5.0,city
+Bogor Selatan,Kota Bogor,150.0,75.0,1700.0,SHM,2,0,0,0,2,0,1,2,1,0,House Type 120,Unfurnished,2200.0,Well Maintained,North,PAM/PDAM,True,4.0,city
+Kelapa Gading,Jakarta Utara,128.0,188.0,2100.0,SHM,2,0,2,0,2,0,1,3,1,0,House Type 200,Semi Furnished,3500.0,Renovated,South,PAM/PDAM,False,4.5,city
+Kalideres,Jakarta Barat,285.0,500.0,5200.0,SHM,5,1,0,1,3,0,1,7,1,0,House Type >300,Semi Furnished,4400.0,New,North,PAM/PDAM,False,5.0,city
+Kelapa Gading,Jakarta Utara,90.0,130.0,1470.0,Other,1,0,1,0,1,0,1,2,1,0,House Type 200,Unfurnished,2200.0,Renovated,South,Groundwater,False,4.5,city
+Bekasi Utara,Kota Bekasi,162.0,149.0,2550.0,HGB,3,1,1,1,2,1,1,4,1,0,House Type 200,Unfurnished,3300.0,New,South,Groundwater,False,5.5,city
+Medan Satria,Kota Bekasi,216.0,175.0,3500.0,Other,3,1,2,1,2,1,1,3,1,0,House Type 200,Unfurnished,2200.0,New,North,PAM/PDAM,False,4.5,city
+Medan Satria,Kota Bekasi,245.0,200.0,2600.0,Other,3,1,1,1,2,1,1,3,1,0,House Type 200,Unfurnished,3500.0,Renovated,North,PAM/PDAM,False,5.7,city
+Tanah Abang,Jakarta Pusat,222.0,200.0,12000.0,SHM,5,0,0,0,2,0,1,9+,1,0,House Type 200,Unfurnished,1300.0,Renovated,North,Groundwater,False,2.5,city
+Bekasi Barat,Kota Bekasi,90.0,75.0,1790.0,HGB,3,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Well Maintained,Northeast,PAM/PDAM,False,4.5,city
+Duren Sawit,Jakarta Timur,105.0,102.0,2030.0,HGB,3,0,2,0,0,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,Northwest,PAM/PDAM,False,5.2,city
+Tambun Selatan,Kabupaten Bekasi,65.0,66.0,1400.0,Other,2,0,0,0,2,0,1,3,1,0,House Type 70,Furnished,2200.0,New,North,Groundwater,False,5.0,regency
+Serpong,Tangerang Selatan,60.0,49.0,959.0,SHM,2,0,2,0,0,0,1,2,1,0,House Type 54,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,6.0,city
+Balaraja,Kabupaten Tangerang,72.0,60.0,585.0,Other,1,0,1,0,2,0,1,2,1,0,House Type 60,Unfurnished,1900.0,Renovated,North,Groundwater,False,5.1,regency
+Kebon Jeruk,Jakarta Barat,778.0,2100.0,30000.0,SHM,7,0,7,0,2,0,1,7,1,0,House Type >300,Semi Furnished,82500.0,Renovated,North,Groundwater,True,5.0,city
+Cileungsi,Kabupaten Bogor,60.0,44.0,645.0,SHM,2,0,1,0,2,0,1,2,1,0,House Type 45,Unfurnished,2200.0,Renovated,South,Groundwater,False,6.0,regency
+Solear,Kabupaten Tangerang,60.0,55.0,260.0,SHM,1,0,1,0,1,0,1,2,1,0,House Type 60,Unfurnished,1300.0,Well Maintained,North,PAM/PDAM,False,4.7,regency
+Pondok Aren,Tangerang Selatan,115.0,200.0,1700.0,Other,4,0,0,0,0,0,2,5,1,0,House Type 200,Semi Furnished,2240.0,Renovated,South,Groundwater,False,4.5,city
+Tanah Sareal,Kota Bogor,136.0,220.0,1590.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Tambun Selatan,Kabupaten Bekasi,65.0,66.0,1400.0,HGB,2,0,1,0,2,0,1,3,1,0,House Type 70,Furnished,2200.0,New,North,Groundwater,False,5.0,regency
+Penjaringan,Jakarta Utara,184.0,300.0,6500.0,SHM,3,2,2,1,2,1,1,3,1,0,House Type 300,Furnished,3500.0,New,Northeast,Groundwater,False,7.5,city
+Penjaringan,Jakarta Utara,144.0,300.0,7500.0,SHM,3,1,2,1,3,1,1,3,1,0,House Type 300,Semi Furnished,3500.0,Well Maintained,South,Groundwater,False,6.5,city
+Sepatan,Kabupaten Tangerang,72.0,60.0,600.0,SHM,2,0,1,0,0,0,1,2,1,0,House Type 60,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,6.0,regency
+Pondok Gede,Kota Bekasi,702.0,552.0,4750.0,HGB,3,0,2,0,0,1,1,4,1,0,House Type >300,Unfurnished,4000.0,Renovated,Northwest,Groundwater,False,5.4,city
+Cakung,Jakarta Timur,90.0,180.0,1600.0,SHM,3,2,1,0,2.5,0,1,2,1,0,House Type 200,Unfurnished,2200.0,Renovated,West,Groundwater,False,4.5,city
+Ciputat,Tangerang Selatan,179.0,157.0,1380.0,Other,2,0,2,0,2,0,1,2,1,0,House Type 200,Unfurnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Cakung,Jakarta Timur,112.0,100.0,1900.0,SHM,2,1,1,0,2,2,1,3,1,0,House Type 120,Semi Furnished,5500.0,Renovated,East,PAM/PDAM,False,6.0,city
+Cakung,Jakarta Timur,90.0,135.0,1700.0,SHM,1,1,1,1,2,0,1,3,1,0,House Type 200,Semi Furnished,2200.0,Renovated,North,PAM/PDAM,False,4.0,city
+Pesanggrahan,Jakarta Selatan,96.0,84.0,1800.0,SHM,2,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northeast,Groundwater,False,5.0,city
+Ciracas,Jakarta Timur,126.0,180.0,1900.0,SHM,2,0,2,0,2,0,2,2,1,0,House Type 200,Semi Furnished,2200.0,Renovated,Northwest,PAM/PDAM,False,5.0,city
+Cibinong,Kabupaten Bogor,810.0,36.0,657.0,SHM,1,0,1,0,0,0,1,1,1,0,House Type 36,Unfurnished,1140.0,Renovated,North,Groundwater,False,4.7,regency
+Ciledug,Kota Tangerang,164.0,76.0,1500.0,Other,2,1,0,1,0,0,1,2,1,0,House Type 120,Unfurnished,1300.0,New,Northeast,Groundwater,True,4.0,city
+Medan Satria,Kota Bekasi,72.0,28.0,590.0,SHM,1,0,1,0,1,0,1,2,1,0,House Type 36,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Beji,Depok,300.0,500.0,6500.0,SHM,11+,0,0,0,3,0,1,9+,1,1,House Type >300,Furnished,1300.0,Need Renovation,Northeast,Groundwater,False,5.5,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Well Maintained,Northwest,Groundwater,False,4.5,city
+Ciledug,Kota Tangerang,164.0,76.0,1500.0,SHM,2,1,0,1,0,0,1,2,1,0,House Type 120,Unfurnished,1300.0,New,Northeast,Groundwater,True,4.0,city
+Karawaci,Kota Tangerang,90.0,100.0,1100.0,SHM,3,0,0,0,2,0,1,3,1,0,House Type 120,Unfurnished,3300.0,Renovated,Northeast,Groundwater,False,4.0,city
+Cinere,Depok,202.0,250.0,2500.0,SHM,3,1,0,1,2,1,1,3,1,0,House Type 300,Unfurnished,3500.0,Well Maintained,North,Groundwater,False,5.0,city
+Mampang Prapatan,Jakarta Selatan,434.0,510.0,23500.0,SHM,6,1,2,1,1.5,2,1,5,1,0,House Type >300,Unfurnished,23000.0,New,Northeast,Groundwater,False,5.0,city
+Kalideres,Jakarta Barat,300.0,500.0,9500.0,SHM,4,1,2,1,2,0,1,5,1,0,House Type >300,Furnished,7700.0,Well Maintained,North,Groundwater,False,6.6,city
+Kelapa Gading,Jakarta Utara,102.0,120.0,2700.0,SHM,2,0,2,1,2,0,1,4,1,0,House Type 120,Unfurnished,2200.0,New,Northeast,Groundwater,False,5.0,city
+Kebayoran Lama,Jakarta Selatan,85.0,166.0,4900.0,SHM,3,1,2,1,3,0,1,3,1,0,House Type 200,Unfurnished,4220.0,New,South,Groundwater,False,5.0,city
+Pancoran,Jakarta Selatan,263.0,215.0,3900.0,SHM,2,0,2,0,1.5,2,1,4,1,0,House Type 300,Semi Furnished,4400.0,Renovated,Northeast,Groundwater,False,5.0,city
+Pancoran,Jakarta Selatan,103.0,207.0,3300.0,SHM,4,1,1,1,3,1,1,4,1,0,House Type 300,Unfurnished,4400.0,New,Northeast,Groundwater,False,5.0,city
+Kelapa Gading,Jakarta Utara,90.0,180.0,2700.0,SHM,2,0,2,1,2,0,1,4,1,0,House Type 200,Unfurnished,2200.0,New,Southwest,Groundwater,False,5.0,city
+Pancoran,Jakarta Selatan,411.0,305.0,9000.0,SHM,4,1,2,1,1.5,2,1,4,1,0,House Type >300,Unfurnished,6340.0,Renovated,Northeast,Groundwater,False,10.0,city
+Cilandak,Jakarta Selatan,110.0,220.0,4300.0,SHM,3,1,1,1,3,2,1,3,1,0,House Type 300,Unfurnished,4400.0,New,Northeast,Groundwater,False,5.0,city
+Ciracas,Jakarta Timur,75.0,75.0,1100.0,SHM,2,0,1,0,2,1,1,3,1,0,House Type 120,Unfurnished,2240.0,Renovated,Northeast,Groundwater,False,5.4,city
+Duren Sawit,Jakarta Timur,220.0,160.0,3600.0,SHM,2,1,1,1,2,2,1,3,1,0,House Type 200,Furnished,3780.0,Well Maintained,Northeast,Groundwater,False,5.0,city
+Pancoran,Jakarta Selatan,150.0,80.0,2350.0,SHM,3,0,3,0,2,0,1,3,1,0,House Type 120,Unfurnished,1300.0,Need Renovation,East,Groundwater,False,5.0,city
+Cikarang,Kabupaten Bekasi,60.0,50.0,400.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 54,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,regency
+Cilandak,Jakarta Selatan,208.0,458.0,10500.0,SHM,7,3,2,0,3,3+,1,4,1,0,House Type >300,Unfurnished,11000.0,New,North,Groundwater,False,5.0,city
+Mampang Prapatan,Jakarta Selatan,91.0,262.0,5000.0,SHM,3,1,2,1,3,0,1,3,1,0,House Type 300,Unfurnished,4400.0,New,Northeast,Groundwater,False,4.5,city
+Serpong,Tangerang Selatan,200.0,300.0,5100.0,SHM,4,1,2,1,3,0,1,4,1,0,House Type 300,Unfurnished,5500.0,New,North,Groundwater,False,5.0,city
+Jagakarsa,Jakarta Selatan,101.0,129.0,2550.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 200,Semi Furnished,4400.0,Well Maintained,East,Groundwater,False,5.0,city
+Cilandak,Jakarta Selatan,300.0,323.0,8000.0,SHM,4,2,2,1,2,2,1,5,1,0,House Type >300,Semi Furnished,5500.0,Well Maintained,Southeast,Groundwater,False,6.5,city
+Serpong,Tangerang Selatan,120.0,100.0,925.0,SHM,1,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,1320.0,Well Maintained,Northwest,Groundwater,False,6.0,city
+Tanjung Priok,Jakarta Utara,108.0,200.0,4000.0,SHM,2,1,0,0,2,0,1,3,1,0,House Type 200,Unfurnished,3500.0,Renovated,Northwest,Groundwater,False,5.0,city
+Serpong,Tangerang Selatan,136.0,235.0,6000.0,Other,3,1,2,1,2.5,0,1,4,1,0,House Type 300,Semi Furnished,4400.0,Renovated,Northeast,Groundwater,False,6.0,city
+Cileungsi,Kabupaten Bogor,100.0,44.8,65.0,Other,1,0,0,0,0,0,1,2,1,0,House Type >300,Unfurnished,1300.0,Renovated,North,Groundwater,False,5.0,regency
+Tebet,Jakarta Selatan,400.0,116.0,260.0,SHM,1,0,0,0,0,0,1,2,1,0,House Type >300,Unfurnished,1300.0,Renovated,North,Groundwater,False,5.0,city
+Duren Sawit,Jakarta Timur,100.0,44.8,72.0,SHM,1,0,0,0,0,0,1,2,1,0,House Type >300,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Serpong,Tangerang Selatan,144.0,260.0,3600.0,Other,3,2,3,1,2,0,1,4,1,0,House Type 300,Unfurnished,3300.0,Renovated,South,Groundwater,False,4.0,city
+Serpong Utara,Tangerang Selatan,132.0,150.0,3700.0,Other,2,1,2,1,0,0,1,4,1,0,House Type 200,Semi Furnished,5500.0,New,East,Groundwater,False,4.5,city
+Serpong Utara,Tangerang Selatan,144.0,300.0,3950.0,SHM,3,1,2,1,2,0,1,4,1,0,House Type 300,Semi Furnished,3500.0,Renovated,North,Groundwater,False,5.0,city
+Serpong Utara,Tangerang Selatan,190.0,220.0,3300.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 300,Semi Furnished,3500.0,New,North,Groundwater,True,4.5,city
+Cilincing,Jakarta Utara,278.0,300.0,2250.0,SHM,2,1,2,0,0,0,1,6,1,0,House Type 300,Unfurnished,3300.0,Renovated,South,PAM/PDAM,False,5.0,city
+Ciputat,Tangerang Selatan,84.0,160.0,1800.0,Other,2,0,2,0,2,0,1,3,1,0,House Type 200,Unfurnished,2200.0,Renovated,North,Groundwater,False,5.0,city
+Ciledug,Kota Tangerang,207.0,207.0,2000.0,SHM,4,1,0,1,0,2,1,4,1,1,House Type 300,Unfurnished,4400.0,Renovated,North,PAM/PDAM,False,5.0,city
+Pondok Aren,Tangerang Selatan,250.0,338.0,3200.0,Other,2,1,1,1,2,1,1,5,1,0,House Type >300,Semi Furnished,2200.0,New,Northeast,Groundwater,False,5.5,city
+Ciledug,Kota Tangerang,400.0,200.0,3650.0,Other,2,0,0,0,1,0,1,2,1,0,House Type 200,Unfurnished,4400.0,New,Northeast,Groundwater,False,5.5,city
+Pondok Aren,Tangerang Selatan,120.0,120.0,1750.0,Other,2,1,0,1,0,0,1,3,1,0,House Type 120,Semi Furnished,2200.0,Renovated,Northeast,Groundwater,False,4.0,city
+Kebayoran Lama,Jakarta Selatan,257.0,350.0,12500.0,SHM,4,2,1,1,0,1,1,4,1,0,House Type >300,Unfurnished,5280.0,Renovated,Southeast,Groundwater,True,5.3,city
+Ciputat,Tangerang Selatan,212.0,375.0,4750.0,Other,4,1,2,1,2,1,1,5,1,0,House Type >300,Semi Furnished,1300.0,New,North,Groundwater,False,12.5,city
+Ciledug,Kota Tangerang,418.0,343.0,2140.0,SHM,2,0,0,0,0,0,1,4,1,0,House Type >300,Unfurnished,4000.0,Well Maintained,South,Groundwater,False,5.0,city
+Kalideres,Jakarta Barat,180.0,120.0,385.0,SHM,1,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Ciputat Timur,Tangerang Selatan,80.0,160.0,1630.0,Other,3,1,0,1,2,0,1,3,1,0,House Type 200,Unfurnished,3500.0,New,East,Groundwater,False,4.2,city
+Cileungsi,Kabupaten Bogor,60.0,30.0,59.0,HGB,1,0,1,0,0,0,1,2,1,0,House Type 36,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,regency
+Pesanggrahan,Jakarta Selatan,109.0,75.0,638.0,SHM,2,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,1660.0,Renovated,North,Groundwater,False,5.1,city
+Pasar Minggu,Jakarta Selatan,554.0,410.0,12500.0,SHM,2,1,5,1,0,2,1,8,1,0,House Type >300,Unfurnished,3300.0,Renovated,Northeast,Groundwater,False,5.0,city
+Bekasi,Kota Bekasi,126.0,110.0,1650.0,SHM,3,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northeast,PAM/PDAM,False,4.0,city
+Penjaringan,Jakarta Utara,120.0,146.0,3400.0,Other,3,1,2,1,2,0,1,3,1,0,House Type 200,Unfurnished,5500.0,New,South,Groundwater,False,4.5,city
+Ciseeng,Kabupaten Bogor,91.0,75.0,768.0,SHM,2,0,0,0,0,0,1,3,1,0,House Type 120,Semi Furnished,2200.0,Renovated,South,Groundwater,False,6.0,regency
+Ciputat,Tangerang Selatan,78.0,68.0,1500.0,SHM,2,0,1,0,2,0,1,3,1,0,House Type 70,Semi Furnished,2200.0,Renovated,West,Groundwater,False,4.5,city
+Pesanggrahan,Jakarta Selatan,190.0,130.0,1200.0,SHM,2,0,1,0,0,0,1,4,1,0,House Type 200,Unfurnished,2020.0,New,Northeast,Groundwater,False,5.4,city
+Kelapa Gading,Jakarta Utara,120.0,170.0,8210.0,Other,4,1,1,1,2,0,1,4,1,0,House Type 200,Semi Furnished,4400.0,Renovated,Northeast,Groundwater,False,6.5,city
+Kelapa Gading,Jakarta Utara,100.0,142.0,6270.0,Other,4,1,2,1,2,0,1,4,1,0,House Type 200,Furnished,2200.0,New,North,Groundwater,False,5.5,city
+Kelapa Gading,Jakarta Utara,75.0,107.0,4850.0,Other,4,1,1,1,0,0,1,4,1,0,House Type 120,Unfurnished,1300.0,New,North,Groundwater,False,12.5,city
+Kelapa Gading,Jakarta Utara,57.0,81.0,3000.0,Other,1,0,1,0,0,0,1,2,1,0,House Type 120,Semi Furnished,1300.0,New,Northeast,Groundwater,False,5.2,city
+Cempaka Putih,Jakarta Pusat,30.0,50.0,550.0,SHM,1,0,0,0,2,0,1,2,1,0,House Type 54,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Kemayoran,Jakarta Pusat,120.0,240.0,3000.0,SHM,3,0,1,0,2,0,1,4,1,0,House Type 300,Unfurnished,2200.0,Well Maintained,Northeast,PAM/PDAM,False,4.5,city
+Senen,Jakarta Pusat,134.0,410.0,4000.0,SHM,11+,0,0,0,0,0,1,9+,1,0,House Type >300,Semi Furnished,10000.0,Renovated,Northwest,Groundwater,False,5.0,city
+Pesanggrahan,Jakarta Selatan,395.0,300.0,10000.0,SHM,4,2,3,1,2,1,1,4,1,1,House Type 300,Unfurnished,3500.0,Renovated,East,Groundwater,False,6.5,city
+Penjaringan,Jakarta Utara,240.0,337.0,6800.0,SHM,4,0,2,0,2,0,1,5,1,0,House Type >300,Unfurnished,5500.0,New,North,Groundwater,False,5.0,city
+Kemayoran,Jakarta Pusat,88.0,352.0,2000.0,SHM,3,0,0,0,4,0,1,9+,1,0,House Type >300,Unfurnished,3500.0,Renovated,South,Groundwater,False,2.5,city
+Kemayoran,Jakarta Pusat,102.0,204.0,2000.0,SHM,3,0,0,0,2,0,1,5,1,0,House Type 300,Semi Furnished,1300.0,Renovated,North,Groundwater,False,2.5,city
+Kembangan,Jakarta Barat,160.0,423.0,8250.0,SHM,3,1,2,1,3,0,1,3,1,0,House Type >300,Semi Furnished,10000.0,Renovated,South,PAM/PDAM,False,6.0,city
+Karawaci,Kota Tangerang,144.0,90.0,1900.0,SHM,1,0,2,0,0,0,1,2,1,0,House Type 120,Unfurnished,2200.0,Renovated,North,Groundwater,False,5.0,city
+Kelapa Gading,Jakarta Utara,120.0,160.0,5900.0,Other,1,1,2,1,2,0,1,3,1,0,House Type 200,Unfurnished,2200.0,New,Northeast,Groundwater,False,5.5,city
+Cilandak,Jakarta Selatan,154.0,395.0,7400.0,SHM,4,1,1,1,3,2,1,4,1,0,House Type >300,Unfurnished,6560.0,Well Maintained,South,Groundwater,False,5.0,city
+Setiabudi,Jakarta Selatan,682.0,400.0,25000.0,SHM,5,0,2,0,2,3+,1,9+,1,0,House Type >300,Unfurnished,10000.0,Renovated,East,Groundwater,False,5.5,city
+Kembangan,Jakarta Barat,132.0,257.0,3200.0,SHM,3,1,1,1,3,0,1,4,1,0,House Type 300,Semi Furnished,3500.0,New,North,Groundwater,False,4.5,city
+Kembangan,Jakarta Barat,150.0,1002.0,3900.0,SHM,2,1,1,1,1.5,0,2,2,1,0,House Type >300,Unfurnished,3200.0,Well Maintained,East,Groundwater,False,5.0,city
+Pulo Gadung,Jakarta Timur,142.0,250.0,3800.0,SHM,7,0,2,0,2,0,1,5,1,0,House Type 300,Unfurnished,2200.0,New,Northeast,PAM/PDAM,False,4.5,city
+Cilandak,Jakarta Selatan,300.0,323.0,8500.0,SHM,4,2,2,1,2,2,1,5,1,0,House Type >300,Semi Furnished,5500.0,Well Maintained,Southeast,Groundwater,False,7.0,city
+Pesanggrahan,Jakarta Selatan,450.0,256.0,5000.0,SHM,5,1,8,1,2,3+,1,5,1,0,House Type 300,Unfurnished,4400.0,Well Maintained,East,Groundwater,False,5.0,city
+Ciracas,Jakarta Timur,360.0,300.0,3500.0,SHM,3,1,1,1,2,1,2,4,1,0,House Type 300,Semi Furnished,4320.0,New,Northeast,Groundwater,False,7.5,city
+Pasar Minggu,Jakarta Selatan,130.0,200.0,3400.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 200,Unfurnished,2200.0,New,Northeast,Groundwater,False,4.0,city
+Cilandak,Jakarta Selatan,532.0,20.0,6500.0,SHM,1,0,1,0,1,0,1,1,1,0,House Type 21,Unfurnished,9420.0,Need Renovation,North,Groundwater,True,5.0,city
+Cilandak,Jakarta Selatan,187.0,464.0,8000.0,SHM,5,0,2,0,3.5,0,1,5,1,0,House Type >300,Furnished,8120.0,Well Maintained,Northeast,Groundwater,False,7.5,city
+Pancoran,Jakarta Selatan,542.0,414.0,11500.0,SHM,4,1,2,1,3.5,3+,1,5,1,0,House Type >300,Furnished,11040.0,Well Maintained,Northeast,Groundwater,False,5.0,city
+Tebet,Jakarta Selatan,90.0,210.0,3500.0,SHM,4,1,1,0,3.5,1,1,4,1,0,House Type 300,Unfurnished,3780.0,New,Northwest,Groundwater,False,2.5,city
+Ciputat,Tangerang Selatan,96.0,110.0,1800.0,SHM,3,0,1,1,2,0,1,4,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Cikarang,Kabupaten Bekasi,60.0,102.0,750.0,SHM,3,0,1,0,2,0,1,4,1,1,House Type 120,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,6.0,regency
+Kembangan,Jakarta Barat,150.0,300.0,5500.0,SHM,3,1,0,1,2,0,1,4,1,0,House Type 300,Furnished,3500.0,New,South,Groundwater,False,5.6,city
+Serpong Utara,Tangerang Selatan,112.0,80.0,2300.0,SHM,2,0,1,0,0,0,1,2,1,0,House Type 120,Unfurnished,2200.0,Renovated,North,Groundwater,False,5.0,city
+Cinere,Depok,170.0,150.0,2200.0,SHM,3,0,1,0,0,0,1,3,1,0,House Type 200,Unfurnished,3300.0,Well Maintained,South,Groundwater,False,5.0,city
+Ciledug,Kota Tangerang,145.0,128.0,980.0,SHM,2,0,1,0,0,0,1,2,1,0,House Type 200,Unfurnished,2280.0,Well Maintained,Northwest,Groundwater,False,5.6,city
+Tanjung Priok,Jakarta Utara,300.0,700.0,13500.0,SHM,6,1,2,0,3.5,2,1,8,1,0,House Type >300,Semi Furnished,13300.0,New,East,Groundwater,False,5.0,city
+Kelapa Dua,Kabupaten Tangerang,99.0,135.0,1700.0,HGB,3,1,1,0,2,0,1,3,1,0,House Type 200,Semi Furnished,3300.0,Renovated,East,Groundwater,False,4.7,regency
+Tanjung Priok,Jakarta Utara,205.0,270.0,6150.0,SHM,4,0,2,0,0,0,1,4,1,0,House Type 300,Semi Furnished,4500.0,Renovated,North,PAM/PDAM,False,5.0,city
+Ciputat,Tangerang Selatan,72.0,50.0,560.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 54,Unfurnished,1280.0,Renovated,North,Groundwater,False,5.1,city
+Penjaringan,Jakarta Utara,250.0,600.0,13500.0,Other,3,0,2,0,3,0,1,3,1,0,House Type >300,Unfurnished,3500.0,Renovated,North,Groundwater,False,5.0,city
+Kelapa Gading,Jakarta Utara,102.0,120.0,2300.0,SHM,2,1,1,0,1,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,West,PAM/PDAM,False,5.0,city
+Kelapa Gading,Jakarta Utara,162.0,300.0,4750.0,SHM,3,1,2,1,2,0,1,5,1,0,House Type 300,Furnished,5500.0,Well Maintained,East,Groundwater,False,7.5,city
+Serpong,Tangerang Selatan,465.0,396.0,17500.0,Other,5,0,2,0,0,0,1,5,1,0,House Type >300,Semi Furnished,30500.0,Renovated,North,Groundwater,False,5.0,city
+Tanjung Priok,Jakarta Utara,160.0,200.0,3300.0,SHM,2,1,2,1,2,0,1,3,1,0,House Type 200,Semi Furnished,3300.0,New,North,Groundwater,False,4.5,city
+Ciputat,Tangerang Selatan,72.0,90.0,950.0,SHM,2,0,1,0,2,0,1,3,1,0,House Type 120,Semi Furnished,2200.0,Renovated,Northwest,PAM/PDAM,False,6.0,city
+Cileungsi,Kabupaten Bogor,176.0,100.0,1600.0,SHM,2,1,2,1,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,Northeast,PAM/PDAM,False,4.0,regency
+Tangerang,Kota Tangerang,80.0,100.0,2750.0,Other,2,1,2,1,0,0,1,3,1,0,House Type 120,Furnished,3300.0,New,North,Groundwater,False,5.0,city
+Jagakarsa,Jakarta Selatan,500.0,350.0,4750.0,SHM,3,0,2,0,0,0,1,4,1,0,House Type >300,Unfurnished,1300.0,Well Maintained,North,Groundwater,False,5.0,city
+Jatinegara,Jakarta Timur,466.0,216.0,7500.0,HGB,2,0,1,0,1,1,1,8,1,0,House Type 300,Unfurnished,2200.0,Need Renovation,South,Groundwater,True,5.0,city
+Kalideres,Jakarta Barat,90.0,100.0,1450.0,SHM,2,1,1,1,1,0,1,2,1,0,House Type 120,Unfurnished,2200.0,Renovated,North,Groundwater,False,4.5,city
+Serpong,Tangerang Selatan,112.0,77.0,2150.0,Other,2,1,2,1,2,0,1,3,1,0,House Type 120,Furnished,2200.0,Renovated,South,Groundwater,False,5.0,city
+Penjaringan,Jakarta Utara,120.0,300.0,5200.0,SHM,2,0,2,0,3.5,0,1,3,1,0,House Type 300,Furnished,5500.0,New,North,Groundwater,False,5.0,city
+Kembangan,Jakarta Barat,142.0,142.0,3800.0,Other,3,1,1,1,3,0,1,4,1,0,House Type 200,Furnished,5500.0,New,Northeast,Groundwater,False,5.5,city
+Tanjung Priok,Jakarta Utara,160.0,255.0,6900.0,SHM,4,1,2,1,3,0,1,5,1,0,House Type 300,Unfurnished,3500.0,New,Southwest,PAM/PDAM,True,5.0,city
+Cinere,Depok,351.0,122.0,1950.0,SHM,3,0,1,0,0,0,1,5,1,0,House Type 200,Unfurnished,2900.0,Well Maintained,Northwest,Groundwater,False,5.2,city
+Mustika Jaya,Kota Bekasi,80.0,50.0,590.0,SHM,1,0,1,0,0,0,1,3,1,0,House Type 54,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Gunung Putri,Kabupaten Bogor,125.0,48.0,940.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 54,Unfurnished,1300.0,Renovated,Northeast,Groundwater,False,4.7,regency
+Parung,Kabupaten Bogor,105.0,88.0,1410.0,SHM,2,0,0,0,2,0,1,3,1,0,House Type 120,Semi Furnished,2200.0,Renovated,North,Groundwater,False,4.5,regency
+Babakan Madang,Kabupaten Bogor,126.0,100.0,1900.0,Other,2,1,1,1,2,0,1,3,1,1,House Type 120,Furnished,3300.0,Renovated,North,PAM/PDAM,False,6.0,regency
+Kelapa Gading,Jakarta Utara,105.0,180.0,4000.0,SHM,1,1,0,0,2,0,1,4,1,0,House Type 200,Unfurnished,2200.0,New,Northwest,PAM/PDAM,False,5.5,city
+Tanah Sareal,Kota Bogor,136.0,220.0,1400.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Bogor Barat,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,3,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Cakung,Jakarta Timur,148.0,156.0,2550.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 200,Unfurnished,3500.0,Renovated,North,PAM/PDAM,False,5.5,city
+Penjaringan,Jakarta Utara,300.0,600.0,14000.0,SHM,5,2,4,0,3,0,1,6,1,0,House Type >300,Semi Furnished,7700.0,New,South,Groundwater,False,5.0,city
+Koja,Jakarta Utara,77.0,60.0,1200.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 60,Unfurnished,2200.0,Well Maintained,Northeast,PAM/PDAM,False,5.0,city
+Jati Asih,Kota Bekasi,110.0,48.0,850.0,SHM,1,0,1,0,1,0,1,2,1,0,House Type 54,Semi Furnished,2020.0,Well Maintained,Northwest,Groundwater,False,6.0,city
+Cakung,Jakarta Timur,90.0,75.0,1550.0,SHM,2,1,2,1,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,South,Groundwater,False,4.5,city
+Cinere,Depok,73.0,96.0,1330.0,SHM,2,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,3520.0,New,North,Groundwater,False,4.5,city
+Pasar Minggu,Jakarta Selatan,184.0,200.0,2852.0,SHM,2,1,2,1,1.5,0,1,4,1,0,House Type 200,Semi Furnished,3500.0,Renovated,North,Groundwater,False,4.5,city
+Bekasi Selatan,Kota Bekasi,68.0,76.0,1120.0,Other,2,0,1,0,2,0,1,2,1,0,House Type 120,Unfurnished,2200.0,Renovated,North,PAM/PDAM,False,5.4,city
+Cakung,Jakarta Timur,96.0,58.0,1500.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 60,Unfurnished,2200.0,New,South,PAM/PDAM,False,4.5,city
+Cakung,Jakarta Timur,210.0,121.0,3299.0,Other,3,1,0,1,2,0,1,4,1,0,House Type 200,Unfurnished,4480.0,New,South,Groundwater,False,5.5,city
+Sawah Besar,Jakarta Pusat,477.0,360.0,19500.0,SHM,4,1,2,1,2,2,1,6,1,0,House Type >300,Semi Furnished,7700.0,Renovated,East,PAM/PDAM,False,5.5,city
+Cileungsi,Kabupaten Bogor,330.0,250.0,2850.0,Other,1,0,0,0,2,3+,1,3,1,0,House Type 300,Unfurnished,2720.0,New,East,Groundwater,False,5.2,regency
+Cakung,Jakarta Timur,102.0,75.0,2000.0,SHM,2,1,2,1,2,0,1,3,1,0,House Type 120,Semi Furnished,2200.0,Renovated,Northeast,PAM/PDAM,False,5.2,city
+Pulo Gadung,Jakarta Timur,130.0,200.0,3750.0,SHM,3,1,0,0,2,0,1,4,1,0,House Type 200,Semi Furnished,4400.0,New,South,Groundwater,False,5.0,city
+Cinere,Depok,380.0,350.0,3500.0,SHM,5,1,0,1,2,0,2,7,1,0,House Type >300,Semi Furnished,10600.0,New,Northeast,Groundwater,True,4.5,city
+Setiabudi,Jakarta Selatan,1019.0,600.0,67500.0,SHM,5,0,0,0,0,0,1,5,1,0,House Type >300,Unfurnished,23000.0,New,Northwest,Groundwater,False,5.0,city
+Bogor Barat,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Bogor Barat,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Batuceper,Kota Tangerang,144.0,300.0,3500.0,SHM,3,1,2,1,3,0,1,4,1,0,House Type 300,Semi Furnished,4400.0,New,Northeast,PAM/PDAM,False,5.0,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Well Maintained,Northwest,Groundwater,False,4.5,city
+Pasar Minggu,Jakarta Selatan,296.0,245.0,1880.0,SHM,1,0,0,0,0,0,1,3,1,0,House Type 300,Unfurnished,3080.0,Well Maintained,Northwest,Groundwater,False,5.0,city
+Tanjung Priok,Jakarta Utara,200.0,210.0,5000.0,SHM,3,1,2,0,2,0,1,3,1,0,House Type 300,Furnished,6000.0,Need Renovation,Southeast,Groundwater,True,12.5,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Well Maintained,Northwest,Groundwater,False,4.5,city
+Cipayung,Jakarta Timur,66.0,100.0,1500.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,Northwest,Groundwater,False,4.5,city
+Kebon Jeruk,Jakarta Barat,144.0,250.0,3850.0,SHM,5,1,1,1,2,1,1,5,1,0,House Type 300,Unfurnished,4400.0,New,North,Groundwater,False,5.0,city
+Legok,Kabupaten Tangerang,54.0,110.0,1390.0,Other,3,0,0,0,3,0,1,1,1,0,House Type 120,Semi Furnished,5500.0,New,North,Groundwater,False,4.2,regency
+Sawangan,Depok,119.0,57.0,897.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 60,Unfurnished,1840.0,Renovated,Northwest,Groundwater,False,6.0,city
+Ciracas,Jakarta Timur,100.0,100.0,550.0,SHM,3,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,3500.0,Renovated,Northwest,Groundwater,False,4.5,city
+Legok,Kabupaten Tangerang,41.0,45.0,556.0,Other,2,0,1,0,0,0,1,2,1,0,House Type 45,Unfurnished,1300.0,Renovated,North,Groundwater,False,5.1,regency
+Legok,Kabupaten Tangerang,39.0,67.0,809.0,Other,2,0,2,0,0,0,1,2,1,0,House Type 70,Semi Furnished,2020.0,Renovated,Northeast,Groundwater,False,6.0,regency
+Legok,Kabupaten Tangerang,38.0,42.0,512.0,Other,1,0,1,0,0,0,1,2,1,0,House Type 45,Unfurnished,1300.0,Renovated,North,Groundwater,False,5.1,regency
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Karawaci,Kota Tangerang,84.0,70.0,1206.784,Other,2.5,0,1,0,0,0,1,3,1,0,House Type 70,Unfurnished,2640.0,New,Northeast,Groundwater,True,5.4,city
+Legok,Kabupaten Tangerang,74.0,28.0,606.0,Other,1,0,1,0,0,0,1,1,1,0,House Type 36,Unfurnished,1280.0,Renovated,North,Groundwater,False,5.1,regency
+Kelapa Dua,Kabupaten Tangerang,73.0,55.0,928.0,Other,2,0,1,0,0,0,1,2,1,0,House Type 60,Semi Furnished,2200.0,Renovated,Northwest,Groundwater,False,6.0,regency
+Kelapa Dua,Kabupaten Tangerang,183.0,145.0,3602.267,Other,3,1,2,1,2,0,1,3,1,0,House Type 200,Furnished,4040.0,Renovated,North,Groundwater,True,4.5,regency
+Serpong,Tangerang Selatan,133.0,112.0,2200.0,Other,3,1,2,1,1,0,1,4,1,0,House Type 120,Semi Furnished,4400.0,Renovated,North,Groundwater,False,5.0,city
+Tanjung Priok,Jakarta Utara,90.0,130.0,1600.0,SHM,2,0,0,0,2,0,1,5,1,0,House Type 200,Unfurnished,2200.0,New,South,Groundwater,False,5.0,city
+Ciputat,Tangerang Selatan,570.0,630.0,9500.0,Other,5,4,0,2,0,0,1,7,1,0,House Type >300,Semi Furnished,16500.0,New,Northwest,Groundwater,False,5.0,city
+Pesanggrahan,Jakarta Selatan,700.0,300.0,5000.0,SHM,3,1,3,1,1,2,1,4,1,0,House Type 300,Unfurnished,3780.0,Renovated,Northeast,Groundwater,False,5.0,city
+Cilandak,Jakarta Selatan,341.0,661.0,20000.0,SHM,4,2,3,3,3,0,1,4,1,0,House Type >300,Unfurnished,11000.0,New,East,Groundwater,False,5.5,city
+Pasar Minggu,Jakarta Selatan,120.0,200.0,3400.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 200,Unfurnished,2200.0,New,Northeast,Groundwater,False,4.0,city
+Tebet,Jakarta Selatan,325.0,570.0,11500.0,SHM,5,2,1,1,2,2,1,5,1,0,House Type >300,Semi Furnished,11000.0,Renovated,East,Groundwater,False,5.0,city
+Cakung,Jakarta Timur,112.0,168.0,2400.0,SHM,2,1,2,1,2.5,0,1,4,1,1,House Type 200,Semi Furnished,7700.0,Renovated,North,Groundwater,False,5.0,city
+Pesanggrahan,Jakarta Selatan,125.0,210.0,3500.0,SHM,3,1,1,1,3,1,1,3,1,0,House Type 300,Unfurnished,2200.0,New,Northeast,Groundwater,False,5.0,city
+Jagakarsa,Jakarta Selatan,103.0,155.0,2000.0,SHM,3,1,1,0,2,0,1,3,1,0,House Type 200,Unfurnished,2300.0,New,Northwest,Groundwater,False,6.0,city
+Pasar Minggu,Jakarta Selatan,110.0,230.0,3200.0,SHM,3,1,1,1,3,1,1,3,1,0,House Type 300,Unfurnished,4400.0,New,Northeast,Groundwater,False,4.5,city
+Cilandak,Jakarta Selatan,418.0,500.0,11000.0,SHM,3,2,1,1,2,2,1,4,1,0,House Type >300,Unfurnished,5500.0,Need Renovation,Northeast,Groundwater,False,5.0,city
+Jagakarsa,Jakarta Selatan,165.0,270.0,3400.0,SHM,3,1,2,1,2,0,1,4,1,0,House Type 300,Semi Furnished,4400.0,New,Northeast,Groundwater,False,5.0,city
+Cilandak,Jakarta Selatan,406.0,246.0,6500.0,SHM,3,0,2,0,0,0,1,3,1,0,House Type 300,Unfurnished,8000.0,Need Renovation,East,Groundwater,False,5.0,city
+Kelapa Gading,Jakarta Utara,1100.0,1038.0,49000.0,HGB,7,3,4,2,2,0,1,6,1,0,House Type >300,Semi Furnished,13200.0,New,South,Groundwater,False,5.0,city
+Mampang Prapatan,Jakarta Selatan,205.0,320.0,7700.0,SHM,4,1,1,1,3,1,1,4,1,0,House Type >300,Semi Furnished,7000.0,Well Maintained,North,Groundwater,False,5.0,city
+Kebayoran Baru,Jakarta Selatan,458.0,320.0,45000.0,SHM,4,2,4,1,0,2,1,3,1,0,House Type >300,Unfurnished,9720.0,Renovated,West,Groundwater,False,5.0,city
+Jagakarsa,Jakarta Selatan,750.0,520.0,12000.0,SHM,5,2,10,2,2,3+,1,5,1,0,House Type >300,Unfurnished,13200.0,New,East,Groundwater,False,5.0,city
+Duren Sawit,Jakarta Timur,111.0,165.0,2650.0,SHM,3,1,1,1,2,0,1,3,1,0,House Type 200,Semi Furnished,3500.0,Well Maintained,West,Groundwater,False,5.5,city
+Mampang Prapatan,Jakarta Selatan,830.0,450.0,21000.0,SHM,4,2,2,1,1,2,1,5,1,0,House Type >300,Unfurnished,22000.0,Renovated,Northwest,Groundwater,False,5.0,city
+Cilandak,Jakarta Selatan,463.0,310.0,10500.0,SHM,4,1,2,1,2,3+,1,4,1,0,House Type >300,Unfurnished,4400.0,Renovated,East,Groundwater,False,5.0,city
+Kebayoran Lama,Jakarta Selatan,268.0,80.0,11000.0,SHM,3,0,2,0,2,0,1,4,1,0,House Type 120,Unfurnished,5500.0,Renovated,North,Groundwater,False,5.5,city
+Kebayoran Baru,Jakarta Selatan,350.0,700.0,16000.0,SHM,5,0,7,0,3,0,1,5,1,0,House Type >300,Unfurnished,11584.6,Well Maintained,Northeast,Groundwater,False,5.0,city
+Kebayoran Baru,Jakarta Selatan,330.0,750.0,32500.0,SHM,5,3,2,2,3,3+,1,4,1,0,House Type >300,Unfurnished,22640.0,Renovated,Northeast,Groundwater,False,5.5,city
+Kebayoran Baru,Jakarta Selatan,326.0,550.0,49500.0,SHM,4,3,4,2,3,2,1,5,1,0,House Type >300,Unfurnished,23000.0,New,North,Groundwater,False,5.0,city
+Mampang Prapatan,Jakarta Selatan,465.0,640.0,13900.0,SHM,4,1,2,1,2.5,2,2,4,1,1,House Type >300,Unfurnished,8200.0,New,South,Groundwater,False,5.0,city
+Kebayoran Baru,Jakarta Selatan,372.0,700.0,33000.0,SHM,5,2,2,1,3.5,2,1,5,1,0,House Type >300,Unfurnished,22640.0,Renovated,Northeast,Groundwater,False,5.0,city
+Cilandak,Jakarta Selatan,329.0,830.0,16500.0,SHM,5,2,2,1,0,3+,1,5,1,0,House Type >300,Unfurnished,14004.6,New,North,Groundwater,False,5.0,city
+Mampang Prapatan,Jakarta Selatan,650.0,1150.0,33000.0,SHM,3,3,2,3,1,3+,1,5,1,0,House Type >300,Unfurnished,12000.0,Well Maintained,Northwest,Groundwater,False,5.0,city
+Kebayoran Lama,Jakarta Selatan,430.0,995.0,24800.0,SHM,4,2,3,2,0,3+,1,4,1,0,House Type >300,Unfurnished,23000.0,Renovated,South,Groundwater,False,5.0,city
+Setiabudi,Jakarta Selatan,461.0,1300.0,22000.0,SHM,3,2,2,3,3,3+,2,3,4,0,House Type >300,Unfurnished,15400.0,New,Northwest,Groundwater,False,5.5,city
+Tanjung Priok,Jakarta Utara,168.0,212.0,5500.0,SHM,4,0,1,0,2,0,1,4,1,0,House Type 300,Unfurnished,2200.0,New,South,Groundwater,False,5.0,city
+Duren Sawit,Jakarta Timur,108.0,165.0,2500.0,SHM,3,1,2,1,2,0,1,4,1,0,House Type 200,Unfurnished,3340.0,Renovated,Northeast,Groundwater,False,5.0,city
+Cilandak,Jakarta Selatan,532.0,300.0,6500.0,SHM,2,0,2,0,1,0,1,2,1,0,House Type 300,Unfurnished,6220.0,Need Renovation,Northeast,Groundwater,True,5.0,city
+Kebayoran Lama,Jakarta Selatan,555.0,900.0,30000.0,SHM,4,2,4,0,2,3+,1,4,1,0,House Type >300,Unfurnished,22240.0,Renovated,Northeast,Groundwater,False,5.5,city
+Tebet,Jakarta Selatan,90.0,210.0,3500.0,SHM,4,1,1,0,3.5,1,1,4,1,0,House Type 300,Semi Furnished,3780.0,New,Northwest,Groundwater,False,2.5,city
+Mampang Prapatan,Jakarta Selatan,210.0,350.0,8000.0,SHM,3,1,2,1,3,0,2,4,1,0,House Type >300,Unfurnished,6240.0,New,Northeast,Groundwater,False,5.0,city
+Pesanggrahan,Jakarta Selatan,270.0,500.0,8500.0,SHM,5,1,2,1,2,0,1,4,1,0,House Type >300,Semi Furnished,7700.0,Well Maintained,Northeast,Groundwater,False,8.0,city
+Kebayoran Lama,Jakarta Selatan,211.0,144.0,4700.0,SHM,2,0,3,0,1,0,1,3,1,0,House Type 200,Unfurnished,2200.0,Need Renovation,East,Groundwater,False,12.5,city
+Cilandak,Jakarta Selatan,320.0,360.0,8700.0,SHM,3,1,1,1,2,1,2,6,1,0,House Type >300,Semi Furnished,5500.0,New,Southeast,Groundwater,False,7.0,city
+Setu,Kabupaten Bekasi,76.0,90.0,1600.0,SHM,3,0,2,0,0,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,Northwest,Groundwater,False,4.0,regency
+Cengkareng,Jakarta Barat,45.0,61.0,1280.0,SHM,1,0,0,0,0,0,1,2,1,0,House Type 70,Semi Furnished,2200.0,New,East,PAM/PDAM,False,4.9,city
+Cipayung,Jakarta Timur,88.0,80.0,1750.0,SHM,2,1,2,0,2,0,1,3,1,0,House Type 120,Unfurnished,2420.0,Well Maintained,Northeast,Groundwater,False,4.5,city
+Cipayung,Jakarta Timur,320.0,223.0,3000.0,SHM,4,1,2,1,0,0,1,3,1,1,House Type 300,Unfurnished,2720.0,New,North,Groundwater,False,5.0,city
+Cimanggis,Depok,106.0,50.0,327.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 54,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Kebayoran Baru,Jakarta Selatan,346.0,400.0,32000.0,SHM,4,2,2,2,2,3+,1,4,1,0,House Type >300,Unfurnished,22640.0,Well Maintained,South,Groundwater,False,5.0,city
+Cinere,Depok,100.0,140.0,1650.0,SHM,4,1,2,1,0,0,1,3,1,0,House Type 200,Unfurnished,2680.0,Renovated,Northeast,Groundwater,False,4.5,city
+Pondok Aren,Tangerang Selatan,250.0,338.0,3200.0,Other,2,1,1,1,2,1,1,5,1,0,House Type >300,Semi Furnished,2200.0,New,Northeast,Groundwater,False,5.5,city
+Ciputat,Tangerang Selatan,212.0,375.0,4750.0,Other,4,1,2,1,2,1,1,5,1,0,House Type >300,Semi Furnished,1300.0,New,North,Groundwater,False,12.5,city
+Bogor Timur,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Parung,Kabupaten Bogor,60.0,42.0,784.0,SHM,1,0,0,0,0,0,1,2,1,0,House Type 45,Semi Furnished,2200.0,Renovated,South,Groundwater,False,6.0,regency
+Parung,Kabupaten Bogor,105.0,88.0,1360.0,SHM,2,0,0,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,Northeast,Groundwater,False,4.5,regency
+Parung,Kabupaten Bogor,72.0,69.0,1100.0,SHM,2,0,0,0,0,0,1,3,1,0,House Type 70,Semi Furnished,2200.0,Renovated,Northeast,Groundwater,False,5.4,regency
+Kebayoran Lama,Jakarta Selatan,759.0,1115.0,55000.0,SHM,6,2,3,2,0,3+,1,6,1,0,House Type >300,Semi Furnished,8000.0,New,North,Groundwater,False,5.0,city
+Mampang Prapatan,Jakarta Selatan,249.0,283.0,1600.0,SHM,2,0,1,0,0,0,1,4,1,0,House Type 300,Unfurnished,2200.0,New,South,Groundwater,False,4.5,city
+Kemayoran,Jakarta Pusat,279.0,440.0,3900.0,SHM,4,0,1,0,2,0,1,9+,1,0,House Type >300,Unfurnished,2200.0,Renovated,Northeast,Groundwater,False,5.5,city
+Bojongsari,Depok,104.0,75.0,475.0,SHM,1,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,1740.0,Renovated,North,Groundwater,False,5.1,city
+Pasar Minggu,Jakarta Selatan,876.0,600.0,14000.0,SHM,3,2,4,1,0,2,1,4,1,0,House Type >300,Unfurnished,6820.0,New,North,Groundwater,False,5.6,city
+Kebayoran Baru,Jakarta Selatan,500.0,450.0,32000.0,SHM,4,2,4,1,2,2,1,4,1,0,House Type >300,Unfurnished,22640.0,Renovated,North,Groundwater,False,5.5,city
+Gunung Putri,Kabupaten Bogor,220.0,220.0,3500.0,SHM,3,1,2,1,2,1,1,3,1,0,House Type 300,Semi Furnished,2200.0,New,East,PAM/PDAM,False,4.5,regency
+Cikarang Pusat,Kabupaten Bekasi,136.0,98.0,1250.0,HGB,2,0,1,0,2,1,1,3,1,0,House Type 120,Unfurnished,2200.0,New,Northeast,Groundwater,False,4.9,regency
+Cilandak,Jakarta Selatan,180.0,280.0,7000.0,SHM,4,2,2,1,3,1,1,5,1,1,House Type 300,Unfurnished,10600.0,New,East,Groundwater,False,5.0,city
+Pondok Aren,Tangerang Selatan,177.0,280.0,4750.0,SHM,3,1,2,1,2,0,1,4,1,0,House Type 300,Unfurnished,3500.0,New,Northeast,PAM/PDAM,True,13.0,city
+Pondok Aren,Tangerang Selatan,264.0,390.0,6500.0,SHM,4,1,2,1,2,2,1,4,1,0,House Type >300,Unfurnished,3500.0,New,Northeast,PAM/PDAM,True,5.5,city
+Pasar Minggu,Jakarta Selatan,554.0,410.0,12500.0,SHM,2,1,5,1,2,2,1,8,1,0,House Type >300,Unfurnished,3300.0,Renovated,Northeast,Groundwater,False,5.0,city
+Pesanggrahan,Jakarta Selatan,114.0,99.0,2500.0,SHM,2,1,1,1,0,0,1,3,1,1,House Type 120,Semi Furnished,2200.0,Renovated,Northeast,PAM/PDAM,False,5.0,city
+Pasar Minggu,Jakarta Selatan,554.0,410.0,12500.0,SHM,2,1,5,1,0,2,1,8,1,0,House Type >300,Unfurnished,3300.0,Renovated,Northeast,Groundwater,False,5.0,city
+Pasar Minggu,Jakarta Selatan,554.0,410.0,12500.0,SHM,2,1,5,1,0,2,1,8,1,0,House Type >300,Unfurnished,3300.0,Renovated,Northeast,Groundwater,False,5.0,city
+Pasar Minggu,Jakarta Selatan,554.0,410.0,12500.0,SHM,2,1,5,1,0,2,1,8,1,0,House Type >300,Unfurnished,3300.0,Renovated,Northeast,Groundwater,False,5.0,city
+Bogor Barat,Kota Bogor,620.0,300.0,7000.0,SHM,4,0,2,0,2,0,1,5,1,0,House Type 300,Semi Furnished,4400.0,Need Renovation,South,Groundwater,False,5.0,city
+Kelapa Gading,Jakarta Utara,105.0,200.0,4250.0,SHM,3,1,1,1,3,0,1,3,1,0,House Type 200,Semi Furnished,7700.0,Renovated,North,Groundwater,False,13.4,city
+Ciputat,Tangerang Selatan,78.0,69.0,1500.0,SHM,2,0,0,0,2,0,1,3,1,0,House Type 70,Unfurnished,2200.0,Renovated,West,Groundwater,False,4.5,city
+Serpong,Tangerang Selatan,112.0,190.0,2350.0,SHM,2,0,0,0,2,0,1,3,1,0,House Type 200,Semi Furnished,900.0,Renovated,Southeast,PAM/PDAM,False,5.0,city
+Karang Tengah,Kota Tangerang,129.0,200.0,3000.0,SHM,3,0,1,0,2,0,1,4,1,0,House Type 200,Furnished,5500.0,New,East,Groundwater,True,5.2,city
+Pamulang,Tangerang Selatan,84.0,65.0,623.0,SHM,2,0,1,0,0,0,1,2,1,0,House Type 70,Unfurnished,1660.0,Renovated,North,Groundwater,False,5.1,city
+Bogor Barat,Kota Bogor,240.0,180.0,3900.0,SHM,4,0,1,0,2,0,1,4,1,0,House Type 200,Semi Furnished,2200.0,Renovated,Northeast,Groundwater,True,5.5,city
+Serpong,Tangerang Selatan,120.0,104.0,890.0,SHM,2,0,1,0,0,0,1,2,1,0,House Type 120,Unfurnished,1760.0,Renovated,Northwest,Groundwater,False,6.0,city
+Kelapa Dua,Kabupaten Tangerang,223.0,356.0,5800.0,Other,4,1,2,1,3,0,2,4,1,0,House Type >300,Furnished,10600.0,New,North,Groundwater,False,5.0,regency
+Serpong Utara,Tangerang Selatan,300.0,310.0,8000.0,SHM,4,1,2,1,0,0,1,4,1,0,House Type >300,Semi Furnished,3500.0,Renovated,Northeast,Groundwater,False,6.5,city
+Bojongsari,Depok,104.0,75.0,500.0,SHM,1,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,1740.0,Renovated,North,Groundwater,False,5.1,city
+Pulo Gadung,Jakarta Timur,145.0,435.0,5700.0,SHM,3,1,4,0,4,3+,1,3,1,0,House Type >300,Unfurnished,5500.0,New,South,Groundwater,False,6.0,city
+Limo,Depok,170.0,100.0,1950.0,SHM,2,0,1,0,0,0,1,2,1,0,House Type 120,Unfurnished,2900.0,Well Maintained,North,Groundwater,False,5.0,city
+Cengkareng,Jakarta Barat,96.0,120.0,1550.0,SHM,3,0,2,0,2,0,1,5,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Pasar Minggu,Jakarta Selatan,113.0,134.0,2650.0,SHM,3,1,1,1,2,0,1,3,1,0,House Type 200,Furnished,4400.0,Well Maintained,East,Groundwater,False,5.0,city
+Cilandak,Jakarta Selatan,213.0,378.0,10200.0,SHM,4,2,2,1,3,0,1,4,1,0,House Type >300,Semi Furnished,16000.0,Renovated,South,Groundwater,False,5.0,city
+Jagakarsa,Jakarta Selatan,550.0,1200.0,10900.0,SHM,6,2,2,2,3,3+,2,6,1,0,House Type >300,Furnished,6820.0,New,North,Groundwater,False,5.5,city
+Cakung,Jakarta Timur,180.0,250.0,4000.0,SHM,3,0,2,0,3,0,1,4,1,0,House Type 300,Semi Furnished,5500.0,Renovated,Northwest,Groundwater,False,5.5,city
+Cipondoh,Kota Tangerang,102.0,102.0,1250.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 120,Unfurnished,2640.0,New,Northwest,Groundwater,False,4.9,city
+Mampang Prapatan,Jakarta Selatan,400.0,375.0,11000.0,SHM,7,0,4,0,2,0,1,9+,1,0,House Type >300,Unfurnished,7700.0,Renovated,South,Groundwater,False,7.5,city
+Kebon Jeruk,Jakarta Barat,164.0,280.0,4800.0,SHM,3,1,1,1,0,1,1,4,1,0,House Type 300,Unfurnished,4220.0,New,North,Groundwater,False,14.0,city
+Ciputat Timur,Tangerang Selatan,160.0,200.0,1990.0,SHM,3,1,3,1,2,0,1,3,1,0,House Type 200,Unfurnished,4400.0,Well Maintained,North,Groundwater,False,5.0,city
+Pamulang,Tangerang Selatan,120.0,112.0,1585.0,SHM,3,0,3,0,0,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,North,PAM/PDAM,False,4.0,city
+Kelapa Gading,Jakarta Utara,72.0,96.0,1970.0,SHM,3,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,3300.0,New,East,Groundwater,True,5.0,city
+Kelapa Gading,Jakarta Utara,54.0,70.0,1770.0,SHM,3,0,1,0,0,0,1,3,1,0,House Type 70,Unfurnished,3300.0,New,East,Groundwater,False,5.0,city
+Kelapa Dua,Kabupaten Tangerang,300.0,420.0,7800.0,SHM,4,1,2,2,0,0,1,4,1,0,House Type >300,Semi Furnished,10600.0,Renovated,Northwest,Groundwater,False,6.5,regency
+Kebayoran Lama,Jakarta Selatan,285.0,80.0,3000.0,SHM,3,0,2,0,1,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Need Renovation,Northeast,Groundwater,False,5.0,city
+Kebon Jeruk,Jakarta Barat,175.0,185.0,6000.0,SHM,2,1,2,1,2,0,1,2,1,0,House Type 200,Furnished,4180.0,Well Maintained,North,Groundwater,False,5.0,city
+Kemayoran,Jakarta Pusat,317.0,590.0,7000.0,SHM,5,1,0,1,2,3+,1,5,1,0,House Type >300,Semi Furnished,6520.0,Renovated,West,Groundwater,False,6.5,city
+Tanjung Priok,Jakarta Utara,800.0,1200.0,21000.0,SHM,3,0,6,0,2,2,1,4,1,0,House Type >300,Unfurnished,10000.0,New,North,Groundwater,False,7.5,city
+Pasar Minggu,Jakarta Selatan,311.0,300.0,3400.0,SHM,4,0,2,0,2,0,1,8,2,0,House Type 300,Unfurnished,4580.0,New,North,Groundwater,False,5.5,city
+Tebet,Jakarta Selatan,434.0,473.0,670.0,SHM,2,0,1,0,0,0,1,5,1,0,House Type >300,Unfurnished,1400.0,Renovated,Northeast,Groundwater,False,4.7,city
+Cimanggis,Depok,220.0,224.0,2450.0,SHM,2,0,1,0,0,0,1,5,1,0,House Type 300,Unfurnished,4040.0,Well Maintained,North,Groundwater,False,5.5,city
+Bogor Barat,Kota Bogor,136.0,220.0,1380.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Johar Baru,Jakarta Pusat,386.0,550.0,5300.0,SHM,11+,0,1,0,2,0,1,9+,1,0,House Type >300,Unfurnished,3500.0,Well Maintained,Northeast,Groundwater,False,8.0,city
+Penjaringan,Jakarta Utara,120.0,384.0,5200.0,SHM,3,0,1,0,3.5,0,1,6,1,0,House Type >300,Semi Furnished,6600.0,Well Maintained,North,Groundwater,False,4.5,city
+Bogor Selatan,Kota Bogor,560.0,800.0,12500.0,SHM,4,2,4,1,1,3+,2,3,1,0,House Type >300,Semi Furnished,9000.0,Renovated,Northeast,Groundwater,False,5.5,city
+Penjaringan,Jakarta Utara,770.0,585.0,28000.0,SHM,5,2,2,1,2.5,2,1,5,1,0,House Type >300,Semi Furnished,10000.0,Renovated,Northeast,Groundwater,True,5.0,city
+Penjaringan,Jakarta Utara,88.0,88.0,8000.0,SHM,3,1,1,1,2,1,1,4,2,1,House Type 120,Unfurnished,7700.0,Renovated,North,PAM/PDAM,False,6.5,city
+Koja,Jakarta Utara,137.0,270.0,2150.0,SHM,3,0,1,0,2,1,1,3,1,0,House Type 300,Semi Furnished,3500.0,Renovated,Northeast,Groundwater,False,4.5,city
+Serpong,Tangerang Selatan,48.0,65.0,1300.0,Other,2,0,1,0,0,0,1,2,1,0,House Type 70,Furnished,2200.0,Renovated,South,Groundwater,False,4.5,city
+Cipondoh,Kota Tangerang,105.0,140.0,2500.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 200,Semi Furnished,4400.0,Renovated,East,PAM/PDAM,False,5.0,city
+Penjaringan,Jakarta Utara,180.0,250.0,8350.0,SHM,2,2,1,1,2.5,0,1,5,1,0,House Type 300,Semi Furnished,7700.0,Renovated,South,Groundwater,False,6.6,city
+Tanjung Priok,Jakarta Utara,220.0,400.0,7500.0,SHM,1,1,2,1,2.5,1,1,4,1,0,House Type >300,Semi Furnished,7700.0,Renovated,North,PAM/PDAM,False,6.5,city
+Cikarang,Kabupaten Bekasi,72.0,45.0,800.0,HGB,1,0,0,0,0,0,1,2,1,0,House Type 45,Unfurnished,2200.0,Renovated,South,Groundwater,False,6.0,regency
+Cakung,Jakarta Timur,240.0,235.0,5000.0,SHM,3,1,2,1,2,1,1,4,1,0,House Type 300,Unfurnished,4260.0,Need Renovation,Northwest,PAM/PDAM,False,4.5,city
+Setu,Kabupaten Bekasi,78.0,54.0,530.0,SHM,1,0,0,0,0,0,1,3,1,0,House Type 54,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,regency
+Pondok Gede,Kota Bekasi,134.0,265.0,5200.0,SHM,3,0,4,0,3.5,0,1,3,1,0,House Type 300,Unfurnished,2200.0,Need Renovation,East,Groundwater,False,4.5,city
+Pulo Gadung,Jakarta Timur,105.0,155.0,3500.0,SHM,3,1,1,1,2,0,1,3,1,0,House Type 200,Unfurnished,2200.0,New,Northeast,PAM/PDAM,False,4.0,city
+Penjaringan,Jakarta Utara,1150.0,1000.0,45000.0,SHM,3,1,2,1,2,2,1,3,1,0,House Type >300,Semi Furnished,10000.0,Renovated,South,Groundwater,False,5.5,city
+Tanjung Priok,Jakarta Utara,290.0,450.0,7000.0,SHM,2,2,3,1,0,0,1,4,1,0,House Type >300,Unfurnished,3300.0,New,East,Groundwater,False,6.0,city
+Cakung,Jakarta Timur,120.0,90.0,1650.0,SHM,2,0,1,0,1,0,1,2,1,0,House Type 120,Semi Furnished,2200.0,Renovated,East,PAM/PDAM,False,4.0,city
+Penjaringan,Jakarta Utara,50.0,200.0,3200.0,SHM,3,1,1,1,4,0,1,3,1,0,House Type 200,Furnished,3500.0,New,North,Groundwater,False,5.0,city
+Cimanggis,Depok,64.0,64.0,990.0,Other,1,0,0,0,0,0,1,2,1,0,House Type 70,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,5.6,city
+Cakung,Jakarta Timur,153.0,180.0,4000.0,Other,4,1,0,1,2.5,0,1,3,1,0,House Type 200,Unfurnished,3500.0,Renovated,Northwest,Groundwater,False,5.0,city
+Cakung,Jakarta Timur,98.0,115.0,2800.0,Other,4,0,0,0,2.5,0,1,3,1,0,House Type 120,Unfurnished,3500.0,New,North,PAM/PDAM,False,5.0,city
+Bekasi Barat,Kota Bekasi,79.0,150.0,800.0,SHM,2,0,1,0,2,0,1,3,1,0,House Type 200,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Senen,Jakarta Pusat,300.0,400.0,7500.0,SHM,2,1,0,1,3,0,1,6,1,1,House Type >300,Unfurnished,6880.0,Renovated,Northeast,Groundwater,False,10.0,city
+Kelapa Gading,Jakarta Utara,90.0,100.0,2300.0,SHM,1,1,0,1,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Well Maintained,North,PAM/PDAM,False,5.0,city
+Cilincing,Jakarta Utara,354.0,154.0,2800.0,SHM,3,0,5,0,1,0,1,6,1,0,House Type 200,Unfurnished,2200.0,Renovated,North,PAM/PDAM,False,5.0,city
+Cilandak,Jakarta Selatan,475.0,500.0,12500.0,SHM,4,0,3,0,0,0,1,5,1,0,House Type >300,Unfurnished,4400.0,Well Maintained,Northeast,Groundwater,True,5.0,city
+Cinere,Depok,336.0,400.0,4300.0,SHM,3,1,2,1,2,2,1,5,1,0,House Type >300,Semi Furnished,2200.0,Well Maintained,North,Groundwater,False,13.5,city
+Limo,Depok,110.0,100.0,1400.0,SHM,3,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,North,Groundwater,False,4.5,city
+Taman Sari,Jakarta Pusat,75.0,260.0,5300.0,SHM,11+,0,0,0,4,0,1,9+,1,0,House Type 300,Furnished,4400.0,New,East,Groundwater,False,5.0,city
+Taman Sari,Jakarta Pusat,75.0,260.0,5300.0,SHM,11+,0,0,0,4,0,1,9+,1,0,House Type 300,Furnished,4400.0,New,East,Groundwater,False,5.0,city
+Cakung,Jakarta Timur,102.0,76.0,1650.0,Other,2,1,2,1,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,East,PAM/PDAM,False,4.0,city
+Cakung,Jakarta Timur,120.0,120.0,1700.0,SHM,2,0,0,0,1,0,1,3,1,0,House Type 120,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Kebayoran Lama,Jakarta Selatan,620.0,1000.0,59000.0,SHM,5,2,5,1,2.5,0,1,5,1,0,House Type >300,Unfurnished,20000.0,New,Northeast,Groundwater,False,5.5,city
+Cilincing,Jakarta Utara,84.0,60.0,870.0,SHM,1,0,1,0,0,0,1,3,1,0,House Type 60,Unfurnished,2200.0,Well Maintained,Northwest,PAM/PDAM,False,6.0,city
+Tanjung Priok,Jakarta Utara,354.0,164.6,3000.0,Other,3,0,5,0,1,0,1,3,1,0,House Type >300,Unfurnished,2200.0,New,North,PAM/PDAM,False,5.0,city
+Rawalumbu,Kota Bekasi,84.0,69.0,900.0,SHM,2,0,1,0,2,0,1,3,1,0,House Type 70,Unfurnished,2020.0,Renovated,South,Groundwater,False,6.0,city
+Setiabudi,Jakarta Selatan,1019.0,600.0,67500.0,SHM,5,0,0,0,0,0,1,5,1,0,House Type >300,Unfurnished,23000.0,New,Northwest,Groundwater,False,5.0,city
+Duren Sawit,Jakarta Timur,126.0,250.0,3500.0,SHM,5,1,2,1,0,0,1,4,1,0,House Type 300,Unfurnished,2200.0,New,Northeast,Groundwater,False,4.5,city
+Ciledug,Kota Tangerang,165.0,160.0,790.0,SHM,2,0,1,0,0,0,1,4,1,0,House Type 200,Unfurnished,1760.0,Renovated,Northeast,Groundwater,False,6.2,city
+Bogor Timur,Kota Bogor,96.0,70.0,1100.0,SHM,1,0,0,0,0,0,1,2,1,0,House Type 70,Semi Furnished,1300.0,Renovated,Northeast,Groundwater,False,4.5,city
+Kelapa Dua,Kabupaten Tangerang,120.0,72.0,1690.0,Other,3,1,0,1,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,North,Groundwater,False,4.0,regency
+Parung Panjang,Kabupaten Bogor,72.0,39.0,661.0,Other,1,0,1,0,1,0,1,1,1,0,House Type 45,Unfurnished,2200.0,Renovated,South,Groundwater,False,6.0,regency
+Pondok Gede,Kota Bekasi,300.0,300.0,2650.0,SHM,5,1,2,0,2,0,1,6,1,0,House Type 300,Unfurnished,4040.0,Well Maintained,East,Groundwater,False,5.0,city
+Pondok Gede,Kota Bekasi,300.0,300.0,2650.0,SHM,5,1,2,0,2,0,1,6,1,0,House Type 300,Unfurnished,4040.0,Well Maintained,East,Groundwater,False,5.0,city
+Legok,Kabupaten Tangerang,547.0,200.0,3950.0,SHM,5,0,5,0,0,0,1,5,1,0,House Type 200,Unfurnished,3340.0,Renovated,Northeast,Groundwater,False,6.9,regency
+Kemayoran,Jakarta Pusat,50.0,100.0,1350.0,SHM,3,0,1,0,2,0,1,2,1,0,House Type 120,Unfurnished,4400.0,New,Northeast,Groundwater,False,2.5,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Makasar,Jakarta Timur,225.0,175.0,1450.0,SHM,2,0,1,0,0,0,1,5,1,0,House Type 200,Unfurnished,2100.0,New,Northwest,Groundwater,False,5.0,city
+Serpong,Tangerang Selatan,300.0,300.0,17000.0,SHM,4,0,4,0,0,0,1,4,1,0,House Type 300,Unfurnished,5500.0,Renovated,North,Groundwater,False,5.0,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Bogor Tengah,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,0,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Ciracas,Jakarta Timur,400.0,350.0,6000.0,SHM,4,0,0,0,0,0,1,6,1,0,House Type >300,Furnished,4400.0,Renovated,North,Groundwater,False,6.0,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Ciputat,Tangerang Selatan,570.0,630.0,9500.0,Other,5,4,0,2,0,0,1,7,1,0,House Type >300,Semi Furnished,16500.0,New,Northwest,Groundwater,False,5.0,city
+Sawah Besar,Jakarta Pusat,360.0,225.0,4500.0,HGB,1,0,1,0,0,0,1,1,1,0,House Type 300,Unfurnished,2200.0,New,East,Groundwater,False,12.5,city
+Kelapa Gading,Jakarta Utara,187.0,200.0,4500.0,SHM,3,0,2,0,2,1,1,4,1,0,House Type 200,Unfurnished,3500.0,New,Northeast,Groundwater,False,13.5,city
+Cilandak,Jakarta Selatan,320.0,360.0,8700.0,SHM,4,1,2,1,2,1,2,6,1,0,House Type >300,Unfurnished,5500.0,New,Southeast,Groundwater,False,7.0,city
+Kalideres,Jakarta Barat,95.0,100.0,2300.0,SHM,3,1,1,1,2,0,1,3,1,0,House Type 120,Unfurnished,5000.0,Renovated,East,Groundwater,False,5.0,city
+Jatinegara,Jakarta Timur,70.0,225.0,2700.0,SHM,3,1,1,1,3.5,1,1,3,1,0,House Type 300,Unfurnished,2860.0,New,Northwest,Groundwater,False,4.5,city
+Kebayoran Lama,Jakarta Selatan,336.0,400.0,16500.0,SHM,4,0,4,0,2,0,1,4,1,0,House Type >300,Semi Furnished,15304.6,Well Maintained,Northeast,Groundwater,False,5.0,city
+Mampang Prapatan,Jakarta Selatan,210.0,400.0,6700.0,SHM,3,2,2,1,3,2,1,4,1,0,House Type >300,Semi Furnished,5040.0,Well Maintained,Northeast,Groundwater,False,5.0,city
+Mampang Prapatan,Jakarta Selatan,220.0,300.0,6000.0,SHM,3,1,2,1,2,0,1,4,1,0,House Type 300,Unfurnished,7480.0,Renovated,North,Groundwater,False,5.0,city
+Mampang Prapatan,Jakarta Selatan,360.0,320.0,6900.0,SHM,3,1,3,1,1.5,0,1,3,1,0,House Type >300,Semi Furnished,10500.0,Well Maintained,Northeast,Groundwater,False,5.0,city
+Kembangan,Jakarta Barat,627.0,245.0,7200.0,SHM,3,1,0,1,2.5,0,1,3,1,0,House Type 300,Unfurnished,4720.0,New,South,Groundwater,False,7.0,city
+Pasar Minggu,Jakarta Selatan,715.0,250.0,13000.0,SHM,7,0,3,0,2,0,1,8,1,0,House Type 300,Unfurnished,4400.0,Renovated,North,Groundwater,False,5.0,city
+Kebayoran Baru,Jakarta Selatan,156.0,300.0,5300.0,SHM,3,0,2,0,1,0,1,5,1,0,House Type 300,Unfurnished,4400.0,Need Renovation,North,Groundwater,False,5.0,city
+Cempaka Putih,Jakarta Pusat,200.0,400.0,5500.0,SHM,11+,1,2,1,2,0,1,9+,1,0,House Type >300,Semi Furnished,4400.0,New,North,Groundwater,False,5.0,city
+Cempaka Putih,Jakarta Pusat,190.0,400.0,5500.0,SHM,11+,0,0,0,2.5,0,1,9+,1,0,House Type >300,Unfurnished,3560.0,New,Northeast,Groundwater,False,5.0,city
+Kebayoran Lama,Jakarta Selatan,370.0,500.0,11500.0,SHM,4,2,4,2,2.5,0,2,4,2,1,House Type >300,Unfurnished,16500.0,Renovated,Northwest,Groundwater,True,5.0,city
+Pasar Minggu,Jakarta Selatan,227.0,229.0,5700.0,SHM,3,1,4,0,1,0,1,6,1,0,House Type 300,Unfurnished,10700.0,Need Renovation,East,PAM/PDAM,False,5.0,city
+Tanjung Priok,Jakarta Utara,90.0,225.0,3000.0,SHM,4,2,0,0,0,0,1,3,1,0,House Type 300,Semi Furnished,2200.0,New,Northeast,Groundwater,False,4.5,city
+Tanjung Priok,Jakarta Utara,104.0,188.0,2700.0,SHM,3,1,0,1,0,0,1,3,1,0,House Type 200,Unfurnished,2200.0,New,North,Groundwater,False,5.0,city
+Limo,Depok,135.0,200.0,2300.0,SHM,2,1,1,1,2,0,1,4,1,0,House Type 200,Semi Furnished,2200.0,Renovated,North,Groundwater,False,5.0,city
+Serpong,Tangerang Selatan,251.0,340.0,7500.0,SHM,3,0,2,0,3,2,1,4,1,0,House Type >300,Furnished,5500.0,Renovated,South,Groundwater,False,6.5,city
+Cikarang,Kabupaten Bekasi,45.0,43.0,625.0,HGB,2,0,1,0,2,0,1,2,1,0,House Type 45,Unfurnished,1900.0,Renovated,North,Groundwater,False,5.1,regency
+Kebayoran Baru,Jakarta Selatan,169.0,134.0,5000.0,SHM,2,1,1,1,2,0,1,6,1,0,House Type 200,Unfurnished,4940.0,Need Renovation,South,Groundwater,False,2.5,city
+Pasar Rebo,Jakarta Timur,214.0,140.0,2500.0,SHM,2,0,1,0,1,2,1,3,1,0,House Type 200,Unfurnished,4400.0,Well Maintained,South,Groundwater,True,5.0,city
+Jagakarsa,Jakarta Selatan,132.0,70.0,1470.0,SHM,2,0,1,0,1,0,1,3,1,0,House Type 70,Unfurnished,2200.0,Renovated,South,Groundwater,False,4.5,city
+Kebayoran Baru,Jakarta Selatan,235.0,350.0,10000.0,SHM,3,0,2,1,2,0,1,3,1,1,House Type >300,Unfurnished,6440.0,New,East,Groundwater,False,5.5,city
+Pasar Minggu,Jakarta Selatan,90.0,110.0,3400.0,SHM,3,1,2,1,3,0,1,4,1,0,House Type 120,Unfurnished,3640.0,New,Northwest,Groundwater,False,4.5,city
+Cakung,Jakarta Timur,90.0,70.0,1700.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 70,Unfurnished,2200.0,Renovated,North,PAM/PDAM,False,4.0,city
+Pulo Gadung,Jakarta Timur,174.0,212.0,4100.0,SHM,2,0,2,0,2,0,1,3,1,0,House Type 300,Unfurnished,4300.0,Well Maintained,Northwest,Groundwater,False,5.0,city
+Duren Sawit,Jakarta Timur,240.0,270.0,3000.0,SHM,2,0,2,0,1,0,1,9+,1,1,House Type 300,Unfurnished,3600.0,New,North,Groundwater,False,4.5,city
+Pasar Minggu,Jakarta Selatan,107.0,135.0,2200.0,SHM,2,1,1,1,2,0,1,4,1,0,House Type 200,Semi Furnished,3300.0,Well Maintained,East,Groundwater,False,5.0,city
+Pasar Minggu,Jakarta Selatan,162.0,170.0,5900.0,SHM,3,1,2,1,3,0,1,3,1,0,House Type 200,Unfurnished,5060.0,Well Maintained,Northeast,Groundwater,False,5.0,city
+Tebet,Jakarta Selatan,133.0,99.0,3500.0,SHM,2,0,1,0,2,1,1,4,1,0,House Type 120,Unfurnished,2720.0,Need Renovation,Northwest,PAM/PDAM,False,4.5,city
+Cilandak,Jakarta Selatan,280.0,670.0,15000.0,SHM,5,2,2,1,3,2,1,4,1,0,House Type >300,Semi Furnished,10560.0,New,East,Groundwater,False,5.6,city
+Cinere,Depok,84.0,150.0,2300.0,SHM,3,1,2,1,3,0,1,3,1,0,House Type 200,Unfurnished,3500.0,New,Northeast,Groundwater,False,5.5,city
+Pasar Minggu,Jakarta Selatan,355.0,250.0,7500.0,SHM,5,0,4,0,2,0,1,7,1,0,House Type 300,Unfurnished,7700.0,Renovated,East,Groundwater,False,6.5,city
+Cilandak,Jakarta Selatan,256.0,250.0,6500.0,SHM,4,1,1,1,2,1,1,3,1,0,House Type 300,Unfurnished,4400.0,Renovated,East,Groundwater,False,10.0,city
+Cengkareng,Jakarta Barat,105.0,140.0,1850.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 200,Unfurnished,2200.0,Renovated,Northeast,Groundwater,False,5.0,city
+Cikarang Pusat,Kabupaten Bekasi,50.0,30.0,545.0,SHM,1,0,1,0,2,1,1,2,1,0,House Type 36,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,regency
+Tanjung Priok,Jakarta Utara,108.0,231.0,2800.0,SHM,2,1,1,1,3,0,1,3,1,0,House Type 300,Semi Furnished,3500.0,Renovated,North,Groundwater,False,5.0,city
+Serpong,Tangerang Selatan,40.0,72.0,1160.0,Other,2,0,1,0,3,0,1,4,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northeast,Groundwater,False,7.0,city
+Serpong,Tangerang Selatan,50.0,28.0,799.0,Other,1,0,1,0,1,0,1,2,1,0,House Type 36,Semi Furnished,2200.0,Renovated,South,Groundwater,False,7.0,city
+Beji,Depok,62.0,75.0,1200.0,SHM,2,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,Northeast,Groundwater,False,5.4,city
+Pancoran,Jakarta Selatan,461.0,1300.0,22000.0,SHM,5,2,2,3,3,3+,2,5,4,0,House Type >300,Unfurnished,15400.0,New,Northwest,Groundwater,False,5.5,city
+Jagakarsa,Jakarta Selatan,108.0,91.0,2100.0,SHM,3,0,1,0,0,0,1,4,1,0,House Type 120,Unfurnished,2200.0,New,South,Groundwater,False,5.2,city
+Kebayoran Lama,Jakarta Selatan,120.0,350.0,3750.0,SHM,5,1,2,2,3,0,1,4,1,0,House Type >300,Unfurnished,3600.0,New,Northeast,Groundwater,False,5.0,city
+Duren Sawit,Jakarta Timur,377.0,450.0,6450.0,SHM,5,0,2,0,2,0,2,8,1,0,House Type >300,Semi Furnished,6600.0,Need Renovation,South,Groundwater,False,5.0,city
+Duren Sawit,Jakarta Timur,377.0,450.0,6450.0,SHM,5,0,2,0,2,0,2,8,1,0,House Type >300,Semi Furnished,6600.0,Need Renovation,South,Groundwater,False,5.0,city
+Ciracas,Jakarta Timur,90.0,144.0,498.0,SHM,3,0,1,0,2,0,1,5,1,0,House Type 200,Unfurnished,1740.0,Renovated,North,Groundwater,False,5.1,city
+Ciracas,Jakarta Timur,200.0,100.0,680.0,SHM,2,0,1,0,0,0,1,4,1,0,House Type 120,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Bogor Barat,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,3,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Ciracas,Jakarta Timur,72.0,36.0,225.0,SHM,1,0,1,0,1,0,1,2,1,0,House Type 36,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Tangerang,Kota Tangerang,1159.0,600.0,14000.0,Other,4,2,4,2,2,0,1,8,1,0,House Type >300,Semi Furnished,6600.0,New,North,PAM/PDAM,False,5.0,city
+Cinere,Depok,425.0,225.0,3800.0,SHM,5,1,1,1,1,2,1,3,1,0,House Type 300,Unfurnished,2200.0,Renovated,Northeast,Groundwater,False,5.5,city
+Limo,Depok,1000.0,409.0,6500.0,SHM,3,0,1,0,1,0,1,7,1,0,House Type >300,Unfurnished,5820.0,Need Renovation,East,Groundwater,False,7.0,city
+Pondok Gede,Kota Bekasi,214.0,213.0,2500.0,SHM,5,0,0,0,2.5,0,1,5,1,0,House Type 300,Semi Furnished,4400.0,Well Maintained,East,PAM/PDAM,True,5.0,city
+Pondok Gede,Kota Bekasi,214.0,213.0,2500.0,SHM,5,0,0,0,2.5,0,1,5,1,0,House Type 300,Semi Furnished,4400.0,Well Maintained,East,PAM/PDAM,True,5.0,city
+Cipondoh,Kota Tangerang,65.0,55.0,285.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 60,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Mampang Prapatan,Jakarta Selatan,2002.0,1000.0,46000.0,SHM,5,4,2,3,0,2,1,6,1,0,House Type >300,Semi Furnished,8000.0,Renovated,Northwest,Groundwater,False,5.5,city
+Cilandak,Jakarta Selatan,310.0,440.0,9600.0,SHM,4,1,2,2,0,0,1,3,1,0,House Type >300,Furnished,5500.0,New,South,Groundwater,False,7.5,city
+Tanjung Priok,Jakarta Utara,234.0,460.0,5600.0,SHM,4,0,1,0,2,0,1,5,1,0,House Type >300,Unfurnished,3300.0,New,Northeast,Groundwater,False,5.6,city
+Benda,Kota Tangerang,113.0,66.0,678.0,SHM,1,0,1,0,0,0,1,3,1,0,House Type 70,Unfurnished,1840.0,Renovated,North,Groundwater,False,5.1,city
+Bogor Barat,Kota Bogor,136.0,220.0,1490.0,SHM,2,0,2,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,5.0,city
+Cikarang Pusat,Kabupaten Bekasi,136.0,80.0,1400.0,SHM,3,0,1,0,2,2,1,4,1,0,House Type 120,Semi Furnished,3600.0,New,North,Groundwater,False,4.0,regency
+Pondok Gede,Kota Bekasi,249.0,223.0,965.0,SHM,2,0,1,0,0,0,1,4,1,0,House Type 300,Unfurnished,2020.0,Well Maintained,Northeast,Groundwater,False,6.0,city
+Bogor Barat,Kota Bogor,136.0,220.0,1490.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Bogor Barat,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Medan Satria,Kota Bekasi,72.0,28.0,590.0,SHM,1,0,1,0,1,0,1,2,1,0,House Type 36,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Ciputat,Tangerang Selatan,137.0,110.0,1450.0,SHM,2,0,0,0,0,2,1,3,1,0,House Type 120,Unfurnished,1300.0,New,Northeast,Groundwater,False,4.0,city
+Medan Satria,Kota Bekasi,72.0,50.0,679.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 54,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Kebayoran Baru,Jakarta Selatan,500.0,348.0,29000.0,SHM,3,0,2,0,2,3+,2,3,1,0,House Type >300,Unfurnished,23140.0,Renovated,North,Groundwater,False,5.0,city
+Kebayoran Lama,Jakarta Selatan,332.0,400.0,16500.0,SHM,4,0,0,0,0,0,1,4,1,0,House Type >300,Unfurnished,15304.6,Renovated,Northeast,Groundwater,False,5.0,city
+Cimanggis,Depok,64.0,56.0,990.0,Other,1,0,0,0,0,0,1,2,1,0,House Type 60,Semi Furnished,2200.0,Renovated,Northwest,Groundwater,False,6.0,city
+Cimanggis,Depok,64.0,56.0,990.0,Other,1,0,0,0,0,0,1,2,1,0,House Type 60,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,5.6,city
+Pondok Melati,Kota Bekasi,120.0,120.0,1850.0,SHM,3,0,1,0,2,0,1,2,1,0,House Type 120,Semi Furnished,4400.0,Well Maintained,Northeast,Groundwater,False,7.5,city
+Bekasi Barat,Kota Bekasi,105.0,102.0,2060.0,HGB,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,PAM/PDAM,False,5.2,city
+Tanjung Priok,Jakarta Utara,252.0,550.0,7200.0,SHM,4,1,1,1,3,1,1,4,1,0,House Type >300,Semi Furnished,5500.0,Renovated,Northwest,Groundwater,False,6.0,city
+Cempaka Putih,Jakarta Pusat,68.0,150.0,980.0,SHM,3,0,0,0,3,0,1,3,1,0,House Type 200,Unfurnished,1300.0,Well Maintained,Northeast,Groundwater,False,4.7,city
+Bogor Barat,Kota Bogor,165.0,120.0,1500.0,SHM,3,1,1,0,0,0,1,3,1,0,House Type 120,Semi Furnished,1740.0,New,Northeast,Groundwater,False,5.0,city
+Ciputat,Tangerang Selatan,127.0,250.0,2400.0,SHM,3,1,1,1,0,0,1,3,1,0,House Type 300,Semi Furnished,3500.0,Renovated,North,Groundwater,False,5.5,city
+Kelapa Gading,Jakarta Utara,90.0,165.0,1800.0,SHM,3,0,2,0,2.5,0,1,2,1,0,House Type 200,Semi Furnished,3300.0,Renovated,East,PAM/PDAM,False,4.7,city
+Karawaci,Kota Tangerang,97.0,88.0,1600.0,SHM,3,0,2,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,North,Groundwater,False,4.0,city
+Bojongsari,Depok,751.0,660.0,1250.0,SHM,2,0,2,0,0,0,1,5,1,0,House Type >300,Unfurnished,2020.0,Renovated,South,Groundwater,False,5.0,city
+Ciracas,Jakarta Timur,135.0,85.0,1600.0,SHM,2,1,1,0,1.5,0,1,2,1,0,House Type 120,Semi Furnished,2200.0,New,North,Groundwater,False,4.0,city
+Kembangan,Jakarta Barat,374.0,900.0,9000.0,SHM,4,1,2,1,4,2,2,6,1,0,House Type >300,Semi Furnished,10000.0,Well Maintained,North,Groundwater,True,6.5,city
+Cempaka Putih,Jakarta Pusat,252.0,198.2,4600.0,SHM,1,0,0,0,0,0,1,2,1,0,House Type >300,Semi Furnished,2200.0,New,East,Groundwater,False,12.5,city
+Mampang Prapatan,Jakarta Selatan,193.0,249.0,6500.0,SHM,3,1,2,1,3,0,1,4,1,0,House Type 300,Unfurnished,5920.0,New,Northeast,Groundwater,False,6.5,city
+Duren Sawit,Jakarta Timur,105.0,102.0,1900.0,HGB,3,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northeast,PAM/PDAM,False,5.0,city
+Kelapa Gading,Jakarta Utara,90.0,72.0,2000.0,SHM,1,0,2,0,0,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,South,Groundwater,False,5.2,city
+Kelapa Gading,Jakarta Utara,90.0,120.0,2300.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 120,Unfurnished,3500.0,Renovated,North,Groundwater,False,5.5,city
+Kelapa Gading,Jakarta Utara,90.0,135.0,2250.0,SHM,2,0,1,0,2.5,0,1,4,1,0,House Type 200,Semi Furnished,3300.0,Well Maintained,Northwest,Groundwater,False,5.0,city
+Kelapa Gading,Jakarta Utara,102.0,240.0,3100.0,SHM,3,1,0,0,2.5,0,1,4,1,0,House Type 300,Unfurnished,2200.0,New,Northeast,Groundwater,False,5.0,city
+Kelapa Dua,Kabupaten Tangerang,60.0,89.0,1350.0,SHM,2,1,1,2,3,0,1,3,1,0,House Type 120,Unfurnished,6600.0,New,North,Groundwater,False,4.0,regency
+Kebayoran Baru,Jakarta Selatan,260.0,650.0,18500.0,SHM,6,3,2,0,3.5,3+,1,4,1,0,House Type >300,Unfurnished,18230.0,Well Maintained,Northeast,Groundwater,False,5.5,city
+Gambir,Jakarta Pusat,310.0,650.0,18000.0,SHM,3,2,3,1,3.5,3+,1,4,1,0,House Type >300,Unfurnished,10500.0,Renovated,North,Groundwater,False,5.5,city
+Mampang Prapatan,Jakarta Selatan,112.0,250.0,4800.0,SHM,4,1,2,1,3,0,1,5,1,0,House Type 300,Unfurnished,4400.0,New,Northeast,Groundwater,False,12.5,city
+Cilandak,Jakarta Selatan,101.0,216.0,4700.0,SHM,3,1,2,1,3,0,1,3,1,0,House Type 300,Unfurnished,5500.0,New,Northeast,Groundwater,False,13.0,city
+Cengkareng,Jakarta Barat,473.0,573.0,20000.0,SHM,5,1,4,1,3,0,2,9+,1,1,House Type >300,Furnished,7700.0,New,Northwest,Groundwater,True,5.5,city
+Tanjung Priok,Jakarta Utara,360.0,550.0,8500.0,SHM,4,0,2,0,2,0,1,4,1,0,House Type >300,Furnished,9500.0,Renovated,North,Groundwater,False,7.5,city
+Ciputat,Tangerang Selatan,165.0,132.0,685.0,SHM,2,0,0,0,1,0,1,3,1,0,House Type 200,Unfurnished,1400.0,Renovated,North,Groundwater,False,5.1,city
+Medan Satria,Kota Bekasi,60.0,42.0,565.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 45,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Bogor Barat,Kota Bogor,136.0,220.0,1590.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Tanah Sareal,Kota Bogor,136.0,220.0,1590.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Bogor Barat,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Tanjung Priok,Jakarta Utara,282.0,400.0,9000.0,SHM,4,2,2,1,3,1,1,4,1,0,House Type >300,Semi Furnished,5500.0,New,West,Groundwater,False,10.0,city
+Pondok Gede,Kota Bekasi,216.0,105.0,1100.0,SHM,1,0,2,0,1.5,0,1,2,1,0,House Type 120,Unfurnished,2200.0,Renovated,East,Groundwater,False,5.4,city
+Cilandak,Jakarta Selatan,120.0,250.0,4100.0,SHM,3,0,2,0,0,0,1,4,1,0,House Type 300,Unfurnished,4660.0,Renovated,Northeast,Groundwater,False,6.4,city
+Senen,Jakarta Pusat,387.0,250.0,12000.0,SHM,2,3,2,1,1,2,1,4,1,1,House Type 300,Semi Furnished,3500.0,Renovated,North,PAM/PDAM,False,5.0,city
+Senen,Jakarta Pusat,820.0,620.0,28500.0,SHM,5,3,0,1,2,3+,1,5,2,2,House Type >300,Semi Furnished,5500.0,Renovated,Northeast,PAM/PDAM,False,5.5,city
+Senen,Jakarta Pusat,301.0,450.0,15000.0,SHM,3,1,3,1,2.5,3+,1,5,1,0,House Type >300,Semi Furnished,4400.0,Well Maintained,Northeast,PAM/PDAM,False,5.0,city
+Tanjung Priok,Jakarta Utara,128.0,250.0,4250.0,SHM,3,1,2,1,3,2,2,3,1,0,House Type 300,Semi Furnished,3500.0,New,South,Groundwater,False,13.0,city
+Cakung,Jakarta Timur,90.0,119.0,3910.0,SHM,3,0,0,0,0,0,1,3,1,0,House Type 120,Unfurnished,3300.0,Renovated,South,Groundwater,False,5.0,city
+Tanjung Priok,Jakarta Utara,210.0,350.0,4500.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type >300,Semi Furnished,7700.0,Renovated,Northeast,Groundwater,False,7.0,city
+Tanjung Priok,Jakarta Utara,108.0,150.0,2800.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 200,Semi Furnished,2200.0,New,West,Groundwater,False,4.5,city
+Penjaringan,Jakarta Utara,175.0,475.0,7500.0,SHM,2,1,2,1,3,0,1,3,1,0,House Type >300,Semi Furnished,5500.0,Renovated,South,Groundwater,False,6.5,city
+Penjaringan,Jakarta Utara,290.0,350.0,12500.0,SHM,4,0,2,0,2,0,1,4,1,0,House Type >300,Semi Furnished,6600.0,Renovated,Northwest,Groundwater,False,5.0,city
+Penjaringan,Jakarta Utara,325.0,975.0,15000.0,SHM,4,1,2,0,4,1,1,4,1,0,House Type >300,Semi Furnished,7700.0,New,Northeast,Groundwater,True,5.0,city
+Penjaringan,Jakarta Utara,144.0,400.0,8500.0,SHM,3,1,2,1,3,0,1,3,1,0,House Type >300,Semi Furnished,6600.0,Well Maintained,South,Groundwater,False,6.5,city
+Penjaringan,Jakarta Utara,261.0,500.0,9000.0,SHM,3,1,2,1,2,0,1,4,1,0,House Type >300,Semi Furnished,6600.0,New,North,Groundwater,False,7.5,city
+Limo,Depok,300.0,260.0,2700.0,SHM,3,0,1,0,0,3+,1,3,1,0,House Type 300,Unfurnished,2680.0,Renovated,East,Groundwater,False,6.0,city
+Kebayoran Lama,Jakarta Selatan,630.0,600.0,32000.0,HGB,7,2,3,2,2,0,1,6,1,0,House Type >300,Unfurnished,7700.0,Renovated,North,Groundwater,False,5.5,city
+Batuceper,Kota Tangerang,120.0,120.0,3000.0,SHM,4,1,1,0,2,0,1,3,1,0,House Type 120,Semi Furnished,3500.0,New,South,PAM/PDAM,False,4.5,city
+Limo,Depok,90.0,60.0,1200.0,SHM,2,0,0,0,1,0,1,3,1,0,House Type 60,Unfurnished,2200.0,Renovated,Northeast,Groundwater,False,5.4,city
+Penjaringan,Jakarta Utara,90.0,120.0,3650.0,Other,3,0,1,0,0,0,1,3,1,0,House Type 120,Furnished,4400.0,New,North,Groundwater,False,4.0,city
+Bogor Utara,Kota Bogor,320.0,600.0,4200.0,SHM,6,1,4,0,2,0,1,8,1,0,House Type >300,Furnished,3500.0,Well Maintained,South,PAM/PDAM,True,5.0,city
+Cilincing,Jakarta Utara,510.0,382.0,5200.0,SHM,3,1,4,0,0,0,1,6,1,0,House Type >300,Semi Furnished,4400.0,Renovated,North,PAM/PDAM,False,5.0,city
+Palmerah,Jakarta Barat,426.0,350.0,8500.0,SHM,11+,0,0,0,2,0,1,9+,1,0,House Type >300,Semi Furnished,7700.0,Renovated,Northeast,Groundwater,False,7.5,city
+Tanjung Priok,Jakarta Utara,108.0,234.0,4250.0,SHM,2,1,1,1,3,0,1,4,1,0,House Type 300,Unfurnished,2200.0,New,North,Groundwater,False,13.5,city
+Tanjung Priok,Jakarta Utara,126.0,200.0,4950.0,SHM,3,1,1,1,4,2,1,4,1,0,House Type 200,Semi Furnished,4400.0,Need Renovation,Southeast,Groundwater,False,4.5,city
+Senen,Jakarta Pusat,387.0,250.0,14500.0,SHM,3,3,4,1,0,0,1,4,1,1,House Type 300,Semi Furnished,7700.0,New,Northeast,PAM/PDAM,False,5.0,city
+Cempaka Putih,Jakarta Pusat,181.0,244.0,7200.0,SHM,3,1,1,0,2,1,1,4,1,0,House Type 300,Furnished,7700.0,New,Northwest,PAM/PDAM,False,6.0,city
+Parung Panjang,Kabupaten Bogor,60.0,36.0,200.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 36,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,regency
+Tanjung Priok,Jakarta Utara,312.0,550.0,9100.0,SHM,3,1,2,1,2,0,1,4,1,0,House Type >300,Semi Furnished,3500.0,Renovated,East,Groundwater,False,7.0,city
+Penjaringan,Jakarta Utara,111.0,300.0,4700.0,SHM,3,1,2,1,3,0,1,5,1,0,House Type 300,Furnished,7700.0,Well Maintained,Northeast,PAM/PDAM,False,13.8,city
+Kalideres,Jakarta Barat,544.0,280.0,6900.0,SHM,2,0,2,0,2,0,1,2,1,0,House Type 300,Semi Furnished,3500.0,Need Renovation,Northwest,Groundwater,True,10.0,city
+Kelapa Gading,Jakarta Utara,180.0,310.0,5900.0,SHM,3,1,2,1,2,0,1,4,1,0,House Type >300,Semi Furnished,5500.0,New,Northeast,PAM/PDAM,False,10.0,city
+Sawah Besar,Jakarta Pusat,94.0,232.0,1990.0,SHM,11+,0,0,0,3,0,1,9+,1,0,House Type 300,Semi Furnished,7600.0,Renovated,East,Groundwater,False,4.0,city
+Penjaringan,Jakarta Utara,200.0,250.0,5400.0,SHM,4,1,2,1,0,0,1,4,1,0,House Type 300,Semi Furnished,5500.0,New,Northeast,PAM/PDAM,False,5.5,city
+Parung,Kabupaten Bogor,72.0,69.0,1090.0,SHM,2,0,0,0,0,0,1,3,1,0,House Type 70,Semi Furnished,2200.0,Renovated,Northeast,Groundwater,False,5.4,regency
+Tangerang,Kota Tangerang,120.0,150.0,3500.0,Other,3,1,1,1,2,0,1,3,1,0,House Type 200,Unfurnished,2200.0,Need Renovation,South,Groundwater,False,4.0,city
+Tanah Sareal,Kota Bogor,136.0,220.0,1590.0,SHM,2,0,2,0,0,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Cakung,Jakarta Timur,120.0,180.0,2100.0,SHM,3,0,0,0,2,0,1,4,1,0,House Type 200,Semi Furnished,3500.0,Renovated,West,PAM/PDAM,False,4.5,city
+Ciputat,Tangerang Selatan,72.0,90.0,950.0,SHM,2,0,1,0,0,0,1,3,1,0,House Type 120,Semi Furnished,2200.0,Renovated,Northwest,PAM/PDAM,False,6.0,city
+Cakung,Jakarta Timur,168.0,147.0,4250.0,Other,4,1,2,1,2.5,0,1,4,1,0,House Type 200,Semi Furnished,4220.0,New,Northwest,Groundwater,True,5.0,city
+Grogol Petamburan,Jakarta Barat,152.0,225.0,5700.0,SHM,3,1,0,0,2,0,1,4,1,0,House Type 300,Unfurnished,5500.0,New,Northwest,PAM/PDAM,False,6.0,city
+Pasar Rebo,Jakarta Timur,469.0,130.0,3400.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 200,Unfurnished,2200.0,Well Maintained,Northeast,PAM/PDAM,True,5.0,city
+Bekasi,Kota Bekasi,75.0,36.0,600.0,SHM,2,0,1,0,0,0,1,3,1,0,House Type 36,Semi Furnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Bekasi Utara,Kota Bekasi,144.0,183.0,2500.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 200,Semi Furnished,2200.0,New,Northeast,PAM/PDAM,False,5.0,city
+Cakung,Jakarta Timur,288.0,252.0,5000.0,SHM,3,1,1,1,2,1,1,4,1,0,House Type 300,Unfurnished,3500.0,Need Renovation,North,PAM/PDAM,False,5.0,city
+Cinere,Depok,115.0,100.0,1900.0,SHM,2,0,1,0,1.5,0,1,1,1,0,House Type 120,Semi Furnished,3080.0,Renovated,Northeast,PAM/PDAM,False,5.9,city
+Cinere,Depok,63.0,76.0,1050.0,SHM,2,0,1,0,0,0,1,3,1,0,House Type 120,Semi Furnished,2020.0,Renovated,Northeast,Groundwater,False,6.0,city
+Medan Satria,Kota Bekasi,555.0,450.0,7200.0,SHM,4,1,2,1,2,2,1,4,1,0,House Type >300,Semi Furnished,5500.0,Well Maintained,Southeast,PAM/PDAM,True,6.0,city
+Cakung,Jakarta Timur,119.0,90.0,1400.0,SHM,2,1,1,0,1,0,1,2,1,0,House Type 120,Unfurnished,2200.0,Renovated,South,Groundwater,False,4.5,city
+Cakung,Jakarta Timur,90.0,58.0,1400.0,Other,1,1,2,1,2,0,1,4,1,0,House Type 60,Unfurnished,2200.0,Renovated,North,PAM/PDAM,False,4.5,city
+Kelapa Gading,Jakarta Utara,180.0,223.0,5000.0,SHM,4,0,3,0,2.5,0,1,5,1,0,House Type 300,Furnished,5500.0,New,East,PAM/PDAM,False,13.0,city
+Kebayoran Lama,Jakarta Selatan,90.0,90.0,5900.0,SHM,3,1,1,1,2,1,1,2,1,0,House Type 120,Furnished,5500.0,New,North,PAM/PDAM,False,6.0,city
+Cakung,Jakarta Timur,126.0,146.0,3400.0,Other,4,1,0,1,2.5,0,1,4,1,0,House Type 200,Unfurnished,3500.0,New,South,Groundwater,False,4.5,city
+Tambun Selatan,Kabupaten Bekasi,72.0,36.0,350.0,SHM,1,0,1,0,1,0,1,2,1,0,House Type 36,Unfurnished,1300.0,Well Maintained,North,PAM/PDAM,False,4.7,regency
+Cilincing,Jakarta Utara,464.0,275.0,2300.0,SHM,3,0,1,0,2,2,1,4,1,0,House Type 300,Semi Furnished,4400.0,Well Maintained,East,Groundwater,True,5.2,city
+Grogol Petamburan,Jakarta Barat,233.0,1100.0,16000.0,SHM,11+,2,0,0,5,0,1,9+,1,0,House Type >300,Furnished,12024.6,New,North,Groundwater,False,5.0,city
+Grogol Petamburan,Jakarta Barat,233.0,1100.0,16000.0,SHM,11+,2,0,0,5,0,1,9+,1,0,House Type >300,Furnished,12024.6,New,North,Groundwater,False,5.0,city
+Bekasi,Kota Bekasi,60.0,60.0,600.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 60,Unfurnished,3500.0,Renovated,Northwest,Groundwater,False,4.5,city
+Bekasi,Kota Bekasi,96.0,68.0,500.0,SHM,1,0,1,0,1,0,1,2,1,0,House Type 70,Unfurnished,1300.0,Renovated,North,PAM/PDAM,True,4.7,city
+Cipayung,Jakarta Timur,66.0,102.0,1440.0,SHM,3,0,2,0,0,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Cipayung,Jakarta Timur,66.0,102.0,1440.0,SHM,3,0,2,0,0,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Serpong,Tangerang Selatan,495.0,215.0,1450.0,SHM,6,0,1,0,0,0,1,9+,1,0,House Type 300,Semi Furnished,2460.0,New,Northwest,Groundwater,False,5.0,city
+Bekasi,Kota Bekasi,78.0,120.0,570.0,SHM,2,0,0,0,2,0,1,3,1,0,House Type 120,Unfurnished,1300.0,Renovated,North,PAM/PDAM,False,4.7,city
+Pondok Gede,Kota Bekasi,125.0,80.0,975.0,SHM,1,1,1,1,0,0,1,2,1,0,House Type 120,Unfurnished,900.0,Renovated,Northeast,Groundwater,False,4.0,city
+Cempaka Putih,Jakarta Pusat,1208.0,931.0,24000.0,SHM,6,0,7,0,1,0,1,6,1,0,House Type >300,Semi Furnished,17600.0,Well Maintained,Northeast,Groundwater,False,5.5,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Limo,Depok,134.0,54.0,1100.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 54,Unfurnished,2240.0,Renovated,North,Groundwater,False,5.4,city
+Serpong,Tangerang Selatan,154.0,206.0,3500.0,SHM,3,1,2,1,2,0,1,3,1,1,House Type 300,Furnished,5500.0,New,Northeast,PAM/PDAM,False,4.5,city
+Kelapa Dua,Kabupaten Tangerang,105.0,88.0,1950.0,SHM,1,1,1,1,1,0,1,2,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northeast,Groundwater,False,5.0,regency
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Kembangan,Jakarta Barat,144.0,164.0,5700.0,SHM,4,1,2,1,1.5,0,1,4,1,0,House Type 200,Semi Furnished,5920.0,Renovated,Northwest,PAM/PDAM,False,5.0,city
+Kembangan,Jakarta Barat,498.0,241.0,9150.0,SHM,5,2,0,2,2,0,1,6,1,0,House Type 300,Semi Furnished,10600.0,New,Northeast,Groundwater,True,6.5,city
+Cipondoh,Kota Tangerang,100.0,150.0,1750.0,SHM,2,1,0,0,2,0,1,3,1,0,House Type 200,Semi Furnished,2640.0,Well Maintained,Northeast,Groundwater,False,4.5,city
+Johar Baru,Jakarta Pusat,100.0,150.0,1750.0,SHM,2,1,1,0,2,0,1,3,1,0,House Type 200,Semi Furnished,2420.0,Well Maintained,Northeast,Groundwater,False,4.5,city
+Penjaringan,Jakarta Utara,120.0,150.0,4300.0,Other,2,0,1,0,2,0,1,3,1,0,House Type 200,Semi Furnished,3300.0,Renovated,North,Groundwater,False,13.0,city
+Penjaringan,Jakarta Utara,120.0,100.0,4400.0,Other,2,0,1,0,0,0,1,3,1,0,House Type 120,Furnished,3500.0,New,Northwest,Groundwater,False,13.0,city
+Tanjung Priok,Jakarta Utara,140.0,100.0,2850.0,SHM,2,0,1,0,0,0,1,3,1,0,House Type 120,Semi Furnished,3300.0,New,South,Groundwater,False,5.0,city
+Tanjung Priok,Jakarta Utara,108.0,100.0,2500.0,SHM,1,1,1,1,1,0,1,2,1,0,House Type 120,Unfurnished,3300.0,New,West,PAM/PDAM,False,5.0,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Well Maintained,Northwest,Groundwater,False,4.5,city
+Tanjung Priok,Jakarta Utara,121.0,213.0,1150.0,SHM,2,0,1,0,0,0,1,4,1,0,House Type 300,Unfurnished,2240.0,Renovated,North,Groundwater,False,5.4,city
+Ciracas,Jakarta Timur,72.0,123.0,2200.0,SHM,3,0,0,0,0,0,1,3,1,1,House Type 200,Unfurnished,2200.0,Renovated,Northeast,Groundwater,False,5.0,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Koja,Jakarta Utara,40.0,80.0,1280.0,SHM,2,0,0,0,0,0,1,2,1,0,House Type 120,Unfurnished,2200.0,New,North,PAM/PDAM,False,4.9,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Limo,Depok,135.0,200.0,2300.0,SHM,3,1,1,0,2,0,1,4,1,0,House Type 200,Semi Furnished,2200.0,Renovated,North,Groundwater,False,5.0,city
+Mampang Prapatan,Jakarta Selatan,412.0,470.0,17500.0,SHM,4,2,2,1,2.5,2,1,5,1,0,House Type >300,Unfurnished,16500.0,New,North,Groundwater,False,5.0,city
+Mampang Prapatan,Jakarta Selatan,247.0,607.0,10900.0,SHM,4,2,2,2,0,3+,2,4,1,0,House Type >300,Unfurnished,5500.0,New,Northeast,Groundwater,False,5.5,city
+Kebayoran Lama,Jakarta Selatan,392.0,435.0,10500.0,SHM,5,2,5,0,2,0,1,4,1,0,House Type >300,Unfurnished,7280.0,Well Maintained,North,Groundwater,False,5.0,city
+Cilandak,Jakarta Selatan,184.0,286.0,5900.0,SHM,4,1,2,1,2.5,1,1,3,1,0,House Type 300,Semi Furnished,16500.0,Well Maintained,East,Groundwater,False,5.0,city
+Kebayoran Baru,Jakarta Selatan,189.0,300.0,12500.0,SHM,4,1,2,1,3,2,1,4,1,0,House Type 300,Unfurnished,6600.0,Well Maintained,Northwest,Groundwater,False,5.0,city
+Kebayoran Lama,Jakarta Selatan,120.0,280.0,125000.0,SHM,7,5,1,2,2,3+,1,4,1,0,House Type 300,Unfurnished,23000.0,Well Maintained,North,Groundwater,False,5.5,city
+Kebayoran Lama,Jakarta Selatan,2050.0,1000.0,125000.0,SHM,5,5,5,2,2,3+,1,6,1,0,House Type >300,Unfurnished,23000.0,Well Maintained,North,Groundwater,False,5.5,city
+Setiabudi,Jakarta Selatan,280.0,250.0,13500.0,SHM,5,1,1,1,2,1,1,5,1,0,House Type 300,Unfurnished,11000.0,Well Maintained,North,PAM/PDAM,False,7.5,city
+Kelapa Dua,Kabupaten Tangerang,72.0,88.0,2100.0,Other,2,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,5.2,regency
+Cinere,Depok,90.0,91.0,1845.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 120,Unfurnished,3300.0,Renovated,North,Groundwater,False,5.2,city
+Pancoran Mas,Depok,84.0,50.0,900.0,SHM,1,0,0,0,0,0,1,2,1,0,House Type 54,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,6.0,city
+Serpong,Tangerang Selatan,105.0,105.0,2450.0,SHM,2,0,2,0,2,0,1,3,1,0,House Type 120,Semi Furnished,2200.0,Renovated,Northeast,Groundwater,False,5.0,city
+Bogor Barat,Kota Bogor,136.0,220.0,1490.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Ciracas,Jakarta Timur,72.0,88.0,2000.0,SHM,3,0,0,0,0,0,1,3,1,0,House Type 120,Semi Furnished,1300.0,Renovated,North,Groundwater,False,4.0,city
+Ciracas,Jakarta Timur,72.0,88.0,2000.0,SHM,3,0,0,0,0,0,1,3,1,0,House Type 120,Semi Furnished,1300.0,Renovated,North,Groundwater,False,4.0,city
+Pesanggrahan,Jakarta Selatan,200.0,200.0,3500.0,SHM,3,1,2,1,2,2,1,3,1,0,House Type 200,Unfurnished,2200.0,New,Northeast,Groundwater,False,4.0,city
+Penjaringan,Jakarta Utara,512.0,300.0,12900.0,SHM,4,1,2,1,2,0,1,5,1,0,House Type 300,Semi Furnished,7700.0,Renovated,Southeast,PAM/PDAM,True,5.5,city
+Jatinegara,Jakarta Timur,180.0,350.0,5500.0,SHM,4,1,2,1,2,0,1,4,1,0,House Type >300,Furnished,4400.0,Well Maintained,North,Groundwater,False,5.0,city
+Batuceper,Kota Tangerang,200.0,600.0,5800.0,SHM,4,1,2,1,3,3+,1,5,1,0,House Type >300,Semi Furnished,3300.0,Well Maintained,North,Groundwater,False,5.6,city
+Penjaringan,Jakarta Utara,51.0,108.0,1780.0,SHM,4,0,1,0,3,0,1,3,1,0,House Type 120,Furnished,3500.0,Renovated,North,Groundwater,False,4.5,city
+Senen,Jakarta Pusat,235.0,600.0,5900.0,SHM,4,1,4,0,4,1,1,5,1,0,House Type >300,Semi Furnished,7600.0,Renovated,Northwest,Groundwater,True,5.0,city
+Tangerang,Kota Tangerang,1159.0,600.0,14000.0,Other,4,2,4,2,1.5,0,1,8,1,0,House Type >300,Semi Furnished,6600.0,New,North,PAM/PDAM,False,5.0,city
+Pondok Gede,Kota Bekasi,214.0,213.0,2500.0,SHM,5,0,2,0,2.5,0,1,5,1,0,House Type 300,Semi Furnished,4400.0,Well Maintained,East,PAM/PDAM,True,5.0,city
+Pondok Gede,Kota Bekasi,214.0,213.0,2500.0,SHM,5,0,0,0,2.5,0,1,5,1,0,House Type 300,Semi Furnished,4400.0,Well Maintained,East,PAM/PDAM,True,5.0,city
+Pondok Gede,Kota Bekasi,214.0,213.0,2500.0,SHM,5,0,0,0,2.5,0,1,5,1,0,House Type 300,Semi Furnished,4400.0,Well Maintained,East,PAM/PDAM,True,5.0,city
+Pondok Gede,Kota Bekasi,214.0,213.0,2500.0,SHM,5,0,2,0,2.5,0,1,5,1,0,House Type 300,Semi Furnished,4400.0,Well Maintained,East,PAM/PDAM,True,5.0,city
+Sawangan,Depok,99.0,105.0,999.0,SHM,2,0,2,0,0,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Well Maintained,West,Groundwater,False,5.6,city
+Ciputat Timur,Tangerang Selatan,250.0,350.0,5000.0,Other,5,0,0,0,2,0,1,6,1,0,House Type >300,Unfurnished,9500.0,Need Renovation,South,Groundwater,False,12.5,city
+Setiabudi,Jakarta Selatan,180.0,100.0,6800.0,SHM,2,0,2,0,1,0,1,3,1,0,House Type 120,Unfurnished,5320.0,Need Renovation,East,Groundwater,False,5.0,city
+Pamulang,Tangerang Selatan,148.0,79.0,1100.0,SHM,1,0,1,0,0,0,1,1,1,0,House Type 120,Unfurnished,2240.0,Renovated,Northeast,Groundwater,False,5.4,city
+Bogor Barat,Kota Bogor,240.0,180.0,3900.0,SHM,4,0,1,0,2,0,1,4,1,0,House Type 200,Unfurnished,2200.0,Renovated,Northeast,Groundwater,True,5.5,city
+Tanah Sareal,Kota Bogor,136.0,220.0,1490.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,New,South,PAM/PDAM,False,5.0,city
+Serpong,Tangerang Selatan,185.0,165.0,3800.0,Other,2,1,0,1,2,0,1,3,1,0,House Type 200,Furnished,5500.0,New,Southeast,Groundwater,True,5.5,city
+Tanah Sareal,Kota Bogor,136.0,220.0,1500.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,New,South,PAM/PDAM,False,5.0,city
+Tanah Sareal,Kota Bogor,136.0,400.0,1290.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type >300,Furnished,2200.0,New,South,PAM/PDAM,False,4.5,city
+Kemayoran,Jakarta Pusat,600.0,1800.0,13500.0,SHM,11+,0,0,0,0,0,1,9+,1,0,House Type >300,Unfurnished,2200.0,Need Renovation,North,Groundwater,False,5.0,city
+Cikupa,Kabupaten Tangerang,157.0,203.0,1550.0,SHM,3,0,2,1,0,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Well Maintained,East,PAM/PDAM,False,5.0,regency
+Bekasi Selatan,Kota Bekasi,60.0,120.0,681.0,SHM,2,0,0,0,2,0,1,1,1,0,House Type 120,Unfurnished,1300.0,Renovated,North,PAM/PDAM,False,5.0,city
+Kalideres,Jakarta Barat,96.0,130.0,1650.0,SHM,2,0,1,0,0,0,1,3,1,0,House Type 200,Unfurnished,2200.0,New,Southeast,PAM/PDAM,False,4.0,city
+Batuceper,Kota Tangerang,60.0,80.0,1250.0,SHM,3,0,0,0,2,0,1,3,1,0,House Type 120,Unfurnished,4400.0,New,West,Groundwater,False,4.5,city
+Pondok Aren,Tangerang Selatan,78.0,50.0,682.0,SHM,1,0,0,0,0,0,1,2,1,0,House Type 54,Unfurnished,2020.0,Renovated,North,Groundwater,False,5.1,city
+Grogol Petamburan,Jakarta Barat,78.0,312.0,3200.0,SHM,6,0,0,0,4,0,1,9+,1,0,House Type >300,Unfurnished,10000.0,New,Northeast,PAM/PDAM,False,2.5,city
+Tanjung Priok,Jakarta Utara,462.0,300.0,12500.0,SHM,8,0,3,0,2,0,1,9+,1,0,House Type 300,Unfurnished,5500.0,Renovated,West,Groundwater,False,5.0,city
+Penjaringan,Jakarta Utara,300.0,760.0,8600.0,SHM,5,1,2,3,2,0,2,5,1,0,House Type >300,Semi Furnished,5500.0,Renovated,South,Groundwater,False,7.0,city
+Tanjung Priok,Jakarta Utara,225.0,300.0,5200.0,SHM,3,0,2,0,2,0,1,4,1,0,House Type 300,Semi Furnished,5500.0,Well Maintained,North,Groundwater,False,5.0,city
+Tebet,Jakarta Selatan,451.0,389.0,12000.0,SHM,6,0,0,0,2,0,2,7,1,0,House Type >300,Unfurnished,16500.0,Renovated,West,Groundwater,False,9.0,city
+Kelapa Gading,Jakarta Utara,45.0,75.0,1170.0,SHM,3,1,1,0,2,0,1,2,1,0,House Type 120,Unfurnished,2200.0,Renovated,North,Groundwater,False,5.0,city
+Kelapa Gading,Jakarta Utara,60.0,100.0,1970.0,SHM,3,1,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,South,Groundwater,False,5.0,city
+Tanjung Priok,Jakarta Utara,90.0,90.0,1850.0,SHM,1,0,2,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,North,Groundwater,False,5.0,city
+Medan Satria,Kota Bekasi,72.0,71.0,1680.0,SHM,2,0,1,0,0,0,1,3,1,0,House Type 120,Furnished,2200.0,New,Northwest,Groundwater,False,4.0,city
+Penjaringan,Jakarta Utara,140.0,180.0,3800.0,SHM,3,0,2,0,2,0,1,4,1,0,House Type 200,Semi Furnished,3500.0,Renovated,South,PAM/PDAM,False,5.0,city
+Cilandak,Jakarta Selatan,137.0,100.0,3400.0,SHM,2,0,1,0,0,0,1,2,1,0,House Type 120,Unfurnished,4040.0,Well Maintained,Northwest,Groundwater,False,5.0,city
+Medan Satria,Kota Bekasi,72.0,71.0,1680.0,HGB,2,0,1,0,0,0,1,3,1,0,House Type 120,Furnished,2200.0,New,Northwest,Groundwater,False,4.0,city
+Tanjung Priok,Jakarta Utara,98.0,200.0,2700.0,SHM,3,1,2,1,3.5,0,1,5,1,0,House Type 200,Unfurnished,5500.0,New,North,PAM/PDAM,False,5.2,city
+Serpong Utara,Tangerang Selatan,90.0,120.0,2050.0,SHM,2,1,1,1,2,0,1,3,1,0,House Type 120,Unfurnished,3500.0,Renovated,North,Groundwater,False,4.5,city
+Serpong Utara,Tangerang Selatan,112.0,150.0,2900.0,SHM,3,0,2,0,2,0,1,3,1,0,House Type 200,Unfurnished,3500.0,New,South,Groundwater,False,4.5,city
+Grogol Petamburan,Jakarta Barat,500.0,650.0,41000.0,SHM,6,0,4,1,2,2,1,6,1,0,House Type >300,Semi Furnished,12100.0,Well Maintained,Northeast,Groundwater,True,5.5,city
+Jatinegara,Jakarta Timur,300.0,790.0,5900.0,SHM,3,1,2,1,3,2,1,6,1,0,House Type >300,Furnished,16500.0,Renovated,North,PAM/PDAM,False,5.0,city
+Gunung Putri,Kabupaten Bogor,185.0,200.0,3000.0,SHM,4,1,1,1,2,1,1,3,1,0,House Type 200,Furnished,4400.0,New,North,Groundwater,False,5.0,regency
+Serpong Utara,Tangerang Selatan,119.0,150.0,2500.0,Other,1,1,1,0,0,0,1,4,1,0,House Type 200,Semi Furnished,3500.0,Renovated,Northeast,Groundwater,False,5.5,city
+Karawaci,Kota Tangerang,66.0,36.0,275.0,SHM,1,0,1,0,0,0,1,1,1,0,House Type 36,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Menteng,Jakarta Pusat,659.0,800.0,38000.0,SHM,3,0,1,0,2,0,1,6,1,0,House Type >300,Semi Furnished,8000.0,Well Maintained,Northwest,Groundwater,False,5.0,city
+Cikupa,Kabupaten Tangerang,160.0,200.0,3000.0,SHM,3,0,2,0,2,0,1,3,1,0,House Type 200,Semi Furnished,4400.0,New,North,Groundwater,True,5.0,regency
+Kelapa Gading,Jakarta Utara,160.0,360.0,8400.0,SHM,3,1,1,1,3,1,1,4,1,0,House Type >300,Semi Furnished,7500.0,Renovated,South,Groundwater,False,7.1,city
+Serpong Utara,Tangerang Selatan,778.0,700.0,20000.0,SHM,5,2,2,0,0,0,1,6,1,0,House Type >300,Unfurnished,11000.0,New,Southwest,Groundwater,True,5.5,city
+Penjaringan,Jakarta Utara,325.0,500.0,11500.0,SHM,3,1,2,1,1.5,1,1,4,1,0,House Type >300,Semi Furnished,7700.0,Renovated,East,Groundwater,False,5.5,city
+Cakung,Jakarta Timur,98.0,140.0,3200.0,Other,4,0,2,0,0,0,1,3,1,0,House Type 200,Unfurnished,3500.0,New,Northeast,Groundwater,False,5.5,city
+Cengkareng,Jakarta Barat,90.0,122.0,1900.0,SHM,2,1,1,1,0,0,1,3,1,0,House Type 200,Semi Furnished,3500.0,Renovated,Southwest,Groundwater,False,4.7,city
+Cengkareng,Jakarta Barat,211.0,162.0,3500.0,SHM,2,1,2,1,2,0,1,3,1,0,House Type 200,Semi Furnished,5500.0,Renovated,Northeast,PAM/PDAM,True,4.0,city
+Bogor Barat,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Pancoran,Jakarta Selatan,300.0,220.0,8000.0,SHM,5,0,1,0,2,0,1,6,1,0,House Type 300,Semi Furnished,3500.0,Renovated,East,PAM/PDAM,False,6.5,city
+Kelapa Gading,Jakarta Utara,108.0,150.0,3200.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 200,Unfurnished,3300.0,New,West,Groundwater,False,4.5,city
+Kemayoran,Jakarta Pusat,243.0,200.0,4500.0,SHM,2,0,1,0,1,0,1,3,1,0,House Type 200,Unfurnished,2200.0,Need Renovation,East,Groundwater,False,12.5,city
+Cempaka Putih,Jakarta Pusat,108.0,1200.0,3500.0,SHM,4,1,0,1,0,0,1,4,1,1,House Type >300,Semi Furnished,3500.0,Renovated,Northeast,PAM/PDAM,False,5.0,city
+Pulo Gadung,Jakarta Timur,187.0,210.0,4200.0,SHM,4,1,3,0,2,0,1,4,1,0,House Type 300,Semi Furnished,3500.0,New,Southeast,PAM/PDAM,True,13.0,city
+Kebon Jeruk,Jakarta Barat,250.0,300.0,6900.0,SHM,3,0,2,0,2,0,1,4,1,0,House Type 300,Unfurnished,7700.0,Need Renovation,Northeast,Groundwater,False,5.0,city
+Kebon Jeruk,Jakarta Barat,300.0,500.0,9500.0,SHM,4,1,2,1,2.5,1,1,4,1,0,House Type >300,Semi Furnished,10000.0,New,North,Groundwater,False,6.0,city
+Kebon Jeruk,Jakarta Barat,450.0,300.0,10500.0,SHM,3,0,2,0,0,2,1,4,1,0,House Type 300,Furnished,10000.0,Renovated,North,Groundwater,False,5.0,city
+Cinere,Depok,170.0,150.0,2350.0,SHM,3,0,1,0,1,0,1,3,1,0,House Type 200,Unfurnished,3380.0,Well Maintained,Northeast,Groundwater,False,5.0,city
+Tanjung Priok,Jakarta Utara,150.0,200.0,3700.0,SHM,2,1,2,1,2,0,1,4,1,0,House Type 200,Semi Furnished,3500.0,New,North,Groundwater,False,5.0,city
+Cinere,Depok,351.0,122.0,1950.0,SHM,3,0,2,0,0,0,1,5,1,0,House Type 200,Unfurnished,2900.0,Well Maintained,Northwest,Groundwater,False,5.2,city
+Tanjung Priok,Jakarta Utara,90.0,210.0,4300.0,SHM,2,1,1,1,3.5,1,1,3,1,0,House Type 300,Furnished,3500.0,Renovated,North,Groundwater,False,5.0,city
+Tanjung Priok,Jakarta Utara,160.0,240.0,5900.0,SHM,2,1,2,1,2,0,1,5,1,0,House Type 300,Semi Furnished,4400.0,Renovated,South,Groundwater,False,5.0,city
+Menteng,Jakarta Pusat,733.0,1100.0,45000.0,SHM,6,2,4,1,0,2,1,6,1,0,House Type >300,Semi Furnished,14000.0,Renovated,Northwest,PAM/PDAM,False,5.0,city
+Cilandak,Jakarta Selatan,151.0,245.0,5800.0,SHM,3,0,0,0,0,0,1,3,1,0,House Type 300,Unfurnished,5500.0,New,Northeast,Groundwater,False,6.0,city
+Cinere,Depok,351.0,122.0,1950.0,SHM,3,0,2,0,0,0,1,5,1,0,House Type 200,Unfurnished,2900.0,Well Maintained,Northwest,Groundwater,False,5.2,city
+Cinere,Depok,300.0,150.0,1900.0,SHM,1,0,1,0,1,0,1,2,1,0,House Type 200,Unfurnished,3080.0,Well Maintained,Northwest,Groundwater,False,5.2,city
+Mustika Jaya,Kota Bekasi,220.0,96.0,2000.0,SHM,1,0,1,0,2,0,1,1,1,0,House Type 120,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,5.2,city
+Kalideres,Jakarta Barat,250.0,500.0,6500.0,SHM,4,1,1,1,3,0,1,5,1,0,House Type >300,Semi Furnished,4400.0,New,Northwest,PAM/PDAM,True,6.0,city
+Kelapa Gading,Jakarta Utara,60.0,119.0,2980.0,Other,2,1,2,1,3,0,1,3,1,0,House Type 120,Unfurnished,3300.0,New,Northeast,PAM/PDAM,False,4.5,city
+Kelapa Dua,Kabupaten Tangerang,136.0,138.0,3300.0,Other,5,0,0,0,3,0,1,5,1,0,House Type 200,Semi Furnished,5500.0,Well Maintained,Southwest,PAM/PDAM,True,4.0,regency
+Tanah Sareal,Kota Bogor,320.0,600.0,4200.0,SHM,6,1,4,0,2,0,1,6,1,0,House Type >300,Furnished,3500.0,New,South,PAM/PDAM,True,5.0,city
+Cakung,Jakarta Timur,98.0,115.0,2700.0,Other,4,1,0,1,2.5,0,1,3,1,0,House Type 120,Unfurnished,2900.0,New,Northwest,Groundwater,False,5.0,city
+Tapos,Depok,153.0,165.0,2870.0,SHM,3,0,0,0,0,0,1,3,1,0,House Type 200,Unfurnished,3500.0,New,Northeast,Groundwater,False,4.5,city
+Tapos,Depok,193.0,138.0,2870.0,SHM,3,0,0,0,0,0,1,3,1,0,House Type 200,Unfurnished,3500.0,New,North,Groundwater,True,5.0,city
+Tapos,Depok,204.0,193.0,3630.0,SHM,3,0,0,0,0,0,1,3,1,0,House Type 200,Semi Furnished,3500.0,New,Northeast,Groundwater,True,4.0,city
+Ciputat,Tangerang Selatan,82.0,60.0,750.0,SHM,1,0,0,0,0,0,1,2,1,0,House Type 60,Semi Furnished,2020.0,Renovated,Northeast,Groundwater,False,5.1,city
+Kelapa Dua,Kabupaten Tangerang,72.0,77.0,1850.0,Other,2,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,North,Groundwater,False,5.0,regency
+Kemayoran,Jakarta Pusat,150.0,500.0,6000.0,HGB,3,0,0,0,3,0,1,4,1,0,House Type >300,Furnished,13780.0,Renovated,South,Groundwater,False,6.0,city
+Cilincing,Jakarta Utara,184.0,220.0,1900.0,SHM,2,0,1,0,2,0,1,3,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,Groundwater,False,5.2,city
+Pademangan,Jakarta Utara,120.0,112.0,4100.0,HGB,2,1,1,1,2,0,1,3,1,0,House Type 120,Furnished,3640.0,Well Maintained,Northwest,Groundwater,False,6.0,city
+Cakung,Jakarta Timur,195.0,250.0,3000.0,HGB,3,1,2,1,2,0,1,5,1,0,House Type 300,Unfurnished,2200.0,New,North,PAM/PDAM,False,4.5,city
+Cakung,Jakarta Timur,198.0,212.0,3050.0,SHM,3,1,1,1,2,1,1,5,1,0,House Type 300,Semi Furnished,3500.0,New,North,Groundwater,False,4.5,city
+Cinere,Depok,200.0,365.0,3500.0,SHM,3,1,1,1,0,0,1,4,1,0,House Type >300,Semi Furnished,3080.0,New,Northeast,Groundwater,False,5.0,city
+Cinere,Depok,105.0,93.0,1200.0,SHM,2,1,1,1,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,Northeast,Groundwater,False,5.0,city
+Cilandak,Jakarta Selatan,206.0,290.0,5800.0,HGB,3,0,0,0,3,0,1,3,1,0,House Type 300,Unfurnished,6600.0,New,North,PAM/PDAM,False,5.0,city
+Cakung,Jakarta Timur,105.0,85.0,1900.0,Other,2,1,2,1,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northeast,PAM/PDAM,False,5.0,city
+Cakung,Jakarta Timur,102.0,76.0,1640.0,HGB,2,1,2,1,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,Northeast,PAM/PDAM,False,4.0,city
+Cakung,Jakarta Timur,250.0,350.0,4000.0,SHM,3,1,2,1,2,1,1,4,1,0,House Type >300,Unfurnished,4400.0,Renovated,East,Groundwater,False,12.0,city
+Cakung,Jakarta Timur,120.0,123.0,1850.0,SHM,3,1,0,1,2,0,1,3,1,0,House Type 200,Semi Furnished,5500.0,Well Maintained,South,Groundwater,False,4.2,city
+Kelapa Gading,Jakarta Utara,165.0,320.0,3950.0,SHM,11+,0,0,0,4,0,1,9+,1,0,House Type >300,Furnished,4260.0,Renovated,North,Groundwater,True,5.0,city
+Cinere,Depok,180.0,240.0,2900.0,SHM,2,1,0,1,0,0,1,3,1,0,House Type 300,Unfurnished,2200.0,Well Maintained,Northeast,Groundwater,False,4.5,city
+Rawalumbu,Kota Bekasi,84.0,69.0,900.0,SHM,2,0,1,0,2,0,1,3,1,0,House Type 70,Unfurnished,2020.0,Renovated,South,Groundwater,False,6.0,city
+Ciracas,Jakarta Timur,126.0,180.0,1950.0,SHM,2,0,2,0,2,0,2,2,1,0,House Type 200,Semi Furnished,2200.0,Renovated,Northwest,PAM/PDAM,False,5.0,city
+Tanjung Priok,Jakarta Utara,120.0,225.0,3600.0,SHM,2,0,2,0,2.5,0,1,3,1,0,House Type 300,Semi Furnished,3500.0,New,North,Groundwater,False,5.0,city
+Limo,Depok,119.0,45.0,920.0,SHM,10,0,1,0,0,0,1,2,1,0,House Type 45,Unfurnished,1840.0,Renovated,Northwest,Groundwater,False,6.0,city
+Tanjung Priok,Jakarta Utara,250.0,350.0,10000.0,SHM,3,1,2,1,1.5,1,1,4,1,0,House Type >300,Semi Furnished,5500.0,New,Northeast,Groundwater,False,6.5,city
+Tanjung Priok,Jakarta Utara,300.0,650.0,10500.0,SHM,4,0,2,0,3,1,1,3,1,0,House Type >300,Furnished,7280.0,New,East,Groundwater,False,5.5,city
+Bogor Barat,Kota Bogor,135.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Penjaringan,Jakarta Utara,200.0,311.0,9900.0,Other,4,1,2,1,3,0,1,3,1,0,House Type >300,Unfurnished,5500.0,New,Northeast,Groundwater,False,7.5,city
+Pagedangan,Kabupaten Tangerang,77.0,73.0,1600.0,SHM,2,0,0,0,2,0,1,2,1,0,House Type 120,Unfurnished,2200.0,New,North,Groundwater,False,4.0,regency
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Cimanggis,Depok,136.0,28.0,1550.0,SHM,2,0,1,0,0,0,1,3,1,0,House Type 36,Unfurnished,1840.0,New,South,Groundwater,False,5.0,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,Northwest,Groundwater,False,4.5,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Well Maintained,Northwest,Groundwater,False,4.5,city
+Pondok Aren,Tangerang Selatan,144.0,220.0,3000.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,New,Northeast,PAM/PDAM,True,4.5,city
+Cinere,Depok,135.0,200.0,2300.0,SHM,3,1,1,0,2,0,1,4,1,0,House Type 200,Semi Furnished,2200.0,Renovated,North,Groundwater,False,5.0,city
+Duren Sawit,Jakarta Timur,377.0,450.0,2500.0,SHM,5,0,2,0,2.5,0,1,6,1,0,House Type >300,Semi Furnished,4400.0,Renovated,East,PAM/PDAM,True,5.2,city
+Pondok Gede,Kota Bekasi,214.0,213.0,8000.0,HGB,3,1,2,1,0,0,1,5,1,0,House Type 300,Furnished,7700.0,Renovated,East,Groundwater,False,6.5,city
+Tanjung Priok,Jakarta Utara,270.0,300.0,5700.0,SHM,3,1,1,1,2,1,1,3,1,0,House Type 300,Unfurnished,5500.0,New,Southwest,PAM/PDAM,False,5.0,city
+Kelapa Dua,Kabupaten Tangerang,246.0,149.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 200,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,regency
+Bogor Barat,Kota Bogor,136.0,220.0,265.0,SHM,2,0,1,0,0,0,1,4,1,0,House Type 300,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Pasar Kemis,Kabupaten Tangerang,66.0,96.0,1400.0,Other,2,0,1,0,2,0,1,3,1,0,House Type 120,Furnished,3300.0,Renovated,North,Groundwater,False,4.0,regency
+Bogor Barat,Kota Bogor,136.0,220.0,3100.0,HGB,2,0,1,0,0,0,1,4,1,0,House Type 300,Semi Furnished,2720.0,Renovated,North,Groundwater,False,4.5,city
+Penjaringan,Jakarta Utara,150.0,150.0,6000.0,SHM,4,0,2,0,2.5,2,1,3,1,0,House Type 200,Semi Furnished,7700.0,Renovated,North,Groundwater,False,5.0,city
+Duren Sawit,Jakarta Timur,300.0,500.0,6000.0,SHM,4,0,2,0,2.5,2,1,6,1,0,House Type >300,Semi Furnished,7700.0,Renovated,North,Groundwater,False,5.0,city
+Duren Sawit,Jakarta Timur,300.0,500.0,1490.0,SHM,2,0,1,0,2,0,1,6,1,0,House Type >300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,5.0,city
+Cempaka Putih,Jakarta Pusat,55.0,150.0,798.0,SHM,2,0,1,0,0,0,1,3,1,0,House Type 200,Unfurnished,2200.0,Renovated,South,Groundwater,False,6.0,city
+Medan Satria,Kota Bekasi,90.0,60.0,19800.0,SHM,5,3,4,1,3,3+,1,3,1,0,House Type 60,Semi Furnished,16500.0,New,West,PAM/PDAM,False,5.0,city
+Kebon Jeruk,Jakarta Barat,540.0,765.0,3000.0,SHM,2,1,2,1,1.5,0,1,5,1,0,House Type >300,Furnished,4100.0,Renovated,South,Groundwater,False,5.2,city
+Serpong Utara,Tangerang Selatan,136.0,105.0,2000.0,SHM,2,0,0,0,1.5,0,1,3,1,0,House Type 120,Unfurnished,3500.0,Renovated,South,Groundwater,False,5.2,city
+Serpong Utara,Tangerang Selatan,102.0,90.0,8000.0,SHM,3,0,2,1,2.5,0,1,3,1,0,House Type 120,Furnished,7700.0,Renovated,North,PAM/PDAM,True,6.5,city
+Kelapa Gading,Jakarta Utara,230.0,400.0,5300.0,SHM,3,1,3,1,0,0,1,5,1,0,House Type >300,Semi Furnished,4400.0,New,South,Groundwater,False,5.0,city
+Kelapa Dua,Kabupaten Tangerang,126.0,120.0,2500.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 120,Semi Furnished,3120.0,Renovated,East,Groundwater,False,5.5,regency
+Serpong,Tangerang Selatan,469.0,434.0,896.0,SHM,3,0,2,0,0,0,1,5,1,0,House Type >300,Semi Furnished,1580.0,Well Maintained,Northeast,Groundwater,False,5.6,city
+Karang Tengah,Kota Tangerang,78.0,72.0,477.0,SHM,1,0,0,0,0,0,1,1,1,0,House Type 120,Unfurnished,1740.0,Renovated,North,Groundwater,False,5.1,city
+Setu,Kabupaten Bekasi,141.0,121.0,2100.0,SHM,2,0,2,0,2,0,1,3,1,0,House Type 200,Semi Furnished,2200.0,New,Northwest,Groundwater,False,5.0,regency
+Kelapa Dua,Kabupaten Tangerang,90.0,66.0,1650.0,Other,2,0,1,0,0,0,1,3,1,0,House Type 70,Unfurnished,2200.0,New,South,Groundwater,False,4.0,regency
+Pinang,Kota Tangerang,220.0,231.0,618.0,SHM,2,0,1,0,0,0,1,4,1,0,House Type 300,Unfurnished,1400.0,Renovated,North,Groundwater,False,5.1,city
+Tanah Sareal,Kota Bogor,136.0,220.0,1590.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Serpong,Tangerang Selatan,206.0,280.0,1600.0,SHM,2,0,1,0,0,0,1,5,1,0,House Type 300,Unfurnished,2200.0,Renovated,South,Groundwater,False,4.5,city
+Karawaci,Kota Tangerang,90.0,60.0,475.0,SHM,1,0,1,0,0,0,1,3,1,0,House Type 60,Unfurnished,1300.0,Renovated,North,Groundwater,False,5.1,city
+Cengkareng,Jakarta Barat,120.0,160.0,3500.0,SHM,3,1,1,1,2,0,1,3,1,0,House Type 200,Semi Furnished,3500.0,Need Renovation,Northwest,Groundwater,False,4.5,city
+Tanjung Priok,Jakarta Utara,187.0,435.0,5800.0,SHM,3,1,0,1,3,2,1,4,1,0,House Type >300,Furnished,6600.0,New,North,Groundwater,False,5.0,city
+Cempaka Putih,Jakarta Pusat,533.0,341.0,8500.0,SHM,2,2,2,2,1,2,2,3,1,0,House Type >300,Semi Furnished,5500.0,New,Southeast,Groundwater,True,7.0,city
+Kelapa Gading,Jakarta Utara,414.0,670.0,15800.0,SHM,6,2,3,0,3.5,0,1,7,1,0,House Type >300,Semi Furnished,22000.0,New,Southeast,PAM/PDAM,True,5.0,city
+Tanjung Priok,Jakarta Utara,266.0,350.0,12000.0,SHM,3,1,2,1,2,2,2,3,1,0,House Type >300,Semi Furnished,5500.0,New,Northeast,Groundwater,True,5.0,city
+Medan Satria,Kota Bekasi,60.0,42.0,618.0,SHM,2,0,0,0,0,0,1,2,1,0,House Type 45,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Kalideres,Jakarta Barat,150.0,156.0,3300.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 200,Furnished,5500.0,Renovated,East,Groundwater,False,4.5,city
+Kalideres,Jakarta Barat,160.0,135.0,3250.0,SHM,2,1,2,0,1,0,1,3,1,0,House Type 200,Unfurnished,4400.0,New,Northeast,Groundwater,False,4.5,city
+Kelapa Gading,Jakarta Utara,135.0,195.0,2650.0,SHM,3,2,1,0,2,0,1,4,1,0,House Type 200,Unfurnished,3300.0,New,North,Groundwater,False,5.2,city
+Tanjung Priok,Jakarta Utara,200.0,200.0,5500.0,SHM,3,1,2,1,0,0,1,4,1,0,House Type 200,Semi Furnished,4400.0,New,East,PAM/PDAM,False,5.0,city
+Tangerang,Kota Tangerang,120.0,146.0,3500.0,Other,3,1,1,1,2,0,1,3,1,0,House Type 200,Unfurnished,2200.0,Need Renovation,South,Groundwater,False,4.0,city
+Matraman,Jakarta Timur,152.0,120.0,900.0,Other,1,0,0,0,1,0,1,2,1,0,House Type 120,Unfurnished,900.0,Renovated,North,PAM/PDAM,False,4.0,city
+Bekasi Utara,Kota Bekasi,147.0,160.0,750.0,Other,2,0,0,0,2,0,1,4,1,0,House Type 200,Unfurnished,900.0,Renovated,Northeast,Groundwater,False,4.7,city
+Medan Satria,Kota Bekasi,162.0,250.0,1400.0,SHM,2,0,2,0,2,1,1,4,1,0,House Type 300,Unfurnished,2200.0,Renovated,Southwest,PAM/PDAM,True,5.0,city
+Cakung,Jakarta Timur,135.0,230.0,3000.0,SHM,3,0,2,0,2,0,1,3,1,0,House Type 300,Furnished,3500.0,New,Northeast,PAM/PDAM,False,4.5,city
+Cakung,Jakarta Timur,240.0,235.0,4600.0,SHM,3,1,2,1,2,0,1,4,1,0,House Type 300,Unfurnished,2200.0,New,East,Groundwater,False,12.5,city
+Tanah Abang,Jakarta Pusat,200.0,176.0,11000.0,SHM,2,1,1,0,0,3+,1,5,1,0,House Type 200,Semi Furnished,2200.0,Renovated,East,Groundwater,False,5.5,city
+Menteng,Jakarta Pusat,700.0,2000.0,95000.0,SHM,10,0,6,0,3,3+,1,9+,1,0,House Type >300,Furnished,66000.0,New,Northeast,Groundwater,False,5.0,city
+Menteng,Jakarta Pusat,700.0,2000.0,95000.0,SHM,10,0,6,0,3,3+,1,9+,1,0,House Type >300,Furnished,66000.0,New,Northeast,Groundwater,False,5.0,city
+Cakung,Jakarta Timur,120.0,75.0,2350.0,SHM,3,1,1,1,2,0,1,3,1,0,House Type 120,Unfurnished,2840.0,Renovated,Northeast,Groundwater,False,5.0,city
+Cakung,Jakarta Timur,102.0,75.0,1650.0,SHM,2,1,2,1,2,0,1,3,1,0,House Type 120,Semi Furnished,2200.0,Well Maintained,Northeast,PAM/PDAM,False,4.0,city
+Cakung,Jakarta Timur,210.0,121.0,3170.0,SHM,3,1,2,1,2,0,1,4,1,0,House Type 200,Unfurnished,3780.0,New,South,Groundwater,False,5.0,city
+Karawaci,Kota Tangerang,108.0,160.0,950.0,SHM,2,0,1,0,2,0,1,5,1,0,House Type 200,Unfurnished,3500.0,Well Maintained,Northwest,Groundwater,False,4.0,city
+Kelapa Gading,Jakarta Utara,120.0,176.0,3600.0,SHM,3,1,2,1,2.5,0,1,4,1,0,House Type 200,Furnished,5500.0,Well Maintained,South,Groundwater,False,4.0,city
+Cinere,Depok,479.0,500.0,12000.0,SHM,6,1,3,1,0,1,2,5,1,0,House Type >300,Semi Furnished,4400.0,Renovated,Northeast,Groundwater,False,5.0,city
+Cakung,Jakarta Timur,120.0,120.0,1750.0,SHM,2,0,2,0,2,0,1,2,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northeast,PAM/PDAM,False,4.5,city
+Cakung,Jakarta Timur,90.0,62.0,1550.0,Other,2,0,1,0,2,0,1,2,1,0,House Type 70,Unfurnished,2200.0,New,North,PAM/PDAM,False,4.5,city
+Grogol Petamburan,Jakarta Barat,249.0,415.0,8600.0,SHM,3,1,2,1,3,0,1,4,1,0,House Type >300,Furnished,16500.0,Renovated,Northwest,PAM/PDAM,True,6.5,city
+Kelapa Dua,Kabupaten Tangerang,60.0,28.0,168.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 36,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,regency
+Serpong,Tangerang Selatan,60.0,28.0,168.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 36,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Cakung,Jakarta Timur,249.0,156.0,3000.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 200,Semi Furnished,3500.0,New,Northeast,Groundwater,True,4.5,city
+Cakung,Jakarta Timur,90.0,75.0,1600.0,Other,2,1,2,1,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,New,North,PAM/PDAM,False,4.0,city
+Cakung,Jakarta Timur,198.0,219.0,2990.0,Other,3,1,0,1,2,0,1,4,1,0,House Type 300,Unfurnished,3600.0,Renovated,North,Groundwater,True,4.5,city
+Cakung,Jakarta Timur,105.0,85.0,1900.0,Other,2,1,1,1,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Well Maintained,East,PAM/PDAM,False,5.0,city
+Cakung,Jakarta Timur,136.0,92.0,2850.0,Other,3,1,1,1,2,0,1,3,1,0,House Type 120,Furnished,3640.0,New,East,Groundwater,False,5.0,city
+Cakung,Jakarta Timur,228.0,250.0,3200.0,Other,3,1,1,1,2,0,1,4,1,0,House Type 300,Unfurnished,3160.0,Renovated,North,Groundwater,True,4.5,city
+Cisarua,Kabupaten Bogor,4200.0,500.0,6000.0,SHM,4,0,0,0,0,0,1,5,1,0,House Type >300,Semi Furnished,4400.0,New,North,Groundwater,False,6.0,regency
+Cinere,Depok,690.0,900.0,7600.0,SHM,6,1,0,1,0,0,1,8,1,0,House Type >300,Unfurnished,6600.0,Renovated,South,Groundwater,True,6.5,city
+Pondok Aren,Tangerang Selatan,96.0,84.0,1800.0,SHM,2,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northeast,Groundwater,False,5.0,city
+Cikarang,Kabupaten Bekasi,60.0,40.0,300.0,SHM,1,0,0,0,0,0,1,2,1,0,House Type 45,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,regency
+Batuceper,Kota Tangerang,84.0,168.0,1500.0,SHM,3,0,0,0,2,0,1,4,1,0,House Type 200,Unfurnished,3500.0,New,North,PAM/PDAM,False,4.0,city
+Bogor Tengah,Kota Bogor,900.0,540.0,11500.0,SHM,4,2,0,1,2,3+,1,6,1,0,House Type >300,Semi Furnished,10000.0,Renovated,North,PAM/PDAM,False,5.0,city
+Balaraja,Kabupaten Tangerang,140.0,96.0,1195.0,SHM,2,0,1,0,0,0,1,2,1,0,House Type 120,Unfurnished,2200.0,Well Maintained,South,PAM/PDAM,False,5.4,regency
+Curug,Kabupaten Tangerang,112.0,68.0,1480.0,Other,3,0,1,0,2,0,1,3,1,0,House Type 70,Unfurnished,2200.0,New,South,Groundwater,True,5.0,regency
+Ciputat,Tangerang Selatan,179.0,157.0,1380.0,Other,2,0,2,0,2,0,1,2,2,0,House Type 200,Unfurnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Bogor Tengah,Kota Bogor,900.0,540.0,11500.0,SHM,4,2,0,0,2,3+,2,6,2,0,House Type >300,Unfurnished,10000.0,Renovated,North,PAM/PDAM,False,5.0,city
+Karawaci,Kota Tangerang,160.0,200.0,1100.0,SHM,2,0,0,0,1,0,1,4,1,0,House Type 200,Unfurnished,1300.0,Renovated,Northwest,PAM/PDAM,False,4.5,city
+Tanah Sareal,Kota Bogor,320.0,600.0,7500.0,SHM,5,2,4,0,2,1,1,5,1,0,House Type >300,Furnished,3500.0,Renovated,Northwest,Groundwater,False,6.5,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Well Maintained,Northwest,Groundwater,False,4.5,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Serpong,Tangerang Selatan,72.0,57.0,985.0,SHM,1,0,1,0,0,0,1,2,1,0,House Type 60,Unfurnished,2200.0,Well Maintained,Northwest,Groundwater,False,6.0,city
+Cipayung,Jakarta Timur,66.0,100.0,1450.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,4.5,city
+Tangerang,Kota Tangerang,129.0,200.0,3000.0,SHM,3,0,1,0,2,0,1,4,1,0,House Type 200,Furnished,5500.0,New,Northeast,Groundwater,True,5.2,city
+Bogor Barat,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Sukmajaya,Depok,105.0,82.0,1650.0,SHM,2,1,1,1,2,0,1,2,1,0,House Type 120,Unfurnished,2200.0,Need Renovation,Northeast,Groundwater,False,4.0,city
+Cilandak,Jakarta Selatan,120.0,250.0,4000.0,SHM,4,1,2,1,3,0,1,4,1,1,House Type 300,Unfurnished,4400.0,Renovated,Northwest,Groundwater,False,6.4,city
+Pasar Rebo,Jakarta Timur,50.0,77.0,1000.0,SHM,3,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,5.0,city
+Cilandak,Jakarta Selatan,187.0,250.0,5000.0,SHM,4,1,2,1,2,0,1,3,1,0,House Type 300,Unfurnished,2200.0,New,East,Groundwater,False,12.5,city
+Kebayoran Lama,Jakarta Selatan,120.0,250.0,6600.0,SHM,4,1,1,1,3,2,1,4,1,0,House Type 300,Unfurnished,5460.0,New,East,Groundwater,False,5.0,city
+Pesanggrahan,Jakarta Selatan,229.0,440.0,6500.0,SHM,3,1,2,1,3,3+,1,4,1,0,House Type >300,Semi Furnished,4400.0,New,East,Groundwater,False,5.0,city
+Pasar Minggu,Jakarta Selatan,123.0,200.0,2985.0,SHM,4,0,1,0,2.5,0,1,5,1,0,House Type 200,Semi Furnished,3500.0,New,Northeast,Groundwater,False,5.0,city
+Mampang Prapatan,Jakarta Selatan,54.0,231.0,4300.0,SHM,3,1,2,1,3,0,1,3,1,0,House Type 300,Furnished,4260.0,New,North,Groundwater,False,5.0,city
+Duren Sawit,Jakarta Timur,135.0,175.0,3700.0,SHM,4,0,2,0,2,0,1,4,1,0,House Type 200,Unfurnished,2200.0,New,Northeast,Groundwater,False,4.0,city
+Duren Sawit,Jakarta Timur,220.0,160.0,3900.0,SHM,2,1,1,1,2,2,1,3,1,0,House Type 200,Furnished,4400.0,Well Maintained,Northeast,Groundwater,False,5.0,city
+Kebayoran Lama,Jakarta Selatan,140.0,300.0,9900.0,SHM,3,1,2,1,3,2,1,3,1,0,House Type 300,Unfurnished,10000.0,New,North,Groundwater,False,5.0,city
+Kebayoran Lama,Jakarta Selatan,160.0,400.0,8800.0,SHM,4,3,2,1,2,0,2,3,1,0,House Type >300,Furnished,5500.0,New,Southeast,Groundwater,False,5.0,city
+Pesanggrahan,Jakarta Selatan,761.0,250.0,3000.0,SHM,4,1,1,1,2,1,1,4,1,0,House Type 300,Unfurnished,2860.0,New,North,Groundwater,False,5.2,city
+Cilandak,Jakarta Selatan,165.0,310.0,7500.0,SHM,5,2,2,1,3,3+,1,5,1,0,House Type >300,Semi Furnished,6560.0,Renovated,Northeast,Groundwater,False,6.0,city
+Serpong Utara,Tangerang Selatan,144.0,300.0,3880.0,SHM,3,1,1,1,2.5,0,1,4,1,0,House Type 300,Semi Furnished,3500.0,Renovated,North,Groundwater,False,5.0,city
+Bogor Barat,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,3300.0,New,South,PAM/PDAM,False,4.0,city
+Tanah Abang,Jakarta Pusat,187.0,120.0,7000.0,SHM,1,0,1,0,1,0,1,3,1,0,House Type 120,Unfurnished,6560.0,Need Renovation,Northeast,Groundwater,False,5.0,city
+Duren Sawit,Jakarta Timur,85.0,122.0,1900.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 200,Unfurnished,2200.0,New,South,PAM/PDAM,False,5.0,city
+Pasar Kemis,Kabupaten Tangerang,60.0,63.0,750.0,SHM,2,0,0,0,0,0,1,3,1,0,House Type 70,Semi Furnished,2200.0,Renovated,South,Groundwater,False,6.0,regency
+Tanjung Priok,Jakarta Utara,184.0,88.0,3800.0,SHM,3,0,2,0,0,0,1,3,1,0,House Type 120,Semi Furnished,5500.0,New,East,PAM/PDAM,True,5.0,city
+Kemayoran,Jakarta Pusat,105.0,226.0,2800.0,SHM,4,0,0,0,2,1,1,4,1,0,House Type 300,Furnished,2200.0,New,Northwest,PAM/PDAM,False,2.5,city
+Pesanggrahan,Jakarta Selatan,395.0,300.0,10000.0,SHM,4,2,3,1,2,1,1,3,2,1,House Type 300,Semi Furnished,3500.0,Renovated,East,Groundwater,False,6.5,city
+Cikarang,Kabupaten Bekasi,72.0,45.0,997.0,SHM,2,0,1,0,0,0,1,2,1,0,House Type 45,Semi Furnished,2200.0,Well Maintained,Northwest,Groundwater,False,5.6,regency
+Tanah Sareal,Kota Bogor,136.0,220.0,725.0,SHM,1,0,1,0,1,0,1,3,1,0,House Type 300,Unfurnished,1300.0,Well Maintained,Northeast,Groundwater,False,4.7,city
+Tanah Sareal,Kota Bogor,136.0,220.0,1390.0,SHM,2,0,1,0,0,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,city
+Cibitung,Kabupaten Bekasi,60.0,28.0,1390.0,SHM,2,0,1,0,2,0,1,2,1,0,House Type 36,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,4.5,regency
+Ciputat,Tangerang Selatan,137.0,110.0,185.0,HGB,1,0,1,0,0,0,1,2,1,0,House Type 120,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Penjaringan,Jakarta Utara,200.0,650.0,1450.0,SHM,2,0,0,0,0,2,1,6,1,0,House Type >300,Semi Furnished,1300.0,Renovated,North,Groundwater,False,3.5,city
+Tanjung Priok,Jakarta Utara,120.0,180.0,12000.0,SHM,7,1,0,1,5,2,1,4,1,0,House Type 200,Furnished,6600.0,Renovated,South,Groundwater,False,5.5,city
+Medan Satria,Kota Bekasi,60.0,99.0,3500.0,SHM,2,1,2,2,0,0,1,2,1,0,House Type 120,Unfurnished,3500.0,Need Renovation,Northeast,Groundwater,False,4.5,city
+Ciputat,Tangerang Selatan,127.0,250.0,535.0,SHM,1,0,1,0,0,0,1,3,1,0,House Type 300,Unfurnished,1920.0,Renovated,North,Groundwater,False,5.1,city
+Senen,Jakarta Pusat,235.0,252.0,2400.0,SHM,2,1,1,1,2,0,1,5,1,0,House Type 300,Semi Furnished,3500.0,Renovated,North,Groundwater,False,5.5,city
+Limo,Depok,173.0,180.0,6400.0,SHM,4,1,4,0,4,1,1,3,1,0,House Type 200,Semi Furnished,7600.0,Need Renovation,Northwest,Groundwater,True,5.0,city
+Tanah Sareal,Kota Bogor,136.0,220.0,2150.0,SHM,2,0,1,0,2,0,1,4,1,0,House Type 300,Unfurnished,2200.0,Renovated,Northeast,Groundwater,False,5.0,city
+Sawangan,Depok,320.0,470.0,1590.0,SHM,2,0,2,0,2,0,1,5,1,0,House Type >300,Semi Furnished,2200.0,Renovated,South,PAM/PDAM,False,5.0,city
+Ciracas,Jakarta Timur,72.0,60.0,899.0,SHM,2,0,1,0,0,0,1,2,1,0,House Type 60,Unfurnished,2200.0,Renovated,Northwest,Groundwater,False,6.0,city
+Ciracas,Jakarta Timur,90.0,80.0,275.0,SHM,1,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
+Tanjung Priok,Jakarta Utara,98.0,200.0,600.0,SHM,2,0,1,0,0,0,1,4,1,0,House Type 200,Semi Furnished,2200.0,Renovated,South,Groundwater,False,6.0,city
+Tanjung Priok,Jakarta Utara,96.0,84.0,4200.0,SHM,3,1,2,1,3,0,1,2,1,0,House Type 120,Unfurnished,4040.0,New,West,Groundwater,False,5.5,city
+Cimanggis,Depok,150.0,220.0,1750.0,SHM,1,0,1,0,0,0,1,4,1,0,House Type 300,Unfurnished,2200.0,Renovated,North,Groundwater,False,5.0,city
+Bekasi Barat,Kota Bekasi,105.0,102.0,1800.0,SHM,3,0,1,0,0,0,1,3,1,0,House Type 120,Unfurnished,3080.0,Renovated,North,Groundwater,False,5.2,city
+Penjaringan,Jakarta Utara,60.0,79.0,2060.0,HGB,3,0,1,0,0,0,1,2,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northwest,PAM/PDAM,False,5.2,city
+Ciputat Timur,Tangerang Selatan,164.0,200.0,2000.0,Other,2,0,1,0,2,0,1,3,1,0,House Type 200,Semi Furnished,3500.0,Renovated,South,Groundwater,False,4.7,city
+Ciputat,Tangerang Selatan,75.0,100.0,2800.0,SHM,3,1,2,1,3,0,1,3,1,0,House Type 120,Unfurnished,4400.0,Renovated,East,Groundwater,False,5.0,city
+Pondok Aren,Tangerang Selatan,90.0,115.0,1550.0,SHM,2,0,1,0,2,0,1,3,1,0,House Type 120,Furnished,2200.0,New,Northwest,Groundwater,False,5.0,city
+Mampang Prapatan,Jakarta Selatan,425.0,500.0,2650.0,SHM,4,1,2,0,2,0,1,4,1,0,House Type >300,Unfurnished,4400.0,New,East,PAM/PDAM,False,5.2,city
+Cilandak,Jakarta Selatan,297.0,400.0,17500.0,SHM,4,2,3,1,2,0,1,4,1,0,House Type >300,Unfurnished,23000.0,Well Maintained,Northeast,Groundwater,False,5.0,city
+Jatinegara,Jakarta Timur,206.0,350.0,9900.0,SHM,4,1,2,1,2,2,1,4,1,0,House Type >300,Unfurnished,7700.0,New,East,Groundwater,False,7.1,city
+Pondok Aren,Tangerang Selatan,120.0,120.0,5200.0,SHM,5,1,1,1,2.5,1,2,3,1,0,House Type 120,Unfurnished,3300.0,New,North,Groundwater,False,5.0,city
+Kebayoran Lama,Jakarta Selatan,671.0,400.0,3900.0,SHM,3,1,2,1,2,0,1,5,1,0,House Type >300,Semi Furnished,4400.0,Renovated,South,Groundwater,True,5.0,city
+Batuceper,Kota Tangerang,397.0,400.0,46000.0,SHM,5,2,4,4,2,3+,1,6,1,0,House Type >300,Unfurnished,6600.0,Renovated,North,Groundwater,False,5.5,city
+Pamulang,Tangerang Selatan,68.0,200.0,3300.0,SHM,3,2,1,1,3,0,1,1,1,0,House Type 200,Semi Furnished,3500.0,New,North,Groundwater,False,4.5,city
+Kramat Jati,Jakarta Timur,1061.0,220.0,2200.0,SHM,3,0,1,0,3,0,1,4,1,0,House Type 300,Unfurnished,3740.0,Renovated,Northeast,Groundwater,False,5.0,city
+Bogor Selatan,Kota Bogor,151.0,38.0,12000.0,SHM,4,0,6,0,0,1,1,2,1,0,House Type 45,Unfurnished,6680.0,Renovated,South,Groundwater,False,5.3,city
+Kelapa Gading,Jakarta Utara,102.0,234.0,547.0,SHM,1,0,1,0,0,0,1,4,1,0,House Type 300,Unfurnished,1920.0,Renovated,North,Groundwater,False,5.1,city
+Babakan Madang,Kabupaten Bogor,130.0,90.0,3400.0,SHM,3,0,1,0,0,0,1,3,1,0,House Type 120,Semi Furnished,3500.0,New,North,PAM/PDAM,False,7.5,regency
+Tanjung Priok,Jakarta Utara,89.0,194.0,963.0,SHM,1,0,1,0,0,0,1,4,1,0,House Type 200,Unfurnished,2020.0,Renovated,Northwest,Groundwater,False,6.0,city
+Kelapa Gading,Jakarta Utara,240.0,720.0,4400.0,SHM,4,1,1,1,3,0,1,3,1,0,House Type >300,Unfurnished,3500.0,New,West,PAM/PDAM,False,13.5,city
+Serpong,Tangerang Selatan,50.0,68.0,9200.0,SHM,3,1,3,1,2,2,2,3,1,0,House Type 70,Semi Furnished,4400.0,New,East,Groundwater,False,7.5,city
+Gambir,Jakarta Pusat,197.0,170.0,1490.0,Other,2,0,1,0,0,0,1,4,1,0,House Type 200,Furnished,3500.0,New,North,Groundwater,False,4.0,city
+Tanjung Priok,Jakarta Utara,189.0,80.0,4500.0,HGB,3,1,2,1,2,0,1,6,1,0,House Type 120,Unfurnished,3500.0,New,South,Groundwater,False,12.5,city
+Kelapa Gading,Jakarta Utara,187.0,300.0,5000.0,SHM,3,2,2,1,2,0,1,4,1,0,House Type 300,Semi Furnished,3500.0,Need Renovation,South,Groundwater,False,5.0,city
+Grogol Petamburan,Jakarta Barat,249.0,415.0,800.0,Other,1,1,0,1,0,0,1,4,1,0,House Type >300,Semi Furnished,1580.0,Well Maintained,Northeast,Groundwater,False,5.8,city
+Kelapa Dua,Kabupaten Tangerang,90.0,90.0,6200.0,SHM,3,0,2,0,0,0,1,2,1,0,House Type 120,Semi Furnished,16500.0,Renovated,North,Groundwater,False,5.0,regency
+Tanjung Priok,Jakarta Utara,90.0,165.0,1600.0,Other,2,0,1,0,0,0,1,3,1,0,House Type 200,Unfurnished,2200.0,New,Southwest,Groundwater,False,4.0,city
+Cilincing,Jakarta Utara,45.0,80.0,4000.0,SHM,2,1,2,1,3,1,1,2,1,0,House Type 120,Furnished,5500.0,Renovated,North,Groundwater,False,7.5,city
+Kelapa Dua,Kabupaten Tangerang,96.0,120.0,4600.0,SHM,3,1,2,1,2,2,1,3,1,0,House Type 120,Unfurnished,4400.0,Renovated,Northwest,Groundwater,False,12.5,regency
+Cimanggis,Depok,1040.0,600.0,2200.0,SHM,1,1,1,1,0,0,1,5,1,0,House Type >300,Unfurnished,2200.0,Well Maintained,South,Groundwater,False,5.2,city
+Cempaka Putih,Jakarta Pusat,337.0,300.0,6000.0,HGB,4,0,2,0,0,0,1,4,1,0,House Type 300,Unfurnished,2200.0,New,North,Groundwater,False,5.5,city
+Tanjung Priok,Jakarta Utara,140.0,300.0,4900.0,SHM,3,1,2,1,3,1,1,3,1,0,House Type 300,Semi Furnished,4400.0,Need Renovation,South,PAM/PDAM,False,4.5,city
+Cakung,Jakarta Timur,98.0,115.0,3700.0,Other,3,1,2,0,2,0,1,3,1,0,House Type 120,Semi Furnished,3500.0,Renovated,South,Groundwater,False,4.5,city
+Pondok Aren,Tangerang Selatan,144.0,220.0,3100.0,SHM,3,0,1,0,2,0,1,4,1,0,House Type 300,Semi Furnished,2200.0,New,Northeast,PAM/PDAM,True,4.5,city
+Tanjung Priok,Jakarta Utara,90.0,160.0,2500.0,SHM,3,0,1,0,2.5,0,1,2,1,0,House Type 200,Unfurnished,2200.0,New,South,PAM/PDAM,False,5.0,city
+Kelapa Gading,Jakarta Utara,316.0,500.0,14500.0,SHM,4,2,3,1,2,0,1,5,1,0,House Type >300,Furnished,11000.0,Renovated,North,Groundwater,False,8.0,city
+Kelapa Gading,Jakarta Utara,90.0,120.0,2300.0,SHM,2,0,1,0,1,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,East,PAM/PDAM,False,5.0,city
+Kelapa Gading,Jakarta Utara,75.0,90.0,1870.0,SHM,2,0,1,0,2,0,1,3,1,0,House Type 120,Unfurnished,3300.0,Renovated,East,Groundwater,False,5.0,city
+Cilincing,Jakarta Utara,75.0,80.0,1300.0,SHM,2,0,0,0,2,0,1,2,1,0,House Type 120,Unfurnished,2200.0,New,South,Groundwater,False,4.5,city
+Koja,Jakarta Utara,47.0,94.0,750.0,SHM,2,0,0,0,0,0,1,3,1,0,House Type 120,Unfurnished,1300.0,Renovated,Northeast,PAM/PDAM,False,4.7,city
+Medan Satria,Kota Bekasi,150.0,255.0,2500.0,SHM,4,2,1,0,1.5,0,1,3,1,0,House Type 300,Semi Furnished,3500.0,Renovated,Northeast,PAM/PDAM,False,5.5,city
+Cileungsi,Kabupaten Bogor,189.0,250.0,1950.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 300,Unfurnished,2200.0,Well Maintained,Southeast,PAM/PDAM,False,5.2,regency
+Penjaringan,Jakarta Utara,120.0,220.0,4700.0,Other,4,1,1,0,2,0,1,4,1,0,House Type 300,Unfurnished,4400.0,New,Northeast,PAM/PDAM,False,5.0,city
+Kelapa Gading,Jakarta Utara,65.0,100.0,1950.0,SHM,2,1,1,0,2,0,1,2,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northeast,Groundwater,False,5.0,city
+Cakung,Jakarta Timur,120.0,90.0,2200.0,SHM,2,1,2,0,2,0,1,3,1,0,House Type 120,Unfurnished,2200.0,Renovated,Northeast,PAM/PDAM,False,5.0,city
+Cakung,Jakarta Timur,148.0,200.0,2700.0,SHM,3,2,2,2,3,0,1,4,1,0,House Type 200,Unfurnished,2200.0,Well Maintained,Northeast,PAM/PDAM,False,5.0,city
+Cakung,Jakarta Timur,90.0,50.0,1400.0,SHM,1,1,2,1,2,0,1,4,1,0,House Type 54,Semi Furnished,2200.0,Renovated,North,Groundwater,False,4.5,city
+Cakung,Jakarta Timur,150.0,121.0,3150.0,Other,3,1,2,1,2,0,1,4,1,0,House Type 200,Unfurnished,3560.0,New,North,Groundwater,False,5.0,city
+Cakung,Jakarta Timur,98.0,115.0,3070.0,SHM,4,1,2,1,2.5,0,1,3,1,0,House Type 120,Furnished,3160.0,New,North,Groundwater,False,5.0,city
+Cakung,Jakarta Timur,148.0,200.0,2650.0,SHM,3,1,3,1,2,0,1,4,1,0,House Type 200,Furnished,2680.0,Renovated,Northwest,Groundwater,False,5.0,city
+Kelapa Gading,Jakarta Utara,102.0,144.0,2600.0,SHM,2,1,2,1,2,0,1,4,1,0,House Type 200,Furnished,3820.0,Renovated,Northeast,Groundwater,False,5.0,city
+Palmerah,Jakarta Barat,122.0,400.0,5900.0,SHM,11+,1,0,0,3.5,0,1,9+,1,0,House Type >300,Furnished,10780.0,New,East,Groundwater,False,6.0,city
+Palmerah,Jakarta Barat,400.0,122.0,5900.0,SHM,11+,1,0,0,3.5,0,1,9+,1,0,House Type 200,Furnished,6540.0,New,East,Groundwater,False,6.0,city
+Cakung,Jakarta Timur,120.0,140.0,2600.0,SHM,3,1,2,1,2,0,1,3,1,0,House Type 200,Furnished,3820.0,Renovated,Northeast,Groundwater,False,5.0,city
+Limo,Depok,102.0,70.0,1150.0,SHM,2,0,0,0,1,0,1,2,1,0,House Type 70,Unfurnished,2420.0,Renovated,Northeast,Groundwater,False,5.4,city
+Tanah Abang,Jakarta Pusat,60.0,28.0,168.0,SHM,1,0,1,0,1,0,1,2,1,0,House Type 36,Unfurnished,1300.0,Renovated,North,Groundwater,False,4.7,city
