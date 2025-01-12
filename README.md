@@ -60,19 +60,19 @@ This dataset, extracted from [Rumah123.com](https://www.rumah123.com/?utm_source
 
 
 ## **Key Findings 🔍**
-1. **Price Variation**
+1. **Price Variation** <br>
    Property prices in Jabodetabek exhibit a wide range, with a median price around Rp2,500,000,000. The most popular price range is between Rp1,250,000,000,00 and Rp1,500,000,000,00.
-3. **Physical Factors**
+3. **Physical Factors** <br>
    Physical attributes such as building area, land size, electrical capacity, number of bedrooms, bathrooms, maid's rooms, carports, property type, property condition, furniture, and city location have a significant correlation with property prices.
-5. **Prime Locations**
+5. **Prime Locations** <br>
    South Jakarta has the highest property selling prices. Areas with high property prices are generally located in strategic areas in the city center. These locations have extensive access to various facilities and transportation, making the selling price of houses there tend to be more expensive.
-7. **Land Size and Price**
+7. **Land Size and Price** <br>
    In city-center areas, land size has a strong positive correlation with price, indicating that land is a primary determinant of value. However, in suburban areas, the relationship between land size and price is less pronounced, as location and surrounding amenities play a more significant role.
-9. **Building Size and Price**
+9. **Building Size and Price** <br>
     While property prices generally increase with building size, certain city-center areas have higher prices even for properties of the same size, suggesting that other factors like public facilities, area reputation, and accessibility also influence property value.
-11. **Standard Layouts**
+11. **Standard Layouts** <br>
     Most properties in the region have a standard layout with 3 bedrooms and 3 bathrooms. Additional features like maid's rooms or garages are less common.
-13. **Property Type and Price**
+13. **Property Type and Price** <br>
     Property type is significantly correlated with price, larger properties generally command higher prices. However, other factors also influence pricing.
 
 ## **Conclusion 💡**
@@ -81,19 +81,19 @@ The pricing of properties in Jabodetabek is influenced by a complex interplay of
 ## **Business Recommendations 💼**
 Based on the property market analysis in Jabodetabek, the following strategic business recommendations can be made:
 
-1. **Develop Mid-Range Properties**
+1. **Develop Mid-Range Properties** <br>
    Focus on building homes with 3 bedrooms and 3 bathrooms, as this is the most popular configuration. Target a price range of Rp1,250,000,000,00 to Rp1,500,000,000,00 to cater to the largest market segment. Prioritize efficient designs while maintaining modern comfort standards.
-3. **Location Strategy**
+3. **Location Strategy** <br>
    Identify suburban areas with growth potential, especially those that will gain access to new transportation or public facilities. Invest in locations with planned infrastructure developments to anticipate property value increases. Consider mixed-use developments in strategic areas to maximize land value.
-5. **Product Differentiation**
+5. **Product Differentiation** <br>
    Add differentiating features such as smart home systems or eco-friendly designs. Develop cluster concepts with attractive communal facilities. Offer customization options for interiors and layouts to meet buyer needs.
 
 ## **Further Improvement 🚀**
-1. **Expand Data and Analysis**
+1. **Expand Data and Analysis** <br>
    Incorporate new variables such as developer name, mortgage options, smart home features, and accessibility to public facilities. Analyze the correlation between these factors and property prices.
-3. **Broaden Geographic Scope**
+3. **Broaden Geographic Scope** <br>
    Extend the analysis to other major Indonesian cities like Surabaya, Bandung, or Medan. Compare property prices across cities to identify broader market trends and regional factors influencing prices.
-5. **Utilize Multiple Data Sources**
+5. **Utilize Multiple Data Sources** <br>
    Combine data from various sources to create a richer dataset and conduct more in-depth analyses.
 
 ## **Author 👩‍💻**
