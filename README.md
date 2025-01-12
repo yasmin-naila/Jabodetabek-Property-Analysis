@@ -39,9 +39,9 @@ This dataset, extracted from [Rumah123.com](https://www.rumah123.com/?utm_source
 | voltage_watt                | Electrical voltage capacity in watts. (Numeric)                       |
 | maid_bedroom                | Number of maid's bedrooms. (Numeric)                                  |
 | maid_bathroom               | Number of maid's bathrooms. (Numeric)                                 |
-| kitchen                     | Presence of a kitchen. (Binary/Numeric: 0 for no, 1 for yes)          |
-| dining_room                 | Presence of a dining room. (Binary/Numeric: 0 for no, 1 for yes)      |
-| living_room                 | Presence of a living room. (Binary/Numeric: 0 for no, 1 for yes)      |
+| kitchen                     | Number of kitchen in the property. (Numeric)                          |
+| dining_room                 | Number of dining room in the property. (Numeric)                      |
+| living_room                 | Number of living room in the property. (Numeric)                      |
 | furniture                   | Furniture status (e.g., Furnished, Unfurnished, Semi-Furnished).      |
 | building_material           | Building materials used for the property.                             |
 | floor_material              | Flooring materials used for the property.                             |
