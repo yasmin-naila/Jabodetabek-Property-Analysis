@@ -5,7 +5,7 @@ ___
 
 Thinking about buying or selling a home in the dynamic Jabodetabek area? 🌆✨ Make informed decisions with this in-depth property analysis! 🧠📊
 
-This research aims to provide a comprehensive analysis of property data in the Jabodetabek region over two weeks, with the goal of building an interactive dashboard that delivers relevant insights for various stakeholders. The analysis includes measuring price distribution, exploring the correlation between home features and price, and identifying price trends across different areas. It also compares property prices based on facilities, property types, and furniture conditions.
+This analysis aims to provide a comprehensive analysis of property data in the Jabodetabek region over two weeks, with the goal of building an interactive dashboard that delivers relevant insights for various stakeholders. The analysis includes measuring price distribution, exploring the correlation between home features and price, and identifying price trends across different areas. It also compares property prices based on facilities, property types, and furniture conditions.
 
 💡 Who Can Benefit?
 - 🏘️ Real Estate Agents: Set competitive, market-optimized prices by understanding trends and correlations.
