@@ -58,7 +58,7 @@ This dataset, extracted from [Rumah123.com](https://www.rumah123.com/?utm_source
 | ad_type                     | Type of advertisement (e.g., Dijual, Dijual Cepat).                   |
 | ad_id                       | Unique identifier for the property listing.                           |
 
-##**Key objectives 🎯**
+## **Key objectives 🎯**
 1. Analyzing price distributions to understand the market landscape.
 2. Examining the correlation between property features (such as size, type, and amenities) and their impact on pricing.
 3. Identifying regional pricing trends and comparing property prices based on factors like facilities, property type, and furniture condition.
